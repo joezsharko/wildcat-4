@@ -1,14 +1,9 @@
 #!/usr/bin/env python3
 """
 One full scrape run: fetch inventory -> parse vehicles -> save to DB -> export JSON.
-
-Usage:
-    python3 run_scrape.py
-
-Intended to be triggered by cron on a schedule, e.g. every 6 hours:
-    0 */6 * * * cd /path/to/mazda_scraper && /usr/bin/python3 run_scrape.py >> scrape.log 2>&1
 """
 
+import os
 import sys
 import logging
 from datetime import datetime
@@ -33,11 +28,18 @@ def main():
         log.error(f"Fetch failed: {e}")
         sys.exit(1)
 
+    # Always save what we actually fetched, so we can debug parsing issues
+    # even when zero vehicles are found.
+    os.makedirs("data", exist_ok=True)
+    with open("data/debug_latest_fetch.txt", "w") as f:
+        f.write(page_text)
+
     listings = parse_inventory_text(page_text)
     if not listings:
-        log.warning("No vehicles parsed — site structure may have changed, "
-                     "or the site returned an error/blocked page. Check "
-                     "latest_fetch.html isn't needed to debug this.")
+        log.warning(
+            "No vehicles parsed — check data/debug_latest_fetch.txt "
+            "(committed even on failure) to see what was actually fetched."
+        )
         sys.exit(1)
 
     count = save_snapshot(listings)
