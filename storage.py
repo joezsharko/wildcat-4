@@ -6,29 +6,35 @@ from datetime import datetime, timezone
 
 DB_PATH = "data/prices.db"
 
-SCHEMA = """
+# Base table -- created fresh if the DB doesn't exist yet.
+BASE_SCHEMA = """
 CREATE TABLE IF NOT EXISTS price_snapshots (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     scraped_at TEXT NOT NULL,
-
-    -- Dealership / location context (constant per dealer, repeated per row
-    -- for simplicity -- fine at this scale, easy to query/filter/sort on)
-    dealership TEXT NOT NULL,
-    dealership_city TEXT,
-    dealership_state TEXT,
-    dealership_zip TEXT,
-
-    -- Vehicle data
-    make TEXT,
-    year TEXT,
-    model TEXT,
-    vin TEXT NOT NULL,
-    stock_number TEXT,
-    exterior_color TEXT,
-    interior_color TEXT,
-    msrp INTEGER,
-    your_price INTEGER
+    vin TEXT NOT NULL
 );
+"""
+
+# Every column the app currently expects, beyond the base ones above.
+# Adding a new field later just means adding one line here -- init_db()
+# will ALTER TABLE to add it to any existing database automatically,
+# so old data is never wiped out by a schema change.
+REQUIRED_COLUMNS = {
+    "dealership": "TEXT",
+    "dealership_city": "TEXT",
+    "dealership_state": "TEXT",
+    "dealership_zip": "TEXT",
+    "make": "TEXT",
+    "year": "TEXT",
+    "model": "TEXT",
+    "stock_number": "TEXT",
+    "exterior_color": "TEXT",
+    "interior_color": "TEXT",
+    "msrp": "INTEGER",
+    "your_price": "INTEGER",
+}
+
+INDEXES = """
 CREATE INDEX IF NOT EXISTS idx_vin ON price_snapshots(vin);
 CREATE INDEX IF NOT EXISTS idx_scraped_at ON price_snapshots(scraped_at);
 CREATE INDEX IF NOT EXISTS idx_dealership ON price_snapshots(dealership);
@@ -39,7 +45,16 @@ CREATE INDEX IF NOT EXISTS idx_zip ON price_snapshots(dealership_zip);
 def init_db(db_path: str = DB_PATH):
     os.makedirs(os.path.dirname(db_path), exist_ok=True)
     conn = sqlite3.connect(db_path)
-    conn.executescript(SCHEMA)
+    conn.executescript(BASE_SCHEMA)
+
+    # Migrate: add any columns the current code expects but this database
+    # (possibly created by an older version of this script) doesn't have yet.
+    existing_cols = {row[1] for row in conn.execute("PRAGMA table_info(price_snapshots)")}
+    for col, col_type in REQUIRED_COLUMNS.items():
+        if col not in existing_cols:
+            conn.execute(f"ALTER TABLE price_snapshots ADD COLUMN {col} {col_type}")
+
+    conn.executescript(INDEXES)
     conn.commit()
     return conn
 
