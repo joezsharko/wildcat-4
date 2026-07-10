@@ -171,7 +171,28 @@ TEMPLATE = """<!DOCTYPE html>
         <thead>
           <tr>
             <th>Dealership</th><th>Zip</th><th>Year</th><th>Make</th><th>Model</th>
-            <th>VIN</th><th>Stock #</th><th>MSRP</th><th>Your Price</th><th>Change</th>
+            <th>VIN</th><th>Stock #</th><th>MSRP</th><th>Your Price</th>
+            <th>Change</th><th>Total Chg.</th><th>Days on Site</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <h2>Recently Removed From Site</h2>
+    <p style="color:var(--ink-soft); font-size:13px; margin-top:-8px;">
+      These VINs were previously listed and are no longer showing up on the dealer's
+      site. This does <strong>not</strong> necessarily mean sold -- just that it's no
+      longer visible on the website.
+    </p>
+    <div class="table-wrap">
+      <table id="removedTable">
+        <thead>
+          <tr>
+            <th>Dealership</th><th>Year</th><th>Model</th><th>VIN</th>
+            <th>Last Known Price</th><th>Listed For</th><th>Removed</th>
           </tr>
         </thead>
         <tbody></tbody>
@@ -186,11 +207,24 @@ TEMPLATE = """<!DOCTYPE html>
 
 <script>
 const RAW_DATA = __DATA_JSON__;
+const TRACKING_DATA = __TRACKING_JSON__;
 
 function fmtMoney(n) {
   if (n === null || n === undefined) return "—";
   return "$" + n.toLocaleString();
 }
+
+function fmtDays(days) {
+  if (days === null || days === undefined) return "—";
+  return days === 1 ? "1 day" : `${days} days`;
+}
+
+// Lookup: "<dealership>||<vin>" -> tracking row (first_seen_at, last_seen_at,
+// removed_at, status)
+const trackingByKey = {};
+TRACKING_DATA.forEach(t => {
+  trackingByKey[`${t.dealership}||${t.vin}`] = t;
+});
 
 // Group rows by vin (price history per vehicle) and by dealership
 // (each dealer is scraped independently, so "latest snapshot" is computed
@@ -273,6 +307,32 @@ latestRows
       else if (diff > 0) deltaHtml = `<span class="delta-up">▲ ${fmtMoney(diff)}</span>`;
       else deltaHtml = '<span class="delta-none">no change</span>';
     }
+
+    // Total change: current price vs. the very first price we ever
+    // recorded for this VIN (byVin is chronologically ordered since the
+    // SQL export is ORDER BY scraped_at ASC).
+    let totalChgHtml = '<span class="delta-none">—</span>';
+    const history = byVin[r.vin];
+    if (history && history.length) {
+      const firstPrice = history[0].your_price;
+      if (firstPrice !== null && r.your_price !== null && firstPrice !== r.your_price) {
+        const totalDiff = r.your_price - firstPrice;
+        if (totalDiff < 0) totalChgHtml = `<span class="delta-down">▼ ${fmtMoney(Math.abs(totalDiff))}</span>`;
+        else totalChgHtml = `<span class="delta-up">▲ ${fmtMoney(totalDiff)}</span>`;
+      } else if (firstPrice !== null && firstPrice === r.your_price) {
+        totalChgHtml = '<span class="delta-none">no change</span>';
+      }
+    }
+
+    // Days on site: from first_seen_at (tracking table) to now/latest scrape.
+    let daysHtml = "—";
+    const tracking = trackingByKey[`${r.dealership}||${r.vin}`];
+    const firstSeenAt = tracking ? tracking.first_seen_at : (history && history[0] ? history[0].scraped_at : null);
+    if (firstSeenAt) {
+      const days = Math.floor((new Date(r.scraped_at) - new Date(firstSeenAt)) / 86400000);
+      daysHtml = fmtDays(Math.max(days, 0));
+    }
+
     const tr = document.createElement('tr');
     tr.innerHTML = `
       <td>${r.dealership || ''}</td>
@@ -285,9 +345,39 @@ latestRows
       <td class="price">${fmtMoney(r.msrp)}</td>
       <td class="price">${fmtMoney(r.your_price)}</td>
       <td>${deltaHtml}</td>
+      <td>${totalChgHtml}</td>
+      <td>${daysHtml}</td>
     `;
     tbody.appendChild(tr);
   });
+
+// ---- Recently Removed table ----
+const removedTbody = document.querySelector('#removedTable tbody');
+const removedEntries = TRACKING_DATA
+  .filter(t => t.status === 'removed')
+  .sort((a, b) => new Date(b.removed_at) - new Date(a.removed_at));
+
+removedEntries.forEach(t => {
+  const history = (byVin[t.vin] || []).filter(r => r.dealership === t.dealership);
+  const lastKnown = history.length ? history[history.length - 1] : null;
+
+  const listedDays = Math.max(
+    Math.floor((new Date(t.removed_at) - new Date(t.first_seen_at)) / 86400000),
+    0
+  );
+
+  const tr = document.createElement('tr');
+  tr.innerHTML = `
+    <td>${t.dealership}</td>
+    <td>${lastKnown ? lastKnown.year : '—'}</td>
+    <td>${lastKnown ? lastKnown.model : '—'}</td>
+    <td>${t.vin}</td>
+    <td class="price">${lastKnown ? fmtMoney(lastKnown.your_price) : '—'}</td>
+    <td>${fmtDays(listedDays)}</td>
+    <td>${new Date(t.removed_at).toLocaleDateString()}</td>
+  `;
+  removedTbody.appendChild(tr);
+});
 
 // ---- Model filter ----
 const models = [...new Set(RAW_DATA.map(r => r.model))].sort();
@@ -357,7 +447,7 @@ def generate(db_path: str = DB_PATH, out_path: str = OUT_PATH, chartjs_path: str
 
     conn = sqlite3.connect(db_path)
     conn.row_factory = sqlite3.Row
-    # Table may not exist yet on a brand-new DB (first-ever run)
+    # Tables may not exist yet on a brand-new DB (first-ever run)
     conn.execute("""
         CREATE TABLE IF NOT EXISTS price_snapshots (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -372,13 +462,27 @@ def generate(db_path: str = DB_PATH, out_path: str = OUT_PATH, chartjs_path: str
             your_price INTEGER
         )
     """)
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS vehicle_tracking (
+            dealership TEXT NOT NULL,
+            vin TEXT NOT NULL,
+            first_seen_at TEXT NOT NULL,
+            last_seen_at TEXT NOT NULL,
+            removed_at TEXT,
+            status TEXT NOT NULL DEFAULT 'active',
+            PRIMARY KEY (dealership, vin)
+        )
+    """)
     rows = conn.execute(
         "SELECT * FROM price_snapshots ORDER BY scraped_at ASC"
     ).fetchall()
+    tracking_rows = conn.execute("SELECT * FROM vehicle_tracking").fetchall()
     conn.close()
 
     data = [dict(r) for r in rows]
+    tracking_data = [dict(r) for r in tracking_rows]
     html = TEMPLATE.replace("__DATA_JSON__", json.dumps(data))
+    html = html.replace("__TRACKING_JSON__", json.dumps(tracking_data))
 
     with open(chartjs_path) as f:
         chartjs_source = f.read()

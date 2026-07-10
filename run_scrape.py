@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
 Full scrape run across every registered dealer:
-  fetch -> parse -> save to DB -> export JSON -> rebuild dashboard.
+  fetch -> parse -> save price snapshot -> update vehicle tracking
+  (first/last seen, removed) -> export JSON -> rebuild dashboard.
 
 One dealer failing (site down, structure changed) does not stop the
 others -- each dealer is fetched/parsed independently and errors are
@@ -11,10 +12,10 @@ logged, not raised.
 import os
 import sys
 import logging
-from datetime import datetime
+from datetime import datetime, timezone
 
 from dealers.registry import DEALERS
-from storage import save_snapshot, export_json
+from storage import save_snapshot, update_vehicle_tracking, export_json, export_tracking_json
 from generate_dashboard import generate as generate_dashboard
 
 logging.basicConfig(
@@ -49,7 +50,14 @@ def scrape_one_dealer(dealer: dict) -> int:
         )
         return 0
 
-    count = save_snapshot(listings, dealer["info"])
+    # Shared timestamp so the price snapshot and the tracking update for
+    # this run agree exactly on "when".
+    scraped_at = datetime.now(timezone.utc).isoformat()
+
+    count = save_snapshot(listings, dealer["info"], scraped_at=scraped_at)
+    update_vehicle_tracking(
+        dealer["info"]["name"], [v.vin for v in listings], scraped_at
+    )
     log.info(f"[{slug}] Saved {count} vehicle price records")
     return count
 
@@ -69,6 +77,7 @@ def main():
         sys.exit(1)
 
     export_json()
+    export_tracking_json()
     dashboard_path = generate_dashboard()
     log.info(f"Done. {total} total records saved at {datetime.now().isoformat()}")
     log.info(f"Dashboard updated: {dashboard_path}")
