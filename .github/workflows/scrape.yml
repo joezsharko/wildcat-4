@@ -2,13 +2,15 @@ name: Scrape prices and update dashboard
 
 on:
   schedule:
+    # Runs at minute 0 every 6 hours (UTC). Adjust as you like:
+    # https://crontab.guru is handy for building the expression.
     - cron: "0 */6 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
   push:
-    branches: [main]
+    branches: [main]      # also run on pushes, so first setup produces a dashboard right away
 
 permissions:
-  contents: write
+  contents: write   # needed so the workflow can commit updated data/dashboard back
 
 jobs:
   scrape:
@@ -25,8 +27,14 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Install Playwright browser
+        run: playwright install --with-deps chromium
+
       - name: Run scrape
         run: python3 run_scrape.py
+        # DealerInspire sites (Playwright-driven) take noticeably longer
+        # than the plain-HTTP dealers -- give the whole job room to breathe.
+        timeout-minutes: 30
 
       - name: Commit updated data and dashboard
         if: always()
@@ -35,5 +43,4 @@ jobs:
           git config user.name "price-tracker-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/ docs/
-          git diff --quiet --cached || git commit -m "Update prices [automated]"
-          git push
+          git

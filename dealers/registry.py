@@ -16,6 +16,22 @@ from dealers.castle_mazda import config as castle_config
 from dealers.castle_mazda import fetcher as castle_fetcher
 from dealers.castle_mazda import parser as castle_parser
 
+from dealers.napleton_palatine_mazda import config as palatine_config
+from dealers.napleton_palatine_mazda import fetcher as palatine_fetcher
+from dealers.napleton_palatine_mazda import parser as palatine_parser
+
+from dealers.napleton_schaumburg_mazda import config as schaumburg_config
+from dealers.napleton_schaumburg_mazda import fetcher as schaumburg_fetcher
+from dealers.napleton_schaumburg_mazda import parser as schaumburg_parser
+
+from dealers.napleton_countryside_mazda import config as countryside_config
+from dealers.napleton_countryside_mazda import fetcher as countryside_fetcher
+from dealers.napleton_countryside_mazda import parser as countryside_parser
+
+from dealers.napleton_oaklawn_mazda import config as oaklawn_config
+from dealers.napleton_oaklawn_mazda import fetcher as oaklawn_fetcher
+from dealers.napleton_oaklawn_mazda import parser as oaklawn_parser
+
 DEALERS = [
     {
         "slug": "mcgrath_mazda",
@@ -28,6 +44,30 @@ DEALERS = [
         "info": castle_config.DEALER_INFO,
         "fetch_all_pages": castle_fetcher.fetch_all_pages,
         "parse_inventory_text": castle_parser.parse_inventory_text,
+    },
+    {
+        "slug": "napleton_palatine_mazda",
+        "info": palatine_config.DEALER_INFO,
+        "fetch_all_pages": palatine_fetcher.fetch_all_pages,
+        "parse_inventory_text": palatine_parser.parse_inventory_text,
+    },
+    {
+        "slug": "napleton_schaumburg_mazda",
+        "info": schaumburg_config.DEALER_INFO,
+        "fetch_all_pages": schaumburg_fetcher.fetch_all_pages,
+        "parse_inventory_text": schaumburg_parser.parse_inventory_text,
+    },
+    {
+        "slug": "napleton_countryside_mazda",
+        "info": countryside_config.DEALER_INFO,
+        "fetch_all_pages": countryside_fetcher.fetch_all_pages,
+        "parse_inventory_text": countryside_parser.parse_inventory_text,
+    },
+    {
+        "slug": "napleton_oaklawn_mazda",
+        "info": oaklawn_config.DEALER_INFO,
+        "fetch_all_pages": oaklawn_fetcher.fetch_all_pages,
+        "parse_inventory_text": oaklawn_parser.parse_inventory_text,
     },
     # Add the next dealer here, e.g.:
     # {
