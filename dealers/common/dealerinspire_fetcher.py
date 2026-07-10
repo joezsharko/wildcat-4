@@ -18,6 +18,7 @@ import time
 from playwright.sync_api import sync_playwright
 
 REQUEST_DELAY_SECONDS = 2
+PAGE_MARKER_RE = re.compile(r"Page (\d+) of (\d+)")
 
 
 def make_fetcher(inventory_url: str, max_pages: int = 40):
@@ -25,8 +26,13 @@ def make_fetcher(inventory_url: str, max_pages: int = 40):
     Returns a fetch_all_pages() function bound to the given dealer's
     inventory URL. DealerInspire sites use one of two pagination styles:
     a "Load More" button that appends more results to the same page, or
-    numbered pages with a "Next" link. This handles both -- accumulating
-    text across every page/batch until neither pattern advances further.
+    numbered pages with a "Next" link showing "Page X of Y". This handles
+    both -- accumulating text across every page/batch.
+
+    For the numbered-page style, this polls for the "Page X of Y" marker
+    to actually change after clicking Next, rather than waiting for
+    network-idle -- background chat widgets/analytics can keep a page
+    "busy" indefinitely, making network-idle an unreliable signal here.
     """
 
     def fetch_all_pages() -> str:
@@ -38,11 +44,10 @@ def make_fetcher(inventory_url: str, max_pages: int = 40):
                     "(KHTML, like Gecko) Chrome/125.0 Safari/537.36"
                 )
             )
-            page.goto(inventory_url, wait_until="networkidle", timeout=60000)
-            time.sleep(3)  # let any post-load XHR-driven rendering settle
+            page.goto(inventory_url, wait_until="domcontentloaded", timeout=60000)
+            time.sleep(4)  # let post-load XHR-driven rendering settle
 
             all_text = [page.inner_text("body")]
-            seen_page_markers = set()
 
             for _ in range(max_pages):
                 advanced = False
@@ -62,30 +67,56 @@ def make_fetcher(inventory_url: str, max_pages: int = 40):
                 if advanced:
                     continue
 
-                # Style 2: numbered pages with a "Next" link. Guard against
-                # an infinite loop by tracking which "Page X of Y" marker
-                # we've already seen -- if it repeats, we've reached the end.
-                next_locator = page.get_by_text("Next", exact=False)
-                if next_locator.count() > 0:
-                    page_marker_match = re.search(r"Page \d+ of \d+", all_text[-1])
-                    marker = page_marker_match.group(0) if page_marker_match else None
-                    if marker:
-                        seen_page_markers.add(marker)
-                    try:
-                        next_locator.first.click(timeout=3000)
-                        time.sleep(REQUEST_DELAY_SECONDS)
-                        page.wait_for_load_state("networkidle", timeout=15000)
-                        new_text = page.inner_text("body")
-                        new_marker_match = re.search(r"Page \d+ of \d+", new_text)
-                        new_marker = new_marker_match.group(0) if new_marker_match else None
-                        if new_marker and new_marker in seen_page_markers:
-                            break  # looped back -- we've reached the last page
-                        all_text.append(new_text)
-                        advanced = True
-                    except Exception:
-                        pass
+                # Style 2: numbered pages with a "Next" control.
+                current_text = all_text[-1]
+                marker_match = PAGE_MARKER_RE.search(current_text)
+                if not marker_match:
+                    break  # no pagination marker at all -- single page site
 
-                if not advanced:
+                current_page_num = int(marker_match.group(1))
+                total_pages = int(marker_match.group(2))
+                if current_page_num >= total_pages:
+                    break  # already on the last page
+
+                # Try a few ways of locating the real "Next" control, since
+                # a plain text match can accidentally hit an unrelated
+                # "Next" elsewhere on the page (e.g. an image carousel).
+                next_locator = None
+                for get_locator in (
+                    lambda: page.get_by_role("link", name="Next", exact=False),
+                    lambda: page.get_by_role("button", name="Next", exact=False),
+                    lambda: page.get_by_text("Next", exact=False),
+                ):
+                    try:
+                        loc = get_locator()
+                        if loc.count() > 0:
+                            next_locator = loc.first
+                            break
+                    except Exception:
+                        continue
+
+                if next_locator is None:
+                    break
+
+                try:
+                    next_locator.scroll_into_view_if_needed(timeout=5000)
+                    next_locator.click(timeout=5000)
+                except Exception:
+                    break
+
+                # Poll for the page marker to actually change (up to ~15s)
+                # instead of trusting network-idle.
+                changed = False
+                for _ in range(30):
+                    time.sleep(0.5)
+                    new_text = page.inner_text("body")
+                    new_marker_match = PAGE_MARKER_RE.search(new_text)
+                    if new_marker_match and int(new_marker_match.group(1)) != current_page_num:
+                        all_text.append(new_text)
+                        changed = True
+                        break
+
+                if not changed:
                     break
 
             browser.close()
