@@ -31,6 +31,7 @@ jobs:
       - name: Commit updated data and dashboard
         if: always()
         run: |
+          mkdir -p data docs
           git config user.name "price-tracker-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/ docs/
