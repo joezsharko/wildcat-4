@@ -12,12 +12,22 @@ from dealers.mcgrath_mazda import config as mcgrath_config
 from dealers.mcgrath_mazda import fetcher as mcgrath_fetcher
 from dealers.mcgrath_mazda import parser as mcgrath_parser
 
+from dealers.castle_mazda import config as castle_config
+from dealers.castle_mazda import fetcher as castle_fetcher
+from dealers.castle_mazda import parser as castle_parser
+
 DEALERS = [
     {
         "slug": "mcgrath_mazda",
         "info": mcgrath_config.DEALER_INFO,
         "fetch_all_pages": mcgrath_fetcher.fetch_all_pages,
         "parse_inventory_text": mcgrath_parser.parse_inventory_text,
+    },
+    {
+        "slug": "castle_mazda",
+        "info": castle_config.DEALER_INFO,
+        "fetch_all_pages": castle_fetcher.fetch_all_pages,
+        "parse_inventory_text": castle_parser.parse_inventory_text,
     },
     # Add the next dealer here, e.g.:
     # {
