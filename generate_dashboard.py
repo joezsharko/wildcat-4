@@ -203,8 +203,13 @@ RAW_DATA.forEach(r => {
   if (!byVin[r.vin]) byVin[r.vin] = [];
   byVin[r.vin].push(r);
 
-  if (!byDealer[r.dealership]) byDealer[r.dealership] = [];
-  byDealer[r.dealership].push(r);
+  // Rows from before dealership tracking was added have no dealership
+  // value -- their price history still counts (above), but they shouldn't
+  // form their own phantom "unnamed dealer" group in the inventory table.
+  if (r.dealership) {
+    if (!byDealer[r.dealership]) byDealer[r.dealership] = [];
+    byDealer[r.dealership].push(r);
+  }
 });
 
 const dealerships = Object.keys(byDealer).sort();
