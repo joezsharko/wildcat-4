@@ -145,13 +145,13 @@ TEMPLATE = """<!DOCTYPE html>
 <header>
   <p class="eyebrow">Automotive Price Tracker</p>
   <h1>New Inventory Dashboard</h1>
-  <p class="sub">Tracking price history across dealerships over time. Currently tracking: McGrath City Mazda. Last updated: <span id="lastUpdated"></span></p>
+  <p class="sub">Tracking price history across dealerships over time. Currently tracking: <span id="dealerList"></span>. Last updated: <span id="lastUpdated"></span></p>
 </header>
 
 <main>
   <div class="stat-row">
     <div class="stat"><div class="label">Vehicles Tracked</div><div class="value" id="statVehicles">—</div></div>
-    <div class="stat"><div class="label">Snapshots Taken</div><div class="value" id="statSnapshots">—</div></div>
+    <div class="stat"><div class="label">Dealerships</div><div class="value" id="statDealerships">—</div></div>
     <div class="stat"><div class="label">Avg. Your Price</div><div class="value" id="statAvgPrice">—</div></div>
     <div class="stat"><div class="label">Price Drops Detected</div><div class="value" id="statDrops">—</div></div>
   </div>
@@ -165,13 +165,13 @@ TEMPLATE = """<!DOCTYPE html>
   </section>
 
   <section>
-    <h2>Current Inventory (Latest Snapshot)</h2>
+    <h2>Current Inventory (Latest Snapshot Per Dealer)</h2>
     <div class="table-wrap">
       <table id="inventoryTable">
         <thead>
           <tr>
-            <th>Year</th><th>Model</th><th>VIN</th><th>Stock #</th>
-            <th>MSRP</th><th>Your Price</th><th>Change</th>
+            <th>Dealership</th><th>Zip</th><th>Year</th><th>Make</th><th>Model</th>
+            <th>VIN</th><th>Stock #</th><th>MSRP</th><th>Your Price</th><th>Change</th>
           </tr>
         </thead>
         <tbody></tbody>
@@ -192,27 +192,54 @@ function fmtMoney(n) {
   return "$" + n.toLocaleString();
 }
 
-// Group rows by scraped_at (one snapshot) and by vin
+// Group rows by vin (price history per vehicle) and by dealership
+// (each dealer is scraped independently, so "latest snapshot" is computed
+// per-dealership rather than assuming one global timestamp covers everyone).
 const byVin = {};
+const byDealer = {};
 const snapshotTimes = [...new Set(RAW_DATA.map(r => r.scraped_at))].sort();
 
 RAW_DATA.forEach(r => {
   if (!byVin[r.vin]) byVin[r.vin] = [];
   byVin[r.vin].push(r);
+
+  if (!byDealer[r.dealership]) byDealer[r.dealership] = [];
+  byDealer[r.dealership].push(r);
+});
+
+const dealerships = Object.keys(byDealer).sort();
+
+// Latest row per (dealership, vin) -- i.e. "current" inventory across all dealers
+const latestRows = [];
+const priorRowByVin = {}; // vin -> the snapshot before latest, for change calc
+dealerships.forEach(dealer => {
+  const dealerRows = byDealer[dealer];
+  const dealerTimes = [...new Set(dealerRows.map(r => r.scraped_at))].sort();
+  const latestTimeForDealer = dealerTimes[dealerTimes.length - 1];
+  const priorTimeForDealer = dealerTimes.length > 1 ? dealerTimes[dealerTimes.length - 2] : null;
+
+  dealerRows.filter(r => r.scraped_at === latestTimeForDealer).forEach(r => {
+    latestRows.push(r);
+    if (priorTimeForDealer) {
+      const prior = dealerRows.find(x => x.scraped_at === priorTimeForDealer && x.vin === r.vin);
+      if (prior) priorRowByVin[r.vin] = prior;
+    }
+  });
 });
 
 // ---- Stats ----
 document.getElementById('statVehicles').textContent = Object.keys(byVin).length;
-document.getElementById('statSnapshots').textContent = snapshotTimes.length;
+document.getElementById('statDealerships').textContent = dealerships.length;
+document.getElementById('dealerList').textContent = dealerships.length ? dealerships.join(', ') : 'no data yet';
 
-const latestTime = snapshotTimes[snapshotTimes.length - 1];
-const latestRows = RAW_DATA.filter(r => r.scraped_at === latestTime);
 const avgPrice = latestRows.length
   ? Math.round(latestRows.reduce((s, r) => s + (r.your_price || 0), 0) / latestRows.length)
   : null;
 document.getElementById('statAvgPrice').textContent = fmtMoney(avgPrice);
-document.getElementById('lastUpdated').textContent = latestTime
-  ? new Date(latestTime).toLocaleString()
+
+const latestOverall = snapshotTimes[snapshotTimes.length - 1];
+document.getElementById('lastUpdated').textContent = latestOverall
+  ? new Date(latestOverall).toLocaleString()
   : "no data yet";
 
 let dropCount = 0;
@@ -224,18 +251,16 @@ Object.values(byVin).forEach(rows => {
 });
 document.getElementById('statDrops').textContent = dropCount;
 
-// ---- Inventory table (latest snapshot, with change vs. prior snapshot) ----
+// ---- Inventory table (latest snapshot per dealer, with change vs. that
+// dealer's prior snapshot) ----
 // This runs before the chart code so a Chart.js load failure can never
 // prevent the table (or anything else) from rendering.
 const tbody = document.querySelector('#inventoryTable tbody');
-const priorTime = snapshotTimes.length > 1 ? snapshotTimes[snapshotTimes.length - 2] : null;
 
 latestRows
   .sort((a, b) => (a.your_price || 0) - (b.your_price || 0))
   .forEach(r => {
-    const priorRow = priorTime
-      ? RAW_DATA.find(x => x.scraped_at === priorTime && x.vin === r.vin)
-      : null;
+    const priorRow = priorRowByVin[r.vin] || null;
     let deltaHtml = '<span class="delta-none">—</span>';
     if (priorRow && priorRow.your_price !== null && r.your_price !== null) {
       const diff = r.your_price - priorRow.your_price;
@@ -245,7 +270,10 @@ latestRows
     }
     const tr = document.createElement('tr');
     tr.innerHTML = `
+      <td>${r.dealership || ''}</td>
+      <td>${r.dealership_zip || ''}</td>
       <td>${r.year}</td>
+      <td>${r.make || ''}</td>
       <td>${r.model}</td>
       <td>${r.vin}</td>
       <td>${r.stock_number}</td>
