@@ -1,0 +1,37 @@
+name: Scrape prices and update dashboard
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scrape
+        run: python3 run_scrape.py
+
+      - name: Commit updated data and dashboard
+        run: |
+          git config user.name "price-tracker-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ docs/
+          git diff --quiet --cached || git commit -m "Update prices [automated]"
+          git push
