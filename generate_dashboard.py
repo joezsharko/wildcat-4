@@ -16,7 +16,7 @@ TEMPLATE = """<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>New Inventory Tracker — McGrath City Mazda</title>
+<title>Automotive Price Tracker</title>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.4/chart.umd.min.js"></script>
 <style>
   :root {
@@ -142,9 +142,9 @@ TEMPLATE = """<!DOCTYPE html>
 <body>
 
 <header>
-  <p class="eyebrow">Price Tracker &middot; Prototype</p>
-  <h1>McGrath City Mazda — New Inventory</h1>
-  <p class="sub">Tracking MSRP and "Your Price" across new inventory over time. Last updated: <span id="lastUpdated"></span></p>
+  <p class="eyebrow">Automotive Price Tracker</p>
+  <h1>New Inventory Dashboard</h1>
+  <p class="sub">Tracking price history across dealerships over time. Currently tracking: McGrath City Mazda. Last updated: <span id="lastUpdated"></span></p>
 </header>
 
 <main>
@@ -223,15 +223,53 @@ Object.values(byVin).forEach(rows => {
 });
 document.getElementById('statDrops').textContent = dropCount;
 
+// ---- Inventory table (latest snapshot, with change vs. prior snapshot) ----
+// This runs before the chart code so a Chart.js load failure can never
+// prevent the table (or anything else) from rendering.
+const tbody = document.querySelector('#inventoryTable tbody');
+const priorTime = snapshotTimes.length > 1 ? snapshotTimes[snapshotTimes.length - 2] : null;
+
+latestRows
+  .sort((a, b) => (a.your_price || 0) - (b.your_price || 0))
+  .forEach(r => {
+    const priorRow = priorTime
+      ? RAW_DATA.find(x => x.scraped_at === priorTime && x.vin === r.vin)
+      : null;
+    let deltaHtml = '<span class="delta-none">—</span>';
+    if (priorRow && priorRow.your_price !== null && r.your_price !== null) {
+      const diff = r.your_price - priorRow.your_price;
+      if (diff < 0) deltaHtml = `<span class="delta-down">▼ ${fmtMoney(Math.abs(diff))}</span>`;
+      else if (diff > 0) deltaHtml = `<span class="delta-up">▲ ${fmtMoney(diff)}</span>`;
+      else deltaHtml = '<span class="delta-none">no change</span>';
+    }
+    const tr = document.createElement('tr');
+    tr.innerHTML = `
+      <td>${r.year}</td>
+      <td>${r.model}</td>
+      <td>${r.vin}</td>
+      <td>${r.stock_number}</td>
+      <td class="price">${fmtMoney(r.msrp)}</td>
+      <td class="price">${fmtMoney(r.your_price)}</td>
+      <td>${deltaHtml}</td>
+    `;
+    tbody.appendChild(tr);
+  });
+
 // ---- Model filter ----
 const models = [...new Set(RAW_DATA.map(r => r.model))].sort();
 const modelSelect = document.getElementById('modelFilter');
 modelSelect.innerHTML = '<option value="__all__">All Models (avg)</option>' +
   models.map(m => `<option value="${m}">${m}</option>`).join('');
 
-// ---- Chart ----
+// ---- Chart (wrapped defensively: if Chart.js failed to load from the CDN,
+// e.g. blocked by an ad-blocker or offline, everything above still works) ----
 let chart;
 function renderChart(modelFilter) {
+  if (typeof Chart === 'undefined') {
+    document.querySelector('.chart-box').innerHTML =
+      '<p style="color:var(--ink-soft);margin:0;">Chart library failed to load (check your connection or ad-blocker) — the table above is unaffected.</p>';
+    return;
+  }
   const labels = snapshotTimes.map(t => new Date(t).toLocaleDateString());
   const data = snapshotTimes.map(t => {
     const rows = RAW_DATA.filter(r => r.scraped_at === t &&
@@ -267,38 +305,12 @@ function renderChart(modelFilter) {
     }
   });
 }
-renderChart('__all__');
+try {
+  renderChart('__all__');
+} catch (e) {
+  console.error('Chart render failed:', e);
+}
 modelSelect.addEventListener('change', e => renderChart(e.target.value));
-
-// ---- Inventory table (latest snapshot, with change vs. prior snapshot) ----
-const tbody = document.querySelector('#inventoryTable tbody');
-const priorTime = snapshotTimes.length > 1 ? snapshotTimes[snapshotTimes.length - 2] : null;
-
-latestRows
-  .sort((a, b) => (a.your_price || 0) - (b.your_price || 0))
-  .forEach(r => {
-    const priorRow = priorTime
-      ? RAW_DATA.find(x => x.scraped_at === priorTime && x.vin === r.vin)
-      : null;
-    let deltaHtml = '<span class="delta-none">—</span>';
-    if (priorRow && priorRow.your_price !== null && r.your_price !== null) {
-      const diff = r.your_price - priorRow.your_price;
-      if (diff < 0) deltaHtml = `<span class="delta-down">▼ ${fmtMoney(Math.abs(diff))}</span>`;
-      else if (diff > 0) deltaHtml = `<span class="delta-up">▲ ${fmtMoney(diff)}</span>`;
-      else deltaHtml = '<span class="delta-none">no change</span>';
-    }
-    const tr = document.createElement('tr');
-    tr.innerHTML = `
-      <td>${r.year}</td>
-      <td>${r.model}</td>
-      <td>${r.vin}</td>
-      <td>${r.stock_number}</td>
-      <td class="price">${fmtMoney(r.msrp)}</td>
-      <td class="price">${fmtMoney(r.your_price)}</td>
-      <td>${deltaHtml}</td>
-    `;
-    tbody.appendChild(tr);
-  });
 </script>
 </body>
 </html>
