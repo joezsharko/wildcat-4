@@ -11,13 +11,14 @@ import sqlite3
 
 DB_PATH = "data/prices.db"
 OUT_PATH = "docs/index.html"
+CHARTJS_PATH = "vendor/chart.umd.js"
 
 TEMPLATE = """<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <title>Automotive Price Tracker</title>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.4/chart.umd.min.js"></script>
+<script>__CHARTJS_SOURCE__</script>
 <style>
   :root {
     --navy: #14213D;
@@ -317,7 +318,7 @@ modelSelect.addEventListener('change', e => renderChart(e.target.value));
 """
 
 
-def generate(db_path: str = DB_PATH, out_path: str = OUT_PATH):
+def generate(db_path: str = DB_PATH, out_path: str = OUT_PATH, chartjs_path: str = CHARTJS_PATH):
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     os.makedirs(os.path.dirname(db_path), exist_ok=True)
 
@@ -345,6 +346,10 @@ def generate(db_path: str = DB_PATH, out_path: str = OUT_PATH):
 
     data = [dict(r) for r in rows]
     html = TEMPLATE.replace("__DATA_JSON__", json.dumps(data))
+
+    with open(chartjs_path) as f:
+        chartjs_source = f.read()
+    html = html.replace("__CHARTJS_SOURCE__", chartjs_source)
 
     with open(out_path, "w") as f:
         f.write(html)
