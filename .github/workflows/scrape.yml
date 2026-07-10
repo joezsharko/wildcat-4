@@ -32,8 +32,6 @@ jobs:
 
       - name: Run scrape
         run: python3 run_scrape.py
-        # DealerInspire sites (Playwright-driven) take noticeably longer
-        # than the plain-HTTP dealers -- give the whole job room to breathe.
         timeout-minutes: 30
 
       - name: Commit updated data and dashboard
@@ -43,4 +41,5 @@ jobs:
           git config user.name "price-tracker-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/ docs/
-          git
+          git diff --quiet --cached || git commit -m "Update prices [automated]"
+          git push
