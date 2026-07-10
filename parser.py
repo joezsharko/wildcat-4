@@ -40,15 +40,18 @@ class VehicleListing:
         }
 
 
-# Marks the start of each vehicle block: "<year> Mazda <model...> playbutton"
+# Marks the start of each vehicle block: "<year> Mazda <model...> View All Features"
 # Splitting on these boundaries first (rather than one giant regex) avoids
 # a field from one vehicle leaking into the next.
-BLOCK_START_RE = re.compile(r"(?P<year>20\d{2})\s+Mazda\s+(?P<model>.+?)\s+playbutton")
+BLOCK_START_RE = re.compile(
+    r"(?P<year>20\d{2})\s+MAZDA(?P<model>\d?\s*.+?)\s+View All Features",
+    re.DOTALL | re.IGNORECASE,
+)
 
 VIN_RE = re.compile(r"VIN:\s*([A-HJ-NPR-Z0-9]{17})")
-STOCK_RE = re.compile(r"Stock:\s*#?(\S+?)(?=Exterior Color:|Interior Color:|Highway|MSRP|$)")
-EXT_COLOR_RE = re.compile(r"Exterior Color:\s*(.+?)(?=Interior Color:)")
-INT_COLOR_RE = re.compile(r"Interior Color:\s*(.+?)(?=Highway|MSRP)")
+STOCK_RE = re.compile(r"Stock:\s*#?(\S+?)\s*(?=Exterior Color:|Interior Color:|Highway|MSRP|$)")
+EXT_COLOR_RE = re.compile(r"Exterior Color:\s*(.+?)\s*(?=Interior Color:)", re.DOTALL)
+INT_COLOR_RE = re.compile(r"Interior Color:\s*(.+?)\s*(?=Highway|MSRP)", re.DOTALL)
 MSRP_RE = re.compile(r"MSRP\s*\$([\d,]+)")
 YOUR_PRICE_RE = re.compile(r"Your Price\s*\$([\d,]+)")
 
@@ -77,10 +80,16 @@ def parse_inventory_text(page_text: str) -> list[VehicleListing]:
         if not vin:
             continue  # skip malformed/incomplete blocks
 
+        model = start_match.group("model").strip()
+        # Reattach "MAZDA" prefix for sedans branded as "MAZDA3"/"MAZDA6"
+        # (the digit was captured separately from the brand name above).
+        if model[:1].isdigit():
+            model = f"MAZDA{model}"
+
         listings.append(
             VehicleListing(
                 year=start_match.group("year"),
-                model=start_match.group("model").strip(),
+                model=model,
                 vin=vin,
                 stock_number=_first(STOCK_RE, block) or "",
                 exterior_color=_first(EXT_COLOR_RE, block),
@@ -90,12 +99,3 @@ def parse_inventory_text(page_text: str) -> list[VehicleListing]:
             )
         )
     return listings
-
-
-if __name__ == "__main__":
-    with open("sample_page.txt") as f:
-        text = f.read()
-    results = parse_inventory_text(text)
-    for r in results:
-        print(r.to_dict())
-    print(f"\nParsed {len(results)} vehicles")
