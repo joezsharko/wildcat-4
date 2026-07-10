@@ -1,9 +1,8 @@
-"""SQLite storage for vehicle price history."""
+"""SQLite storage for vehicle price history across multiple dealerships."""
 
 import sqlite3
 import os
 from datetime import datetime, timezone
-from parser import VehicleListing
 
 DB_PATH = "data/prices.db"
 
@@ -11,9 +10,19 @@ SCHEMA = """
 CREATE TABLE IF NOT EXISTS price_snapshots (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     scraped_at TEXT NOT NULL,
-    vin TEXT NOT NULL,
+
+    -- Dealership / location context (constant per dealer, repeated per row
+    -- for simplicity -- fine at this scale, easy to query/filter/sort on)
+    dealership TEXT NOT NULL,
+    dealership_city TEXT,
+    dealership_state TEXT,
+    dealership_zip TEXT,
+
+    -- Vehicle data
+    make TEXT,
     year TEXT,
     model TEXT,
+    vin TEXT NOT NULL,
     stock_number TEXT,
     exterior_color TEXT,
     interior_color TEXT,
@@ -22,6 +31,8 @@ CREATE TABLE IF NOT EXISTS price_snapshots (
 );
 CREATE INDEX IF NOT EXISTS idx_vin ON price_snapshots(vin);
 CREATE INDEX IF NOT EXISTS idx_scraped_at ON price_snapshots(scraped_at);
+CREATE INDEX IF NOT EXISTS idx_dealership ON price_snapshots(dealership);
+CREATE INDEX IF NOT EXISTS idx_zip ON price_snapshots(dealership_zip);
 """
 
 
@@ -33,16 +44,26 @@ def init_db(db_path: str = DB_PATH):
     return conn
 
 
-def save_snapshot(listings: list[VehicleListing], db_path: str = DB_PATH):
-    """Insert one row per vehicle for this scrape run."""
+def save_snapshot(listings: list, dealer_info: dict, db_path: str = DB_PATH) -> int:
+    """
+    Insert one row per vehicle for this scrape run.
+
+    listings: list of VehicleListing objects (from a dealer's parser.py)
+    dealer_info: dict with keys: name, city, state, zip_code, make
+    """
     conn = init_db(db_path)
     scraped_at = datetime.now(timezone.utc).isoformat()
     rows = [
         (
             scraped_at,
-            v.vin,
+            dealer_info["name"],
+            dealer_info.get("city"),
+            dealer_info.get("state"),
+            dealer_info.get("zip_code"),
+            dealer_info.get("make"),
             v.year,
             v.model,
+            v.vin,
             v.stock_number,
             v.exterior_color,
             v.interior_color,
@@ -53,9 +74,10 @@ def save_snapshot(listings: list[VehicleListing], db_path: str = DB_PATH):
     ]
     conn.executemany(
         """INSERT INTO price_snapshots
-           (scraped_at, vin, year, model, stock_number, exterior_color,
-            interior_color, msrp, your_price)
-           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+           (scraped_at, dealership, dealership_city, dealership_state,
+            dealership_zip, make, year, model, vin, stock_number,
+            exterior_color, interior_color, msrp, your_price)
+           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
         rows,
     )
     conn.commit()
@@ -64,7 +86,7 @@ def save_snapshot(listings: list[VehicleListing], db_path: str = DB_PATH):
 
 
 def export_json(db_path: str = DB_PATH, out_path: str = "data/price_history.json"):
-    """Export all snapshots as JSON for the dashboard to read."""
+    """Export all snapshots as JSON (handy for debugging/other tools)."""
     import json
 
     conn = sqlite3.connect(db_path)
