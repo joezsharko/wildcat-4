@@ -21,28 +21,29 @@ TEMPLATE = """<!DOCTYPE html>
 <script>__CHARTJS_SOURCE__</script>
 <style>
   :root {
-    --navy: #14213D;
-    --navy-light: #24345C;
+    --bg: #0F1115;
+    --surface: #1A1D24;
+    --surface-raised: #21252E;
+    --line: #2E323C;
     --amber: #E8A33D;
-    --paper: #F7F6F3;
-    --line: #DCD9D2;
-    --up: #C1442D;
-    --down: #2F7A4F;
-    --ink: #1A1A1A;
-    --ink-soft: #5B5B57;
+    --up: #FF6B5B;
+    --down: #4ADE80;
+    --ink: #EDEDEF;
+    --ink-soft: #9A9FA8;
   }
   * { box-sizing: border-box; }
   body {
     margin: 0;
-    background: var(--paper);
+    background: var(--bg);
     color: var(--ink);
-    font-family: 'Courier New', Courier, monospace;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+      Helvetica, Arial, sans-serif;
   }
   header {
-    background: var(--navy);
-    color: white;
+    background: var(--surface);
+    color: var(--ink);
     padding: 28px 32px 22px;
-    border-bottom: 4px solid var(--amber);
+    border-bottom: 3px solid var(--amber);
   }
   header .eyebrow {
     font-size: 12px;
@@ -50,19 +51,20 @@ TEMPLATE = """<!DOCTYPE html>
     text-transform: uppercase;
     color: var(--amber);
     margin: 0 0 6px;
+    font-weight: 600;
   }
   header h1 {
     margin: 0;
     font-size: 26px;
     font-weight: 700;
-    letter-spacing: 0.5px;
+    letter-spacing: -0.3px;
   }
   header .sub {
     margin: 6px 0 0;
-    color: #C7CEDD;
+    color: var(--ink-soft);
     font-size: 13px;
   }
-  main { max-width: 1080px; margin: 0 auto; padding: 24px 32px 60px; }
+  main { max-width: 1120px; margin: 0 auto; padding: 24px 32px 60px; }
   .stat-row {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -70,8 +72,9 @@ TEMPLATE = """<!DOCTYPE html>
     margin-bottom: 28px;
   }
   .stat {
-    background: white;
+    background: var(--surface);
     border: 1px solid var(--line);
+    border-radius: 8px;
     padding: 16px 18px;
   }
   .stat .label {
@@ -80,38 +83,44 @@ TEMPLATE = """<!DOCTYPE html>
     text-transform: uppercase;
     color: var(--ink-soft);
     margin-bottom: 6px;
+    font-weight: 600;
   }
   .stat .value {
     font-size: 24px;
     font-weight: 700;
-    color: var(--navy);
+    color: var(--ink);
   }
   section { margin-bottom: 34px; }
   h2 {
-    font-size: 14px;
-    letter-spacing: 2px;
+    font-size: 13px;
+    letter-spacing: 1.5px;
     text-transform: uppercase;
-    color: var(--navy);
-    border-bottom: 2px solid var(--navy);
+    color: var(--ink);
+    border-bottom: 2px solid var(--line);
     padding-bottom: 8px;
     margin-bottom: 16px;
+    font-weight: 700;
   }
   .chart-box {
-    background: white;
+    background: var(--surface);
     border: 1px solid var(--line);
+    border-radius: 8px;
     padding: 18px;
   }
   select {
     font-family: inherit;
-    padding: 6px 10px;
+    font-size: 13px;
+    padding: 7px 10px;
+    border-radius: 6px;
     border: 1px solid var(--line);
-    background: white;
+    background: var(--surface);
+    color: var(--ink);
     margin-bottom: 14px;
   }
   table {
     width: 100%;
     border-collapse: collapse;
-    background: white;
+    background: var(--surface);
     font-size: 13px;
   }
   th, td {
@@ -121,21 +130,56 @@ TEMPLATE = """<!DOCTYPE html>
     white-space: nowrap;
   }
   th {
-    background: var(--navy);
-    color: white;
+    background: var(--surface-raised);
+    color: var(--ink-soft);
     font-size: 11px;
     letter-spacing: 1px;
     text-transform: uppercase;
+    font-weight: 600;
     position: sticky; top: 0;
   }
   td.price { font-weight: 700; }
   .delta-up { color: var(--up); }
   .delta-down { color: var(--down); }
   .delta-none { color: var(--ink-soft); }
-  .table-wrap { max-height: 480px; overflow-y: auto; border: 1px solid var(--line); }
+  .table-wrap { max-height: 480px; overflow-y: auto; border: 1px solid var(--line); border-radius: 8px; }
   .table-wrap table { border: none; }
+
+  .dealer-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 14px;
+  }
+  .dealer-card {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 18px;
+  }
+  .dealer-card .dealer-name {
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--ink);
+    margin-bottom: 2px;
+  }
+  .dealer-card .dealer-loc {
+    font-size: 12px;
+    color: var(--ink-soft);
+    margin-bottom: 14px;
+  }
+  .dealer-card .metric-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 6px 0;
+    border-top: 1px solid var(--line);
+    font-size: 13px;
+  }
+  .dealer-card .metric-row:first-of-type { border-top: none; }
+  .dealer-card .metric-label { color: var(--ink-soft); }
+  .dealer-card .metric-value { font-weight: 700; color: var(--ink); }
+
   footer {
-    max-width: 1080px; margin: 0 auto; padding: 0 32px 40px;
+    max-width: 1120px; margin: 0 auto; padding: 0 32px 40px;
     color: var(--ink-soft); font-size: 12px;
   }
 </style>
@@ -198,6 +242,11 @@ TEMPLATE = """<!DOCTYPE html>
         <tbody></tbody>
       </table>
     </div>
+  </section>
+
+  <section>
+    <h2>Dealership Overview</h2>
+    <div class="dealer-grid" id="dealerGrid"></div>
   </section>
 </main>
 
@@ -377,6 +426,45 @@ removedEntries.forEach(t => {
     <td>${new Date(t.removed_at).toLocaleDateString()}</td>
   `;
   removedTbody.appendChild(tr);
+});
+
+// ---- Dealership Overview grid ----
+// "Model" = base nameplate (CX-30, MAZDA3, etc); "Trim" = the full
+// model+trim string as scraped (e.g. "CX-30 2.5 S Select Sport AWD").
+// Longer/more-specific names must be checked first so e.g. "CX-50" isn't
+// misread as "CX-5".
+const KNOWN_BASE_MODELS = ['CX-30', 'CX-50', 'CX-70', 'CX-90', 'CX-5', 'MX-5', 'MAZDA3', 'MAZDA6'];
+function extractBaseModel(fullModel) {
+  const upper = (fullModel || '').toUpperCase();
+  for (const base of KNOWN_BASE_MODELS) {
+    if (upper.startsWith(base)) return base;
+  }
+  return (fullModel || '').split(' ')[0] || 'Unknown';
+}
+
+const dealerGrid = document.getElementById('dealerGrid');
+dealerships.forEach(dealer => {
+  const rows = latestRows.filter(r => r.dealership === dealer);
+  const vehicleCount = rows.length;
+  const avgPrice = vehicleCount
+    ? Math.round(rows.reduce((s, r) => s + (r.your_price || 0), 0) / vehicleCount)
+    : null;
+  const modelVariety = new Set(rows.map(r => extractBaseModel(r.model))).size;
+  const trimVariety = new Set(rows.map(r => r.model)).size;
+
+  const card = document.createElement('div');
+  card.className = 'dealer-card';
+  const locBits = [rows[0]?.dealership_city, rows[0]?.dealership_state, rows[0]?.dealership_zip]
+    .filter(Boolean).join(', ');
+  card.innerHTML = `
+    <div class="dealer-name">${dealer}</div>
+    <div class="dealer-loc">${locBits}</div>
+    <div class="metric-row"><span class="metric-label">Vehicles Tracked</span><span class="metric-value">${vehicleCount}</span></div>
+    <div class="metric-row"><span class="metric-label">Avg. Price</span><span class="metric-value">${fmtMoney(avgPrice)}</span></div>
+    <div class="metric-row"><span class="metric-label">Model Variety</span><span class="metric-value">${modelVariety}</span></div>
+    <div class="metric-row"><span class="metric-label">Trim Variety</span><span class="metric-value">${trimVariety}</span></div>
+  `;
+  dealerGrid.appendChild(card);
 });
 
 // ---- Model filter ----
