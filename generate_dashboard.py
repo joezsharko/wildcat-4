@@ -390,7 +390,7 @@ latestRows
       <td>${r.make || ''}</td>
       <td>${r.model}</td>
       <td>${r.vin}</td>
-      <td>${r.stock_number}</td>
+      <td>${r.stock_number === r.vin ? '' : (r.stock_number || '')}</td>
       <td class="price">${fmtMoney(r.msrp)}</td>
       <td class="price">${fmtMoney(r.your_price)}</td>
       <td>${deltaHtml}</td>
@@ -451,6 +451,7 @@ dealerships.forEach(dealer => {
     : null;
   const modelVariety = new Set(rows.map(r => extractBaseModel(r.model))).size;
   const trimVariety = new Set(rows.map(r => r.model)).size;
+  const inTransitCount = rows.filter(r => !!r.in_transit).length;
 
   const card = document.createElement('div');
   card.className = 'dealer-card';
@@ -463,6 +464,7 @@ dealerships.forEach(dealer => {
     <div class="metric-row"><span class="metric-label">Avg. Price</span><span class="metric-value">${fmtMoney(avgPrice)}</span></div>
     <div class="metric-row"><span class="metric-label">Model Variety</span><span class="metric-value">${modelVariety}</span></div>
     <div class="metric-row"><span class="metric-label">Trim Variety</span><span class="metric-value">${trimVariety}</span></div>
+    <div class="metric-row"><span class="metric-label">Est. In Transit</span><span class="metric-value">${inTransitCount}</span></div>
   `;
   dealerGrid.appendChild(card);
 });

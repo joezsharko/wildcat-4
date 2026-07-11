@@ -35,6 +35,7 @@ class VehicleListing:
     interior_color: Optional[str]
     msrp: Optional[int]
     your_price: Optional[int]
+    in_transit: bool = False
 
     def to_dict(self):
         return {
@@ -46,6 +47,7 @@ class VehicleListing:
             "interior_color": self.interior_color,
             "msrp": self.msrp,
             "your_price": self.your_price,
+            "in_transit": self.in_transit,
         }
 
 
@@ -76,6 +78,7 @@ INT_COLOR_RE = re.compile(
 )
 MSRP_RE = re.compile(r"MSRP\s*\$([\d,]+)")
 YOUR_PRICE_RE = re.compile(r"Your Price\s*\$([\d,]+)")
+IN_TRANSIT_RE = re.compile(r"\bIn Transit\b", re.IGNORECASE)
 
 
 def _to_int(money_str: Optional[str]) -> Optional[int]:
@@ -108,16 +111,27 @@ def parse_inventory_text(page_text: str) -> list[VehicleListing]:
         if model[:1].isdigit():
             model = f"MAZDA{model}"
 
+        # Some dealers display the VIN itself in place of a stock number
+        # for vehicles that are "in transit" and haven't been physically
+        # tagged yet. That's not a real stock number, so treat it as blank
+        # rather than storing a duplicate of the VIN.
+        stock_number = _first(STOCK_RE, block) or ""
+        if stock_number == vin:
+            stock_number = ""
+
+        in_transit = bool(IN_TRANSIT_RE.search(block))
+
         listings.append(
             VehicleListing(
                 year=start_match.group("year"),
                 model=model,
                 vin=vin,
-                stock_number=_first(STOCK_RE, block) or "",
+                stock_number=stock_number,
                 exterior_color=_first(EXT_COLOR_RE, block),
                 interior_color=_first(INT_COLOR_RE, block),
                 msrp=_to_int(_first(MSRP_RE, block)),
                 your_price=_to_int(_first(YOUR_PRICE_RE, block)),
+                in_transit=in_transit,
             )
         )
     return listings

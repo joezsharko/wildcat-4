@@ -32,6 +32,7 @@ REQUIRED_COLUMNS = {
     "interior_color": "TEXT",
     "msrp": "INTEGER",
     "your_price": "INTEGER",
+    "in_transit": "INTEGER",
 }
 
 INDEXES = """
@@ -108,6 +109,7 @@ def save_snapshot(
             v.interior_color,
             v.msrp,
             v.your_price,
+            int(getattr(v, "in_transit", False)),
         )
         for v in listings
     ]
@@ -115,8 +117,8 @@ def save_snapshot(
         """INSERT INTO price_snapshots
            (scraped_at, dealership, dealership_city, dealership_state,
             dealership_zip, make, year, model, vin, stock_number,
-            exterior_color, interior_color, msrp, your_price)
-           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+            exterior_color, interior_color, msrp, your_price, in_transit)
+           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
         rows,
     )
     conn.commit()

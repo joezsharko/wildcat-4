@@ -48,6 +48,7 @@ class VehicleListing:
     interior_color: Optional[str]
     msrp: Optional[int]
     your_price: Optional[int]
+    in_transit: bool = False
 
     def to_dict(self):
         return {
@@ -59,6 +60,7 @@ class VehicleListing:
             "interior_color": self.interior_color,
             "msrp": self.msrp,
             "your_price": self.your_price,
+            "in_transit": self.in_transit,
         }
 
 
@@ -100,12 +102,20 @@ def parse_inventory_text(page_text: str) -> list[VehicleListing]:
         if not vin:
             continue  # skip malformed/incomplete blocks
 
+        # Some dealers display the VIN itself in place of a stock number
+        # for vehicles that are "in transit" and haven't been physically
+        # tagged yet. That's not a real stock number, so treat it as blank
+        # rather than storing a duplicate of the VIN.
+        stock_number = _first(STOCK_RE, block) or ""
+        if stock_number == vin:
+            stock_number = ""
+
         listings.append(
             VehicleListing(
                 year=start_match.group("year"),
                 model=start_match.group("model").strip(),
                 vin=vin,
-                stock_number=_first(STOCK_RE, block) or "",
+                stock_number=stock_number,
                 exterior_color=_first(EXT_COLOR_RE, block),
                 interior_color=_first(INT_COLOR_RE, block),
                 msrp=_to_int(_first(MSRP_RE, block)),
