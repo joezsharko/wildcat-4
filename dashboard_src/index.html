@@ -2,16 +2,14 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Automotive Price Tracker</title>
+<title>Wildcat Scraper</title>
 <link rel="stylesheet" href="style.css">
 <script src="chart.umd.js"></script>
 </head>
 <body>
 
 <header>
-  <p class="eyebrow">Automotive Price Tracker</p>
-  <h1>New Inventory Dashboard</h1>
-  <p class="sub">Tracking price history across dealerships over time. Currently tracking: <span id="dealerList">—</span>. Last updated: <span id="lastUpdated">—</span></p>
+  <h1>Wildcat Scraper</h1>
 </header>
 
 <main>
@@ -23,12 +21,32 @@
   </div>
 
   <section>
+    <h2>Average Price by Dealership</h2>
+    <div class="controls">
+      <span style="color:var(--ink-soft); font-size:12px;">RANGE:</span>
+      <div class="range-btns" id="dealerRangeBtns">
+        <button data-range="1">Day</button>
+        <button data-range="10">10-Day</button>
+        <button data-range="30">30-Day</button>
+        <button data-range="60">60-Day</button>
+        <button data-range="90">90-Day</button>
+        <button data-range="365" class="active">Year</button>
+      </div>
+    </div>
+    <p style="color:var(--ink-soft); font-size:12px; margin-top:-6px;">Click a dealership in the legend to toggle it on/off.</p>
+    <div class="chart-box">
+      <canvas id="priceByDealerChart" height="90"></canvas>
+    </div>
+  </section>
+
+  <section>
     <h2>Average Price Over Time</h2>
     <div class="controls">
       <select id="yearFilter"><option value="all">All Years</option></select>
       <select id="makeFilter"><option value="all">All Makes</option></select>
       <select id="modelFilter"><option value="all">All Models</option></select>
       <select id="trimFilter"><option value="all">All Trims</option></select>
+      <button id="clearFiltersBtn">Clear Filters</button>
     </div>
     <div class="controls">
       <span style="color:var(--ink-soft); font-size:12px;">RANGE:</span>
@@ -109,12 +127,7 @@
     dealerRows.filter(r => r.scraped_at === latestTime).forEach(r => latestRows.push(r));
   });
 
-  // ---- Header / stats ----
-  document.getElementById('dealerList').textContent = dealerships.length ? dealerships.join(', ') : 'no data yet';
-  const snapshotTimesAll = [...new Set(RAW_DATA.map(r => r.scraped_at))].sort();
-  const latestOverall = snapshotTimesAll[snapshotTimesAll.length - 1];
-  document.getElementById('lastUpdated').textContent = latestOverall ? fmtDateTime(latestOverall) : 'no data yet';
-
+  // ---- Stats ----
   document.getElementById('statVehicles').textContent = Object.keys(byVin).length;
   document.getElementById('statDealerships').textContent = dealerships.length;
   const avgPrice = latestRows.length
@@ -214,7 +227,16 @@
     });
   });
 
-  // ---- Date range selector ----
+  document.getElementById('clearFiltersBtn').addEventListener('click', () => {
+    filters.year = 'all';
+    filters.make = 'all';
+    filters.model = 'all';
+    filters.trim = 'all';
+    refreshFilterOptions();
+    renderChart();
+  });
+
+  // ---- Date range selector (Average Price Over Time chart) ----
   let rangeDays = 365;
   document.querySelectorAll('#rangeBtns button').forEach(btn => {
     btn.addEventListener('click', () => {
@@ -241,9 +263,9 @@
       return Math.round(rows.reduce((s, r) => s + (r.your_price || 0), 0) / rows.length);
     });
 
+    const chartBox = document.getElementById('priceChart').closest('.chart-box');
     if (typeof Chart === 'undefined') {
-      document.querySelector('.chart-box').innerHTML =
-        '<p style="color:var(--ink-soft);margin:0;">Chart library failed to load.</p>';
+      chartBox.innerHTML = '<p style="color:var(--ink-soft);margin:0;">Chart library failed to load.</p>';
       return;
     }
 
@@ -278,8 +300,85 @@
     });
   }
 
+  // ---- Average Price by Dealership chart (one line per dealer, toggleable via legend) ----
+  const DEALER_COLORS = [
+    '#E8A33D', '#4ADE80', '#60A5FA', '#F472B6',
+    '#A78BFA', '#FB923C', '#2DD4BF', '#F87171',
+    '#FACC15', '#818CF8',
+  ];
+
+  let dealerChartRangeDays = 365;
+  document.querySelectorAll('#dealerRangeBtns button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('#dealerRangeBtns button').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      dealerChartRangeDays = parseInt(btn.getAttribute('data-range'), 10);
+      renderDealerChart();
+    });
+  });
+
+  let dealerChart;
+  function renderDealerChart() {
+    const cutoff = new Date(Date.now() - dealerChartRangeDays * 24 * 3600 * 1000);
+    const times = [...new Set(RAW_DATA.map(r => r.scraped_at))]
+      .filter(t => new Date(t) >= cutoff)
+      .sort();
+    const labels = times.map(t => new Date(t).toLocaleString([], { month: 'short', day: 'numeric', hour: 'numeric' }));
+
+    const datasets = dealerships.map((dealer, i) => {
+      const dealerRows = byDealer[dealer];
+      const data = times.map(t => {
+        const rows = dealerRows.filter(r => r.scraped_at === t);
+        if (!rows.length) return null;
+        return Math.round(rows.reduce((s, r) => s + (r.your_price || 0), 0) / rows.length);
+      });
+      const color = DEALER_COLORS[i % DEALER_COLORS.length];
+      return {
+        label: dealer,
+        data,
+        borderColor: color,
+        backgroundColor: color,
+        pointBackgroundColor: color,
+        borderWidth: 2,
+        tension: 0.15,
+        fill: false,
+        spanGaps: true,
+      };
+    });
+
+    const chartBox = document.getElementById('priceByDealerChart').closest('.chart-box');
+    if (typeof Chart === 'undefined') {
+      chartBox.innerHTML = '<p style="color:var(--ink-soft);margin:0;">Chart library failed to load.</p>';
+      return;
+    }
+
+    if (dealerChart) dealerChart.destroy();
+    const ctx = document.getElementById('priceByDealerChart').getContext('2d');
+    dealerChart = new Chart(ctx, {
+      type: 'line',
+      data: { labels, datasets },
+      options: {
+        responsive: true,
+        plugins: {
+          legend: {
+            display: true,
+            position: 'bottom',
+            labels: { color: '#EDEDEF' }
+            // Chart.js's default legend click behavior already toggles a
+            // dataset's visibility on/off -- no custom handler needed.
+          }
+        },
+        scales: {
+          x: { ticks: { color: '#9A9FA8' }, grid: { color: '#2E323C' } },
+          y: { ticks: { color: '#9A9FA8', callback: v => '$' + v.toLocaleString() }, grid: { color: '#2E323C' } }
+        }
+      }
+    });
+  }
+
   refreshFilterOptions();
   renderChart();
+  renderDealerChart();
 })();
 </script>
 </body>
