@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Removed Vehicles — Automotive Price Tracker</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <p class="eyebrow"><a href="index.html">&larr; Back to Dashboard</a></p>
+  <h1>Removed From Site</h1>
+  <p class="sub">
+    VINs previously listed that are no longer visible on a dealer's site.
+    This does <strong>not</strong> necessarily mean sold. Click a column header to sort.
+  </p>
+</header>
+
+<main>
+  <div class="table-wrap">
+    <table id="removedTable">
+      <thead>
+        <tr>
+          <th data-sort-key="dealership">Dealership</th>
+          <th data-sort-key="year">Year</th>
+          <th data-sort-key="model">Model</th>
+          <th data-sort-key="vin">VIN</th>
+          <th data-sort-key="lastPrice">Last Known Price</th>
+          <th data-sort-key="listedDays">Listed For</th>
+          <th data-sort-key="removedAtSort">Removed</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+</main>
+
+<script src="common.js"></script>
+<script>
+(async function () {
+  const { rawData: RAW_DATA, trackingData: TRACKING_DATA } = await loadDashboardData();
+
+  const byVin = {};
+  RAW_DATA.forEach(r => {
+    if (!byVin[r.vin]) byVin[r.vin] = [];
+    byVin[r.vin].push(r);
+  });
+
+  const computedRows = TRACKING_DATA
+    .filter(t => t.status === 'removed')
+    .map(t => {
+      const history = (byVin[t.vin] || []).filter(r => r.dealership === t.dealership);
+      const lastKnown = history.length ? history[history.length - 1] : null;
+      const listedDays = Math.max(
+        Math.floor((new Date(t.removed_at) - new Date(t.first_seen_at)) / 86400000), 0
+      );
+      return {
+        dealership: t.dealership,
+        year: lastKnown ? lastKnown.year : null,
+        model: lastKnown ? lastKnown.model : null,
+        vin: t.vin,
+        lastPrice: lastKnown ? lastKnown.your_price : null,
+        listedDays,
+        removedAt: t.removed_at,
+        removedAtSort: new Date(t.removed_at).getTime(),
+      };
+    });
+
+  const tbody = document.querySelector('#removedTable tbody');
+  function render(rows) {
+    tbody.innerHTML = '';
+    rows.forEach(r => {
+      const tr = document.createElement('tr');
+      tr.innerHTML = `
+        <td>${r.dealership}</td>
+        <td>${r.year || '—'}</td>
+        <td>${r.model || '—'}</td>
+        <td>${r.vin}</td>
+        <td class="price">${fmtMoney(r.lastPrice)}</td>
+        <td>${fmtDays(r.listedDays)}</td>
+        <td>${fmtDateTime(r.removedAt)}</td>
+      `;
+      tbody.appendChild(tr);
+    });
+  }
+
+  // Default sort: most recently removed first.
+  computedRows.sort((a, b) => b.removedAtSort - a.removedAtSort);
+  render(computedRows);
+  makeSortable(document.getElementById('removedTable'), () => computedRows.slice(), render);
+})();
+</script>
+</body>
+</html>

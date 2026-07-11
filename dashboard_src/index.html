@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Automotive Price Tracker</title>
+<link rel="stylesheet" href="style.css">
+<script src="chart.umd.js"></script>
+</head>
+<body>
+
+<header>
+  <p class="eyebrow">Automotive Price Tracker</p>
+  <h1>New Inventory Dashboard</h1>
+  <p class="sub">Tracking price history across dealerships over time. Currently tracking: <span id="dealerList">—</span>. Last updated: <span id="lastUpdated">—</span></p>
+</header>
+
+<main>
+  <div class="stat-row">
+    <div class="stat"><div class="label">Vehicles Tracked</div><div class="value" id="statVehicles">—</div></div>
+    <div class="stat"><div class="label">Dealerships</div><div class="value" id="statDealerships">—</div></div>
+    <div class="stat"><div class="label">Avg. Your Price</div><div class="value" id="statAvgPrice">—</div></div>
+    <div class="stat"><div class="label">SNAG Inventory</div><div class="value" id="statSnag">—</div></div>
+  </div>
+
+  <section>
+    <h2>Average Price Over Time</h2>
+    <div class="controls">
+      <select id="yearFilter"><option value="all">All Years</option></select>
+      <select id="makeFilter"><option value="all">All Makes</option></select>
+      <select id="modelFilter"><option value="all">All Models</option></select>
+      <select id="trimFilter"><option value="all">All Trims</option></select>
+    </div>
+    <div class="controls">
+      <span style="color:var(--ink-soft); font-size:12px;">RANGE:</span>
+      <div class="range-btns" id="rangeBtns">
+        <button data-range="1">Day</button>
+        <button data-range="10">10-Day</button>
+        <button data-range="30">30-Day</button>
+        <button data-range="60">60-Day</button>
+        <button data-range="90">90-Day</button>
+        <button data-range="365" class="active">Year</button>
+      </div>
+    </div>
+    <div class="chart-box">
+      <canvas id="priceChart" height="90"></canvas>
+    </div>
+  </section>
+
+  <section>
+    <h2>Full Inventory</h2>
+    <p style="color:var(--ink-soft); font-size:13px; margin-top:-8px;">
+      The complete current inventory table now lives on its own page for easier sorting and browsing.
+    </p>
+    <a class="view-all-link" href="inventory.html">View full inventory table →</a>
+  </section>
+
+  <section>
+    <h2>Recently Removed From Site</h2>
+    <p style="color:var(--ink-soft); font-size:13px; margin-top:-8px;">
+      VINs previously listed that are no longer showing up on a dealer's site. This does
+      <strong>not</strong> necessarily mean sold -- just that it's no longer visible on the website.
+    </p>
+    <div class="removed-summary-grid" id="removedSummaryGrid"></div>
+    <a class="view-all-link" href="removed.html">View full removed-vehicles table →</a>
+  </section>
+
+  <section>
+    <h2>Dealership Overview</h2>
+    <div class="dealer-grid" id="dealerGrid"></div>
+  </section>
+</main>
+
+<footer>
+  Personal price-tracking dashboard. Data reflects publicly listed dealer inventory.
+</footer>
+
+<script src="common.js"></script>
+<script>
+(async function () {
+  const { rawData: RAW_DATA, trackingData: TRACKING_DATA } = await loadDashboardData();
+
+  const SNAG_STORES = new Set([
+    "Napleton's Schaumburg Mazda",
+    "Napleton's Oak Lawn Mazda",
+    "Napleton's Countryside Mazda",
+    "Napleton's Palatine Mazda",
+  ]);
+
+  const trackingByKey = {};
+  TRACKING_DATA.forEach(t => { trackingByKey[`${t.dealership}||${t.vin}`] = t; });
+
+  const byVin = {};
+  const byDealer = {};
+  RAW_DATA.forEach(r => {
+    if (!byVin[r.vin]) byVin[r.vin] = [];
+    byVin[r.vin].push(r);
+    if (r.dealership) {
+      if (!byDealer[r.dealership]) byDealer[r.dealership] = [];
+      byDealer[r.dealership].push(r);
+    }
+  });
+  const dealerships = Object.keys(byDealer).sort();
+
+  const latestRows = [];
+  dealerships.forEach(dealer => {
+    const dealerRows = byDealer[dealer];
+    const dealerTimes = [...new Set(dealerRows.map(r => r.scraped_at))].sort();
+    const latestTime = dealerTimes[dealerTimes.length - 1];
+    dealerRows.filter(r => r.scraped_at === latestTime).forEach(r => latestRows.push(r));
+  });
+
+  // ---- Header / stats ----
+  document.getElementById('dealerList').textContent = dealerships.length ? dealerships.join(', ') : 'no data yet';
+  const snapshotTimesAll = [...new Set(RAW_DATA.map(r => r.scraped_at))].sort();
+  const latestOverall = snapshotTimesAll[snapshotTimesAll.length - 1];
+  document.getElementById('lastUpdated').textContent = latestOverall ? fmtDateTime(latestOverall) : 'no data yet';
+
+  document.getElementById('statVehicles').textContent = Object.keys(byVin).length;
+  document.getElementById('statDealerships').textContent = dealerships.length;
+  const avgPrice = latestRows.length
+    ? Math.round(latestRows.reduce((s, r) => s + (r.your_price || 0), 0) / latestRows.length)
+    : null;
+  document.getElementById('statAvgPrice').textContent = fmtMoney(avgPrice);
+
+  const snagCount = latestRows.filter(r => SNAG_STORES.has(r.dealership)).length;
+  document.getElementById('statSnag').textContent = snagCount;
+
+  // ---- Dealer overview grid ----
+  const dealerGrid = document.getElementById('dealerGrid');
+  dealerships.forEach(dealer => {
+    const rows = latestRows.filter(r => r.dealership === dealer);
+    const vehicleCount = rows.length;
+    const avg = vehicleCount
+      ? Math.round(rows.reduce((s, r) => s + (r.your_price || 0), 0) / vehicleCount)
+      : null;
+    const modelVariety = new Set(rows.map(r => extractBaseModel(r.model))).size;
+    const trimVariety = new Set(rows.map(r => r.model)).size;
+    const inTransitCount = rows.filter(r => !!r.in_transit).length;
+
+    const card = document.createElement('div');
+    card.className = 'dealer-card';
+    const locBits = [rows[0]?.dealership_city, rows[0]?.dealership_state, rows[0]?.dealership_zip]
+      .filter(Boolean).join(', ');
+    card.innerHTML = `
+      <div class="dealer-name">${dealer}</div>
+      <div class="dealer-loc">${locBits}</div>
+      <div class="metric-row"><span class="metric-label">Vehicles Tracked</span><span class="metric-value">${vehicleCount}</span></div>
+      <div class="metric-row"><span class="metric-label">Avg. Price</span><span class="metric-value">${fmtMoney(avg)}</span></div>
+      <div class="metric-row"><span class="metric-label">Model Variety</span><span class="metric-value">${modelVariety}</span></div>
+      <div class="metric-row"><span class="metric-label">Trim Variety</span><span class="metric-value">${trimVariety}</span></div>
+      <div class="metric-row"><span class="metric-label">Est. In Transit</span><span class="metric-value">${inTransitCount}</span></div>
+    `;
+    dealerGrid.appendChild(card);
+  });
+
+  // ---- Removed-vehicles summary (today/week counts per dealer) ----
+  const now = new Date();
+  const removedSummaryGrid = document.getElementById('removedSummaryGrid');
+  dealerships.forEach(dealer => {
+    const removedForDealer = TRACKING_DATA.filter(t => t.dealership === dealer && t.status === 'removed');
+    const todayCount = removedForDealer.filter(t => (now - new Date(t.removed_at)) <= 24 * 3600 * 1000).length;
+    const weekCount = removedForDealer.filter(t => (now - new Date(t.removed_at)) <= 7 * 24 * 3600 * 1000).length;
+
+    const card = document.createElement('div');
+    card.className = 'removed-summary-card';
+    card.innerHTML = `
+      <div class="dealer-name">${dealer}</div>
+      <div class="metric-row"><span class="metric-label">Removed (last 24h)</span><span class="metric-value">${todayCount}</span></div>
+      <div class="metric-row"><span class="metric-label">Removed (last 7d)</span><span class="metric-value">${weekCount}</span></div>
+    `;
+    removedSummaryGrid.appendChild(card);
+  });
+
+  // ---- Chart filters (year / make / model / trim), mutually narrowing ----
+  const filters = { year: 'all', make: 'all', model: 'all', trim: 'all' };
+  const yearSelect = document.getElementById('yearFilter');
+  const makeSelect = document.getElementById('makeFilter');
+  const modelSelect = document.getElementById('modelFilter');
+  const trimSelect = document.getElementById('trimFilter');
+
+  function getFilteredData(excludeKey) {
+    return RAW_DATA.filter(r => {
+      if (excludeKey !== 'year' && filters.year !== 'all' && r.year !== filters.year) return false;
+      if (excludeKey !== 'make' && filters.make !== 'all' && r.make !== filters.make) return false;
+      if (excludeKey !== 'model' && filters.model !== 'all' && extractBaseModel(r.model) !== filters.model) return false;
+      if (excludeKey !== 'trim' && filters.trim !== 'all' && r.model !== filters.trim) return false;
+      return true;
+    });
+  }
+
+  function populateSelect(select, values, currentValue, allLabel) {
+    const stillValid = values.includes(currentValue);
+    select.innerHTML = `<option value="all">${allLabel}</option>` +
+      values.map(v => `<option value="${v}">${v}</option>`).join('');
+    select.value = stillValid ? currentValue : 'all';
+  }
+
+  function refreshFilterOptions() {
+    populateSelect(yearSelect, [...new Set(getFilteredData('year').map(r => r.year))].sort().reverse(), filters.year, 'All Years');
+    populateSelect(makeSelect, [...new Set(getFilteredData('make').map(r => r.make))].sort(), filters.make, 'All Makes');
+    populateSelect(modelSelect, [...new Set(getFilteredData('model').map(r => extractBaseModel(r.model)))].sort(), filters.model, 'All Models');
+    populateSelect(trimSelect, [...new Set(getFilteredData('trim').map(r => r.model))].sort(), filters.trim, 'All Trims');
+    filters.year = yearSelect.value;
+    filters.make = makeSelect.value;
+    filters.model = modelSelect.value;
+    filters.trim = trimSelect.value;
+  }
+
+  [['year', yearSelect], ['make', makeSelect], ['model', modelSelect], ['trim', trimSelect]].forEach(([key, el]) => {
+    el.addEventListener('change', () => {
+      filters[key] = el.value;
+      refreshFilterOptions();
+      renderChart();
+    });
+  });
+
+  // ---- Date range selector ----
+  let rangeDays = 365;
+  document.querySelectorAll('#rangeBtns button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('#rangeBtns button').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      rangeDays = parseInt(btn.getAttribute('data-range'), 10);
+      renderChart();
+    });
+  });
+
+  // ---- Chart (hourly-aware labels; self-contained Chart.js, no CDN) ----
+  let chart;
+  function renderChart() {
+    const filtered = getFilteredData(null);
+    const cutoff = new Date(Date.now() - rangeDays * 24 * 3600 * 1000);
+    const times = [...new Set(filtered.map(r => r.scraped_at))]
+      .filter(t => new Date(t) >= cutoff)
+      .sort();
+
+    const labels = times.map(t => new Date(t).toLocaleString([], { month: 'short', day: 'numeric', hour: 'numeric' }));
+    const data = times.map(t => {
+      const rows = filtered.filter(r => r.scraped_at === t);
+      if (!rows.length) return null;
+      return Math.round(rows.reduce((s, r) => s + (r.your_price || 0), 0) / rows.length);
+    });
+
+    if (typeof Chart === 'undefined') {
+      document.querySelector('.chart-box').innerHTML =
+        '<p style="color:var(--ink-soft);margin:0;">Chart library failed to load.</p>';
+      return;
+    }
+
+    if (chart) chart.destroy();
+    const ctx = document.getElementById('priceChart').getContext('2d');
+    chart = new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels,
+        datasets: [{
+          label: 'Avg. Your Price',
+          data,
+          borderColor: '#E8A33D',
+          backgroundColor: 'rgba(232,163,61,0.12)',
+          pointBackgroundColor: '#E8A33D',
+          borderWidth: 2,
+          tension: 0.15,
+          fill: true,
+          spanGaps: true,
+        }]
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          legend: { display: true, labels: { color: '#EDEDEF' } }
+        },
+        scales: {
+          x: { ticks: { color: '#9A9FA8' }, grid: { color: '#2E323C' } },
+          y: { ticks: { color: '#9A9FA8', callback: v => '$' + v.toLocaleString() }, grid: { color: '#2E323C' } }
+        }
+      }
+    });
+  }
+
+  refreshFilterOptions();
+  renderChart();
+})();
+</script>
+</body>
+</html>

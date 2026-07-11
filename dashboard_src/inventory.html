@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Full Inventory — Automotive Price Tracker</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <p class="eyebrow"><a href="index.html">&larr; Back to Dashboard</a></p>
+  <h1>Full Inventory</h1>
+  <p class="sub">Latest snapshot per dealership. Click a column header to sort.</p>
+</header>
+
+<main>
+  <div class="table-wrap">
+    <table id="inventoryTable">
+      <thead>
+        <tr>
+          <th data-sort-key="dealership">Dealership</th>
+          <th data-sort-key="dealership_zip">Zip</th>
+          <th data-sort-key="year">Year</th>
+          <th data-sort-key="make">Make</th>
+          <th data-sort-key="model">Model</th>
+          <th data-sort-key="vin">VIN</th>
+          <th data-sort-key="stock_number">Stock #</th>
+          <th data-sort-key="msrp">MSRP</th>
+          <th data-sort-key="your_price">Your Price</th>
+          <th data-sort-key="change">Change</th>
+          <th data-sort-key="totalChange">Total Chg.</th>
+          <th data-sort-key="daysOnSite">Days on Site</th>
+          <th data-sort-key="inTransitLabel">In Transit</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+</main>
+
+<script src="common.js"></script>
+<script>
+(async function () {
+  const { rawData: RAW_DATA, trackingData: TRACKING_DATA } = await loadDashboardData();
+
+  const trackingByKey = {};
+  TRACKING_DATA.forEach(t => { trackingByKey[`${t.dealership}||${t.vin}`] = t; });
+
+  const byVin = {};
+  const byDealer = {};
+  RAW_DATA.forEach(r => {
+    if (!byVin[r.vin]) byVin[r.vin] = [];
+    byVin[r.vin].push(r);
+    if (r.dealership) {
+      if (!byDealer[r.dealership]) byDealer[r.dealership] = [];
+      byDealer[r.dealership].push(r);
+    }
+  });
+  const dealerships = Object.keys(byDealer).sort();
+
+  const latestRows = [];
+  const priorRowByVin = {};
+  dealerships.forEach(dealer => {
+    const dealerRows = byDealer[dealer];
+    const dealerTimes = [...new Set(dealerRows.map(r => r.scraped_at))].sort();
+    const latestTime = dealerTimes[dealerTimes.length - 1];
+    const priorTime = dealerTimes.length > 1 ? dealerTimes[dealerTimes.length - 2] : null;
+
+    dealerRows.filter(r => r.scraped_at === latestTime).forEach(r => {
+      latestRows.push(r);
+      if (priorTime) {
+        const prior = dealerRows.find(x => x.scraped_at === priorTime && x.vin === r.vin);
+        if (prior) priorRowByVin[r.vin] = prior;
+      }
+    });
+  });
+
+  // Precompute derived, sortable fields for every row up front.
+  const computedRows = latestRows.map(r => {
+    const priorRow = priorRowByVin[r.vin] || null;
+    const change = (priorRow && priorRow.your_price !== null && r.your_price !== null)
+      ? r.your_price - priorRow.your_price : null;
+
+    const history = byVin[r.vin];
+    let totalChange = null;
+    if (history && history.length && history[0].your_price !== null && r.your_price !== null) {
+      totalChange = r.your_price - history[0].your_price;
+    }
+
+    const tracking = trackingByKey[`${r.dealership}||${r.vin}`];
+    const firstSeenAt = tracking ? tracking.first_seen_at : (history && history[0] ? history[0].scraped_at : null);
+    let daysOnSite = null;
+    if (firstSeenAt) {
+      daysOnSite = Math.max(Math.floor((new Date(r.scraped_at) - new Date(firstSeenAt)) / 86400000), 0);
+    }
+
+    const stockDisplay = (r.stock_number === r.vin) ? '' : (r.stock_number || '');
+
+    return {
+      ...r,
+      stock_number: stockDisplay,
+      change,
+      totalChange,
+      daysOnSite,
+      inTransitLabel: r.in_transit ? 'Yes' : 'No',
+    };
+  });
+
+  function deltaHtml(val) {
+    if (val === null || val === undefined) return '<span class="delta-none">—</span>';
+    if (val < 0) return `<span class="delta-down">▼ ${fmtMoney(Math.abs(val))}</span>`;
+    if (val > 0) return `<span class="delta-up">▲ ${fmtMoney(val)}</span>`;
+    return '<span class="delta-none">no change</span>';
+  }
+
+  const tbody = document.querySelector('#inventoryTable tbody');
+  function render(rows) {
+    tbody.innerHTML = '';
+    rows.forEach(r => {
+      const tr = document.createElement('tr');
+      tr.innerHTML = `
+        <td>${r.dealership || ''}</td>
+        <td>${r.dealership_zip || ''}</td>
+        <td>${r.year}</td>
+        <td>${r.make || ''}</td>
+        <td>${r.model}</td>
+        <td>${r.vin}</td>
+        <td>${r.stock_number}</td>
+        <td class="price">${fmtMoney(r.msrp)}</td>
+        <td class="price">${fmtMoney(r.your_price)}</td>
+        <td>${deltaHtml(r.change)}</td>
+        <td>${deltaHtml(r.totalChange)}</td>
+        <td>${fmtDays(r.daysOnSite)}</td>
+        <td>${r.in_transit ? 'Yes' : 'No'}</td>
+      `;
+      tbody.appendChild(tr);
+    });
+  }
+
+  // Default sort: price ascending, same as the old dashboard's default.
+  computedRows.sort((a, b) => (a.your_price || 0) - (b.your_price || 0));
+  render(computedRows);
+  makeSortable(document.getElementById('inventoryTable'), () => computedRows.slice(), render);
+})();
+</script>
+</body>
+</html>
