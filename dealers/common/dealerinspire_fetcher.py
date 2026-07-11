@@ -66,13 +66,20 @@ def make_fetcher(inventory_url: str, max_pages: int = 40):
                 "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})"
             )
 
-            page.goto(inventory_url, wait_until="networkidle", timeout=60000)
+            # networkidle is unreliable here -- many dealer sites keep
+            # persistent background connections open (chat widgets, live
+            # inventory pollers, ad trackers), so "wait until the network
+            # goes fully quiet" can simply never succeed and hangs for the
+            # full timeout. domcontentloaded is fast and reliable; the
+            # explicit wait_for_selector below is what actually confirms
+            # real inventory content has rendered.
+            page.goto(inventory_url, wait_until="domcontentloaded", timeout=45000)
 
             # Explicitly wait for real vehicle content to show up, rather
             # than just sleeping a fixed amount -- this also lets us detect
             # early if we've hit a bot-check/challenge page instead.
             try:
-                page.wait_for_selector("text=VIN:", timeout=20000)
+                page.wait_for_selector("text=VIN:", timeout=30000)
             except Exception:
                 pass  # fall through -- we'll return whatever we have, and
                       # the caller's debug file will show what happened
