@@ -32,6 +32,14 @@ from dealers.napleton_oaklawn_mazda import config as oaklawn_config
 from dealers.napleton_oaklawn_mazda import fetcher as oaklawn_fetcher
 from dealers.napleton_oaklawn_mazda import parser as oaklawn_parser
 
+from dealers.sam_leman_mazda import config as samleman_config
+from dealers.sam_leman_mazda import fetcher as samleman_fetcher
+from dealers.sam_leman_mazda import parser as samleman_parser
+
+from dealers.mazda_of_crystal_lake import config as crystallake_config
+from dealers.mazda_of_crystal_lake import fetcher as crystallake_fetcher
+from dealers.mazda_of_crystal_lake import parser as crystallake_parser
+
 DEALERS = [
     {
         "slug": "mcgrath_mazda",
@@ -68,6 +76,18 @@ DEALERS = [
         "info": oaklawn_config.DEALER_INFO,
         "fetch_all_pages": oaklawn_fetcher.fetch_all_pages,
         "parse_inventory_text": oaklawn_parser.parse_inventory_text,
+    },
+    {
+        "slug": "sam_leman_mazda",
+        "info": samleman_config.DEALER_INFO,
+        "fetch_all_pages": samleman_fetcher.fetch_all_pages,
+        "parse_inventory_text": samleman_parser.parse_inventory_text,
+    },
+    {
+        "slug": "mazda_of_crystal_lake",
+        "info": crystallake_config.DEALER_INFO,
+        "fetch_all_pages": crystallake_fetcher.fetch_all_pages,
+        "parse_inventory_text": crystallake_parser.parse_inventory_text,
     },
     # Add the next dealer here, e.g.:
     # {
