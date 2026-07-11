@@ -20,6 +20,16 @@ from playwright.sync_api import sync_playwright
 REQUEST_DELAY_SECONDS = 2
 PAGE_MARKER_RE = re.compile(r"Page (\d+) of (\d+)")
 
+# Chrome's real UA string (not a generic Playwright default) plus a few
+# tweaks below make headless Chromium noticeably harder for basic bot
+# detection (Cloudflare etc.) to flag automatically. Not bulletproof --
+# some sites can still detect and challenge it -- but meaningfully better
+# than plain defaults.
+USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+)
+
 
 def make_fetcher(inventory_url: str, max_pages: int = 40):
     """
@@ -32,20 +42,42 @@ def make_fetcher(inventory_url: str, max_pages: int = 40):
     For the numbered-page style, this polls for the "Page X of Y" marker
     to actually change after clicking Next, rather than waiting for
     network-idle -- background chat widgets/analytics can keep a page
-    "busy" indefinitely, making network-idle an unreliable signal here.
+    "busy" indefinitely, making network-idle an unreliable signal for that
+    specific check. The *initial* page load still waits for network-idle,
+    since that's what's needed to let the inventory grid render at all.
     """
 
     def fetch_all_pages() -> str:
         with sync_playwright() as p:
-            browser = p.chromium.launch(headless=True)
-            page = browser.new_page(
-                user_agent=(
-                    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                    "(KHTML, like Gecko) Chrome/125.0 Safari/537.36"
-                )
+            browser = p.chromium.launch(
+                headless=True,
+                args=[
+                    "--disable-blink-features=AutomationControlled",
+                ],
             )
-            page.goto(inventory_url, wait_until="domcontentloaded", timeout=60000)
-            time.sleep(4)  # let post-load XHR-driven rendering settle
+            page = browser.new_page(
+                user_agent=USER_AGENT,
+                viewport={"width": 1366, "height": 900},
+                locale="en-US",
+            )
+            # Hide the most common automation fingerprint before any page
+            # script runs.
+            page.add_init_script(
+                "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})"
+            )
+
+            page.goto(inventory_url, wait_until="networkidle", timeout=60000)
+
+            # Explicitly wait for real vehicle content to show up, rather
+            # than just sleeping a fixed amount -- this also lets us detect
+            # early if we've hit a bot-check/challenge page instead.
+            try:
+                page.wait_for_selector("text=VIN:", timeout=20000)
+            except Exception:
+                pass  # fall through -- we'll return whatever we have, and
+                      # the caller's debug file will show what happened
+
+            time.sleep(2)  # small settle buffer after content appears
 
             all_text = [page.inner_text("body")]
 
