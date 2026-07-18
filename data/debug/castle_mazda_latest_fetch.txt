@@ -595,6 +595,187 @@
  
   New 
  
+2026 MAZDA3 Sedan 2.5 S Select Sport                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+                                            At Dealership
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM1BPABL2T1892848 
+ 
+ 
+ 
+ Stock:  
+ 
+ #MD262975 
+ 
+ 
+ 
+ Exterior Color:  
+  Soul Red Crystal Metallic 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ FWD 
+ 
+ 
+ Highway/City MPG:  
+ 36 / 27 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $27,785 
+ 
+ 
+ Dealer Discount     
+ -$805 
+ 
+ 
+ Customer Cash  
+ -$1,500 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountData && unlockCtaDiscountData.unlockDiscountCTAPriceLabel ? unlockCtaDiscountData.unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $25,893 
+ 
+ 
+ Your Price
+                                                          
+ $25,893 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $27,785 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
 2026 MAZDA3 Hatchback 2.5 S Select Sport                                  
  
  
@@ -704,183 +885,6 @@
  
  MSRP 
  $28,020 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 MAZDA3 Sedan 2.5 S Select Sport                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
-                                            At Dealership
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM1BPABL2T1892848 
- 
- 
- 
- Stock:  
- 
- #MD262975 
- 
- 
- 
- Exterior Color:  
-  Soul Red Crystal Metallic 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- FWD 
- 
- 
- Highway/City MPG:  
- 36 / 27 
- 
- 
- 
- 
- 
- MSRP
-  
- $27,785 
- 
- 
- Customer Cash  
- -$1,500 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountData && unlockCtaDiscountData.unlockDiscountCTAPriceLabel ? unlockCtaDiscountData.unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $26,698 
- 
- 
- Your Price
-                                                          
- $26,698 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $27,785 
  
  
  
@@ -4134,6 +4138,187 @@
  
  VIN:  
  
+ 7MMVABBL2TN614500 
+ 
+ 
+ 
+ Stock:  
+ 
+ #MD262976 
+ 
+ 
+ 
+ Exterior Color:  
+  Ingot Blue Metallic 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 30 / 24 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $34,130 
+ 
+ 
+ Dealer Discount     
+ -$857 
+ 
+ 
+ Customer Cash  
+ -$1,000 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountData && unlockCtaDiscountData.unlockDiscountCTAPriceLabel ? unlockCtaDiscountData.unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $32,686 
+ 
+ 
+ Your Price
+                                                          
+ $32,686 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $34,130 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-50 2.5 S Preferred AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+                                            At Dealership
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
  7MMVABBL2TN609491 
  
  
@@ -4391,187 +4576,6 @@
  
  MSRP 
  $33,555 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-50 2.5 S Preferred AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
-                                            At Dealership
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- 7MMVABBL9TN613120 
- 
- 
- 
- Stock:  
- 
- #MD262966 
- 
- 
- 
- Exterior Color:  
-  Jet Black Mica 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 30 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $34,470 
- 
- 
- Dealer Discount     
- -$925 
- 
- 
- Customer Cash  
- -$1,000 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountData && unlockCtaDiscountData.unlockDiscountCTAPriceLabel ? unlockCtaDiscountData.unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $32,958 
- 
- 
- Your Price
-                                                          
- $32,958 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $34,470 
  
  
  
@@ -5028,6 +5032,187 @@
  
  
  10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-50 2.5 S Preferred AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+                                            At Dealership
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ 7MMVABBL9TN613120 
+ 
+ 
+ 
+ Stock:  
+ 
+ #MD262966 
+ 
+ 
+ 
+ Exterior Color:  
+  Jet Black Mica 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 30 / 24 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $34,470 
+ 
+ 
+ Dealer Discount     
+ -$925 
+ 
+ 
+ Customer Cash  
+ -$1,000 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountData && unlockCtaDiscountData.unlockDiscountCTAPriceLabel ? unlockCtaDiscountData.unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $32,958 
+ 
+ 
+ Your Price
+                                                          
+ $32,958 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $34,470 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
  
  
  
@@ -5589,6 +5774,19 @@
  
  
  
+ Can't find what 
+ you're looking for? 
+ Let us know what you want. 
+ Reserve Your Vehicle 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
@@ -5633,18 +5831,18 @@
  
  VIN:  
  
- JM3KMBHA5T0165253 
+ JM3KMBHA9T0120932 
  
  
  
  Stock:  
  
- #MD262885 
+ #MD262752 
  
  
  
  Exterior Color:  
-  Jet Black Mica 
+  Navy Blue Mica 
  
  
  Interior Color:  
@@ -5766,19 +5964,6 @@
  
  
  
- Can't find what 
- you're looking for? 
- Let us know what you want. 
- Reserve Your Vehicle 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -5823,18 +6008,18 @@
  
  VIN:  
  
- JM3KMBHA9T0120932 
+ JM3KMBHA5T0165253 
  
  
  
  Stock:  
  
- #MD262752 
+ #MD262885 
  
  
  
  Exterior Color:  
-  Navy Blue Mica 
+  Jet Black Mica 
  
  
  Interior Color:  
@@ -6845,187 +7030,6 @@
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-50 2.5 S Preferred AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
-                                            At Dealership
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- 7MMVABBL6TN611275 
- 
- 
- 
- Stock:  
- 
- #MD262964 
- 
- 
- 
- Exterior Color:  
-  Machine Gray Metallic 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 30 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $35,065 
- 
- 
- Dealer Discount     
- -$990 
- 
- 
- Customer Cash  
- -$1,000 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountData && unlockCtaDiscountData.unlockDiscountCTAPriceLabel ? unlockCtaDiscountData.unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $33,488 
- 
- 
- Your Price
-                                                          
- $33,488 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $35,065 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
    
  
  
@@ -7462,6 +7466,187 @@
  
   New 
  
+2026 Mazda CX-50 2.5 S Preferred AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+                                            At Dealership
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ 7MMVABBL6TN611275 
+ 
+ 
+ 
+ Stock:  
+ 
+ #MD262964 
+ 
+ 
+ 
+ Exterior Color:  
+  Machine Gray Metallic 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 30 / 24 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $35,065 
+ 
+ 
+ Dealer Discount     
+ -$990 
+ 
+ 
+ Customer Cash  
+ -$1,000 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountData && unlockCtaDiscountData.unlockDiscountCTAPriceLabel ? unlockCtaDiscountData.unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $33,488 
+ 
+ 
+ Your Price
+                                                          
+ $33,488 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $35,065 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
 2026 Mazda CX-5 2.5 S Select AWD                                  
  
  
@@ -7744,183 +7929,6 @@
  
  MSRP 
  $34,040 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-50 2.5 S Preferred AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
-                                            At Dealership
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- 7MMVABBL2TN614500 
- 
- 
- 
- Stock:  
- 
- #MD262976 
- 
- 
- 
- Exterior Color:  
-  Ingot Blue Metallic 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 30 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $34,130 
- 
- 
- Customer Cash  
- -$1,000 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountData && unlockCtaDiscountData.unlockDiscountCTAPriceLabel ? unlockCtaDiscountData.unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $33,543 
- 
- 
- Your Price
-                                                          
- $33,543 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $34,130 
  
  
  
@@ -9105,18 +9113,18 @@
  
  VIN:  
  
- JM3KMBHA3T0167549 
+ JM3KMBHA3T0174338 
  
  
  
  Stock:  
  
- #MD262884 
+ #MD262968 
  
  
  
  Exterior Color:  
-  Machine Gray Metallic 
+  Aero Gray Metallic 
  
  
  Interior Color:  
@@ -9140,11 +9148,11 @@
  
  MSRP
   
- $34,330 
+ $34,325 
  
  
  Dealer Discount     
- -$915 
+ -$914 
  
  
  Illinois Doc Fee + Electronic Filing Fee 
@@ -9162,12 +9170,12 @@
  
  Your Price
                                                           
- $33,828 
+ $33,824 
  
  
  Your Price
                                                           
- $33,828 
+ $33,824 
  
  
  
@@ -9180,7 +9188,7 @@
  
  
  MSRP 
- $34,330 
+ $34,325 
  
  
  
@@ -9282,18 +9290,18 @@
  
  VIN:  
  
- JM3KMBHA7T0163178 
+ JM3KMBHA3T0167549 
  
  
  
  Stock:  
  
- #MD262895 
+ #MD262884 
  
  
  
  Exterior Color:  
-  Soul Red Crystal Metallic 
+  Machine Gray Metallic 
  
  
  Interior Color:  
@@ -9317,11 +9325,11 @@
  
  MSRP
   
- $34,345 
+ $34,330 
  
  
  Dealer Discount     
- -$918 
+ -$915 
  
  
  Illinois Doc Fee + Electronic Filing Fee 
@@ -9339,12 +9347,12 @@
  
  Your Price
                                                           
- $33,840 
+ $33,828 
  
  
  Your Price
                                                           
- $33,840 
+ $33,828 
  
  
  
@@ -9357,7 +9365,7 @@
  
  
  MSRP 
- $34,345 
+ $34,330 
  
  
  
@@ -9814,6 +9822,183 @@
  
  
  10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-5 2.5 S Select AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+                                            At Dealership
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM3KMBHA7T0163178 
+ 
+ 
+ 
+ Stock:  
+ 
+ #MD262895 
+ 
+ 
+ 
+ Exterior Color:  
+  Soul Red Crystal Metallic 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 30 / 24 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $34,345 
+ 
+ 
+ Dealer Discount     
+ -$918 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountData && unlockCtaDiscountData.unlockDiscountCTAPriceLabel ? unlockCtaDiscountData.unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $33,840 
+ 
+ 
+ Your Price
+                                                          
+ $33,840 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $34,345 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
  
  
  
@@ -10363,6 +10548,19 @@
  
  
  
+ Can't find what 
+ you're looking for? 
+ Let us know what you want. 
+ Reserve Your Vehicle 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
@@ -10531,19 +10729,6 @@
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Can't find what 
- you're looking for? 
- Let us know what you want. 
- Reserve Your Vehicle 
  
  
  
@@ -11566,179 +11751,6 @@
  
  MSRP 
  $34,975 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-5 2.5 S Select AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
-                                            At Dealership
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KMBHA3T0174338 
- 
- 
- 
- Stock:  
- 
- #MD262968 
- 
- 
- 
- Exterior Color:  
-  Aero Gray Metallic 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 30 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $34,325 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountData && unlockCtaDiscountData.unlockDiscountCTAPriceLabel ? unlockCtaDiscountData.unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $34,738 
- 
- 
- Your Price
-                                                          
- $34,738 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $34,325 
  
  
  
@@ -13862,6 +13874,183 @@
  
   New 
  
+2026 Mazda CX-5 2.5 S Preferred AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+                                            At Dealership
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM3KMCHA5T0173732 
+ 
+ 
+ 
+ Stock:  
+ 
+ #MD262971 
+ 
+ 
+ 
+ Exterior Color:  
+  Jet Black Mica 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 30 / 24 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $36,035 
+ 
+ 
+ Dealer Discount     
+ -$914 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountData && unlockCtaDiscountData.unlockDiscountCTAPriceLabel ? unlockCtaDiscountData.unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $35,534 
+ 
+ 
+ Your Price
+                                                          
+ $35,534 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $36,035 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
 2026 Mazda CX-30 2.5 Turbo Aire Edition AWD                                  
  
  
@@ -13971,183 +14160,6 @@
  
  MSRP 
  $37,265 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-50 Hybrid Preferred AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
-                                            At Dealership
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- 7MMVAABW5TN161316 
- 
- 
- 
- Stock:  
- 
- #MD262540 
- 
- 
- 
- Exterior Color:  
-  Machine Gray Metallic 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 37 / 39 
- 
- 
- 
- 
- 
- MSRP
-  
- $37,190 
- 
- 
- Dealer Discount     
- -$1,004 
- 
- 
- Customer Cash  
- -$1,000 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountData && unlockCtaDiscountData.unlockDiscountCTAPriceLabel ? unlockCtaDiscountData.unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $35,599 
- 
- 
- Your Price
-                                                          
- $35,599 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $37,190 
  
  
  
@@ -14637,6 +14649,360 @@
  
   New 
  
+2026 Mazda CX-50 Hybrid Preferred AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+                                            At Dealership
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ 7MMVAABW5TN161316 
+ 
+ 
+ 
+ Stock:  
+ 
+ #MD262540 
+ 
+ 
+ 
+ Exterior Color:  
+  Machine Gray Metallic 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 37 / 39 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $37,190 
+ 
+ 
+ Dealer Discount     
+ -$1,004 
+ 
+ 
+ Customer Cash  
+ -$1,000 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountData && unlockCtaDiscountData.unlockDiscountCTAPriceLabel ? unlockCtaDiscountData.unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $35,599 
+ 
+ 
+ Your Price
+                                                          
+ $35,599 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $37,190 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-5 2.5 S Preferred AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+                                            At Dealership
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM3KMCHA0T0173637 
+ 
+ 
+ 
+ Stock:  
+ 
+ #MD262970 
+ 
+ 
+ 
+ Exterior Color:  
+  Jet Black Mica 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 30 / 24 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $36,120 
+ 
+ 
+ Dealer Discount     
+ -$931 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountData && unlockCtaDiscountData.unlockDiscountCTAPriceLabel ? unlockCtaDiscountData.unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $35,602 
+ 
+ 
+ Your Price
+                                                          
+ $35,602 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $36,120 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
 2026 Mazda CX-50 2.5 S Premium AWD                                  
  
  
@@ -14980,6 +15346,19 @@
  
  
  
+ Can't find what 
+ you're looking for? 
+ Let us know what you want. 
+ Reserve Your Vehicle 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
@@ -15100,6 +15479,183 @@
  
  MSRP 
  $36,270 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-5 2.5 S Preferred AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+                                            At Dealership
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM3KMCHAXT0173788 
+ 
+ 
+ 
+ Stock:  
+ 
+ #MD262969 
+ 
+ 
+ 
+ Exterior Color:  
+  Navy Blue Mica 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 30 / 24 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $36,320 
+ 
+ 
+ Dealer Discount     
+ -$971 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountData && unlockCtaDiscountData.unlockDiscountCTAPriceLabel ? unlockCtaDiscountData.unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $35,762 
+ 
+ 
+ Your Price
+                                                          
+ $35,762 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $36,320 
  
  
  
@@ -15338,19 +15894,6 @@
  
  
  
- Can't find what 
- you're looking for? 
- Let us know what you want. 
- Reserve Your Vehicle 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -15471,6 +16014,183 @@
  
  MSRP 
  $36,340 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-5 2.5 S Preferred AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+                                            At Dealership
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM3KMCHA7T0174073 
+ 
+ 
+ 
+ Stock:  
+ 
+ #MD262972 
+ 
+ 
+ 
+ Exterior Color:  
+  Jet Black Mica 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 30 / 24 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $36,415 
+ 
+ 
+ Dealer Discount     
+ -$990 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountData && unlockCtaDiscountData.unlockDiscountCTAPriceLabel ? unlockCtaDiscountData.unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $35,838 
+ 
+ 
+ Your Price
+                                                          
+ $35,838 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $36,415 
  
  
  
@@ -15868,6 +16588,423 @@
                         {{inventorySettings.data.buttonLabel}}
                        
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 3 
+ 
+ 
+ 4 
+ 
+ 
+ 5 
+ 
+ 
+ 6 
+ 
+ 
+ 7 
+ 
+ 
+ 8 
+ 
+ 
+ 9 
+ 
+ 
+ 10 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Back to Top 
+ 
+ 
+ 
+ 
+ New Mazda for Sale in Downers Grove 
+ Looking for a new Mazda in the Downers Grove area? Our full-service Mazda Downers Grove dealership can help you compare new Mazda cars, SUVs, crossovers, and sports cars, all in one place. Our Mazda dealership works routinely with drivers from Downers Grove, Naperville, Lombard, La Grange, Bolingbrook, and nearby Illinois communities who want a vehicle with sharp styling, smart technology, confident performance, and everyday comfort that Mazda is known for offering. 
+ At our Mazda dealership, you can browse and compare new Mazda models and even test drive to get a feel for the car. Specific models and more information are below: 
+ 
+ Mazda3 Sedan  - The Mazda3 Sedan is a compact car with sharp styling, a refined cabin, and everyday efficiency. It is a strong choice for drivers who want a polished sedan for commuting, errands, and daily driving. 
+ Mazda3 Hatchback  - The Mazda3 Hatchback gives drivers the same engaging Mazda feel with added cargo flexibility. It is a great fit if you want compact sizing, sporty design, and more room for gear behind the rear seats. 
+ Mazda CX-30  - The Mazda CX-30 is a compact crossover that works well for city driving, commuting, and weekend plans. It gives drivers SUV versatility in a smaller package that is easy to park and easy to enjoy. 
+ Mazda CX-5  - The Mazda CX-5 is a refined compact SUV with everyday practicality and a comfortable interior. It is a popular choice for drivers who want a well-rounded Mazda SUV for work, family, errands, and road trips. 
+ Mazda CX-50  - The Mazda CX-50 offers a more rugged SUV feel while still keeping the comfort and responsive driving experience Mazda is known for. It is a strong option for drivers who want extra versatility for daily driving and weekend travel. 
+ Mazda CX-50 Hybrid  - The Mazda CX-50 Hybrid gives shoppers another way to enjoy the CX-50 with added hybrid efficiency. It is a good fit for drivers who want SUV practicality, confident design, and a more efficiency-focused powertrain. 
+ Mazda CX-70  - The Mazda CX-70 is a larger two-row SUV built for drivers who want more space, premium design, and strong everyday versatility. It works well for shoppers who need more room than a compact SUV but do not need a third row. 
+ Mazda CX-70 Plug-In Hybrid  - The Mazda CX-70 Plug-In Hybrid adds plug-in hybrid capability to the larger two-row SUV layout. It is worth considering if you want a refined Mazda SUV with electrified performance and the flexibility of gas and electric driving. 
+ Mazda CX-90  - The Mazda CX-90 is Mazda's three-row SUV option for drivers who need more seating and space. It is a strong choice for families and shoppers who want a larger SUV with upscale design and confident performance. 
+ Mazda CX-90 Plug-In Hybrid  - The Mazda CX-90 Plug-In Hybrid gives drivers three-row versatility with plug-in hybrid capability. It is a smart option for shoppers who need extra seating but also want to explore electrified Mazda performance. 
+ Mazda MX-5 Miata  - The Mazda MX-5 Miata is a lightweight roadster built for drivers who want a fun, connected driving experience. It is a standout choice if you want open-air driving, quick handling, and classic sports car character. 
+ Mazda MX-5 Miata RF  - The Mazda MX-5 Miata RF offers the same playful performance as the Miata with a retractable fastback roof design. It is a great fit for drivers who want open-air fun with a more coupe-like look. 
+ 
+ Availability varies by model. Please call ahead before visiting our dealership so we can confirm availability and have the vehicle ready for you. No matter what Mazda model you are looking for, our team is here to help you Shop Easy, Drive Happy! 
+ 
+ 
+ New Mazda Inventory Near Naperville and Lombard 
+ Our full-service dealership makes it easy to compare  new Mazda inventory  by model, trim, color, package, pricing, and current offers before you visit. You can browse online, narrow your search by body style, and find the Mazda that fits your driving needs. Be sure to visit our  new Mazda specials and offers page  to explore current savings on your next vehicle. 
+ We believe your Mazda should match your lifestyle. Mazda's SUVs and crossovers give drivers a strong mix of comfort and design without sacrificing space. The Mazda CX-30 is a compact crossover that works well for city driving and daily commuting. The Mazda CX-5 offers refined compact SUV practicality, while the Mazda CX-50 adds a more rugged feel with an available hybrid option. If you need more space, the Mazda CX-70 and Mazda CX-90 offer larger SUV options with plug-in hybrid models available for drivers interested in electrified performance. Across the Mazda SUV lineup, you can find available turbocharged performance, standard i-Activ AWD on many models, responsive handling, and available i-Activsense safety technologies. 
+ If you prefer a Mazda car, the Mazda3 Sedan and Mazda3 Hatchback offer a polished look, engaging performance, and everyday efficiency in a compact package. If you want a lightweight sports car, the Mazda MX-5 Miata and MX-5 Miata RF continue to stand out for drivers who want a fun, open-air driving experience. 
+ 
+ 
+ Mazda Lease and Finance Options 
+ Our Mazda dealership can help you explore your Mazda  lease and finance options . Financing may be a good fit if you want to own your Mazda long term, drive without lease mileage limits, or keep your vehicle after it is paid off. Leasing may be a good choice if you like driving a newer Mazda more often or want flexible options at the end of your term. 
+ Our finance team can help you review monthly payment options, available Mazda incentives, current offers,  trade-in value , and online shopping tools. Whether you are buying your first Mazda, trading in your current vehicle, or comparing lease and finance options, we can help you understand the next step. 
+ Drivers from Downers Grove, Naperville, Lombard, La Grange, and Bolingbrook can start the process online or visit Castle Mazda Downers Grove at 1850 Ogden Avenue, Downers Grove, IL 60515 for help in person. 
+ 
+ 
+ Mazda Service and Maintenance in Downers Grove 
+ When you buy or lease a new Mazda from our Mazda dealer, you also get access to a local Mazda service and parts team. Our experienced service team can help with routine Mazda maintenance, repairs, inspections, diagnostics, and genuine Mazda parts support. 
+ Common Mazda service needs include oil changes, tire rotations, brake inspections, battery checks, wheel alignments, filter replacements, fluid service, tire service, multi-point inspections, and scheduled maintenance. If you drive a Mazda SUV, hybrid, plug-in hybrid, sedan, hatchback, or Miata, our team can help you keep your vehicle ready for daily driving. 
+ Our service department is open Monday through Friday from 7:00am to 5:00pm and Saturday from 7:00am to 4:00pm. Our parts department is open Monday through Friday from 7:00am to 4:00pm and Saturday from 7:00am to 4:00pm. Amenities include an authorized accessories store, authorized parts store, automated car wash, customer lounge, free coffee, free drinks, free Wi-Fi, home delivery, shuttle service, and television. You can  schedule Mazda service online  or visit our  Genuine Mazda Parts page  for parts support. 
+ 
+ 
+ Visit Castle Mazda Downers Grove 
+ You can browse our new Mazda inventory online, compare Mazda lease and finance options, value your trade, schedule Mazda service, or visit our dealership to test drive your next vehicle. If you have questions about a specific Mazda model, call us at (630) 964-9500 and our team can help you confirm availability. 
+ Visit Castle Mazda Downers Grove today to find, finance, lease, and service your next new Mazda, and experience how we can help you Shop Easy, Drive Happy! 
+ 
+ 
+ New Mazda FAQ 
+ 
+ 
+ What new Mazda models are available at Castle Mazda Downers Grove? 
+ 
+ Castle Mazda Downers Grove can help you shop new Mazda cars, SUVs, crossovers, hybrids, plug-in hybrids, and sports cars. Current Mazda models include the Mazda3 Sedan, Mazda3 Hatchback, Mazda CX-30, Mazda CX-5, Mazda CX-50, Mazda CX-50 Hybrid, Mazda CX-70, Mazda CX-70 Plug-In Hybrid, Mazda CX-90, Mazda CX-90 Plug-In Hybrid, Mazda MX-5 Miata, and Mazda MX-5 Miata RF. Inventory can change, so our team can help you confirm which models and trims are currently available. 
+ 
+ 
+ 
+ 
+ 
+ Can I lease or finance a new Mazda in Downers Grove? 
+ 
+ Yes. Our dealership can help you compare Mazda lease and finance options. Financing may be a good fit if you want long-term ownership, fewer mileage concerns, and the ability to keep your vehicle after it is paid off. Leasing may be a good option if you prefer driving a newer Mazda more often or want flexible end-of-term options. Our finance team can help you review current offers, trade-in value, estimated payments, and available incentives. 
+ 
+ 
+ 
+ 
+ 
+ Which Mazda SUV should I choose? 
+ 
+ The right Mazda SUV depends on your space, performance, and efficiency needs. The Mazda CX-30 is a compact crossover that works well for commuting. The Mazda CX-5 is a refined compact SUV with everyday versatility. The Mazda CX-50 offers a more rugged SUV feel and is available as a hybrid. The Mazda CX-70 and Mazda CX-90 give drivers larger SUV options, with plug-in hybrid models available for shoppers interested in plug-in hybrid driving. 
+ 
+ 
+ 
+ 
+ 
+ Where can I service my Mazda near Downers Grove? 
+ 
+ You can schedule Mazda service at our Mazda Downers Grove dealership. Our service team can help with oil changes, tire rotations, brake inspections, battery checks, wheel alignments, filter replacements, diagnostics, fluid service, genuine Mazda parts, and scheduled maintenance. We serve Mazda drivers from Downers Grove, Naperville, Lombard, La Grange, Bolingbrook, and surrounding Illinois communities. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ New  for Sale | Castle Mazda Downers Grove 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Keyword 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SORT BY: 
+ 
+ Price lowest to highest 
+ 
+ 
+ 
+ 
+ 
+ Oldest in inventory to newest in inventory 
+ Newest in inventory to oldest in inventory 
+ Price highest to lowest 
+ Price lowest to highest 
+ Mileage highest to lowest 
+ Mileage lowest to highest 
+ Year lowest to highest 
+ Year highest to lowest 
+ Alphabetical 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Refine Search
+               
+ 
+ 
+ 
+ 
+ 
+ Sort 
+ 
+ 
+ 
+ 
+ 
+ Oldest in inventory to newest in inventory 
+ Newest in inventory to oldest in inventory 
+ Price highest to lowest 
+ Price lowest to highest 
+ Mileage highest to lowest 
+ Mileage lowest to highest 
+ Year lowest to highest 
+ Year highest to lowest 
+ Alphabetical 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ New Mazda  for Sale in Downers Grove | Castle Mazda 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 4 
+ 
+ 
+ 5 
+ 
+ 
+ 6 
+ 
+ 
+ 7 
+ 
+ 
+ 8 
+ 
+ 
+ 9 
+ 
+ 
+ 10 
+ 
+ 
+ 11 
+ 
+ 
+ 12 
  
  
  
@@ -16602,418 +17739,14 @@
  
  
  
-   
  
  
-   
  
  
-   
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 2 
- 
- 
- 3 
- 
- 
- 4 
- 
- 
- 5 
- 
- 
- 6 
- 
- 
- 7 
- 
- 
- 8 
- 
- 
- 9 
- 
- 
- 10 
- 
- 
- 11 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Back to Top 
- 
- 
- 
- 
- New Mazda for Sale in Downers Grove 
- Looking for a new Mazda in the Downers Grove area? Our full-service Mazda Downers Grove dealership can help you compare new Mazda cars, SUVs, crossovers, and sports cars, all in one place. Our Mazda dealership works routinely with drivers from Downers Grove, Naperville, Lombard, La Grange, Bolingbrook, and nearby Illinois communities who want a vehicle with sharp styling, smart technology, confident performance, and everyday comfort that Mazda is known for offering. 
- At our Mazda dealership, you can browse and compare new Mazda models and even test drive to get a feel for the car. Specific models and more information are below: 
- 
- Mazda3 Sedan  - The Mazda3 Sedan is a compact car with sharp styling, a refined cabin, and everyday efficiency. It is a strong choice for drivers who want a polished sedan for commuting, errands, and daily driving. 
- Mazda3 Hatchback  - The Mazda3 Hatchback gives drivers the same engaging Mazda feel with added cargo flexibility. It is a great fit if you want compact sizing, sporty design, and more room for gear behind the rear seats. 
- Mazda CX-30  - The Mazda CX-30 is a compact crossover that works well for city driving, commuting, and weekend plans. It gives drivers SUV versatility in a smaller package that is easy to park and easy to enjoy. 
- Mazda CX-5  - The Mazda CX-5 is a refined compact SUV with everyday practicality and a comfortable interior. It is a popular choice for drivers who want a well-rounded Mazda SUV for work, family, errands, and road trips. 
- Mazda CX-50  - The Mazda CX-50 offers a more rugged SUV feel while still keeping the comfort and responsive driving experience Mazda is known for. It is a strong option for drivers who want extra versatility for daily driving and weekend travel. 
- Mazda CX-50 Hybrid  - The Mazda CX-50 Hybrid gives shoppers another way to enjoy the CX-50 with added hybrid efficiency. It is a good fit for drivers who want SUV practicality, confident design, and a more efficiency-focused powertrain. 
- Mazda CX-70  - The Mazda CX-70 is a larger two-row SUV built for drivers who want more space, premium design, and strong everyday versatility. It works well for shoppers who need more room than a compact SUV but do not need a third row. 
- Mazda CX-70 Plug-In Hybrid  - The Mazda CX-70 Plug-In Hybrid adds plug-in hybrid capability to the larger two-row SUV layout. It is worth considering if you want a refined Mazda SUV with electrified performance and the flexibility of gas and electric driving. 
- Mazda CX-90  - The Mazda CX-90 is Mazda's three-row SUV option for drivers who need more seating and space. It is a strong choice for families and shoppers who want a larger SUV with upscale design and confident performance. 
- Mazda CX-90 Plug-In Hybrid  - The Mazda CX-90 Plug-In Hybrid gives drivers three-row versatility with plug-in hybrid capability. It is a smart option for shoppers who need extra seating but also want to explore electrified Mazda performance. 
- Mazda MX-5 Miata  - The Mazda MX-5 Miata is a lightweight roadster built for drivers who want a fun, connected driving experience. It is a standout choice if you want open-air driving, quick handling, and classic sports car character. 
- Mazda MX-5 Miata RF  - The Mazda MX-5 Miata RF offers the same playful performance as the Miata with a retractable fastback roof design. It is a great fit for drivers who want open-air fun with a more coupe-like look. 
- 
- Availability varies by model. Please call ahead before visiting our dealership so we can confirm availability and have the vehicle ready for you. No matter what Mazda model you are looking for, our team is here to help you Shop Easy, Drive Happy! 
- 
- 
- New Mazda Inventory Near Naperville and Lombard 
- Our full-service dealership makes it easy to compare  new Mazda inventory  by model, trim, color, package, pricing, and current offers before you visit. You can browse online, narrow your search by body style, and find the Mazda that fits your driving needs. Be sure to visit our  new Mazda specials and offers page  to explore current savings on your next vehicle. 
- We believe your Mazda should match your lifestyle. Mazda's SUVs and crossovers give drivers a strong mix of comfort and design without sacrificing space. The Mazda CX-30 is a compact crossover that works well for city driving and daily commuting. The Mazda CX-5 offers refined compact SUV practicality, while the Mazda CX-50 adds a more rugged feel with an available hybrid option. If you need more space, the Mazda CX-70 and Mazda CX-90 offer larger SUV options with plug-in hybrid models available for drivers interested in electrified performance. Across the Mazda SUV lineup, you can find available turbocharged performance, standard i-Activ AWD on many models, responsive handling, and available i-Activsense safety technologies. 
- If you prefer a Mazda car, the Mazda3 Sedan and Mazda3 Hatchback offer a polished look, engaging performance, and everyday efficiency in a compact package. If you want a lightweight sports car, the Mazda MX-5 Miata and MX-5 Miata RF continue to stand out for drivers who want a fun, open-air driving experience. 
- 
- 
- Mazda Lease and Finance Options 
- Our Mazda dealership can help you explore your Mazda  lease and finance options . Financing may be a good fit if you want to own your Mazda long term, drive without lease mileage limits, or keep your vehicle after it is paid off. Leasing may be a good choice if you like driving a newer Mazda more often or want flexible options at the end of your term. 
- Our finance team can help you review monthly payment options, available Mazda incentives, current offers,  trade-in value , and online shopping tools. Whether you are buying your first Mazda, trading in your current vehicle, or comparing lease and finance options, we can help you understand the next step. 
- Drivers from Downers Grove, Naperville, Lombard, La Grange, and Bolingbrook can start the process online or visit Castle Mazda Downers Grove at 1850 Ogden Avenue, Downers Grove, IL 60515 for help in person. 
- 
- 
- Mazda Service and Maintenance in Downers Grove 
- When you buy or lease a new Mazda from our Mazda dealer, you also get access to a local Mazda service and parts team. Our experienced service team can help with routine Mazda maintenance, repairs, inspections, diagnostics, and genuine Mazda parts support. 
- Common Mazda service needs include oil changes, tire rotations, brake inspections, battery checks, wheel alignments, filter replacements, fluid service, tire service, multi-point inspections, and scheduled maintenance. If you drive a Mazda SUV, hybrid, plug-in hybrid, sedan, hatchback, or Miata, our team can help you keep your vehicle ready for daily driving. 
- Our service department is open Monday through Friday from 7:00am to 5:00pm and Saturday from 7:00am to 4:00pm. Our parts department is open Monday through Friday from 7:00am to 4:00pm and Saturday from 7:00am to 4:00pm. Amenities include an authorized accessories store, authorized parts store, automated car wash, customer lounge, free coffee, free drinks, free Wi-Fi, home delivery, shuttle service, and television. You can  schedule Mazda service online  or visit our  Genuine Mazda Parts page  for parts support. 
- 
- 
- Visit Castle Mazda Downers Grove 
- You can browse our new Mazda inventory online, compare Mazda lease and finance options, value your trade, schedule Mazda service, or visit our dealership to test drive your next vehicle. If you have questions about a specific Mazda model, call us at (630) 964-9500 and our team can help you confirm availability. 
- Visit Castle Mazda Downers Grove today to find, finance, lease, and service your next new Mazda, and experience how we can help you Shop Easy, Drive Happy! 
- 
- 
- New Mazda FAQ 
- 
- 
- What new Mazda models are available at Castle Mazda Downers Grove? 
- 
- Castle Mazda Downers Grove can help you shop new Mazda cars, SUVs, crossovers, hybrids, plug-in hybrids, and sports cars. Current Mazda models include the Mazda3 Sedan, Mazda3 Hatchback, Mazda CX-30, Mazda CX-5, Mazda CX-50, Mazda CX-50 Hybrid, Mazda CX-70, Mazda CX-70 Plug-In Hybrid, Mazda CX-90, Mazda CX-90 Plug-In Hybrid, Mazda MX-5 Miata, and Mazda MX-5 Miata RF. Inventory can change, so our team can help you confirm which models and trims are currently available. 
- 
- 
- 
- 
- 
- Can I lease or finance a new Mazda in Downers Grove? 
- 
- Yes. Our dealership can help you compare Mazda lease and finance options. Financing may be a good fit if you want long-term ownership, fewer mileage concerns, and the ability to keep your vehicle after it is paid off. Leasing may be a good option if you prefer driving a newer Mazda more often or want flexible end-of-term options. Our finance team can help you review current offers, trade-in value, estimated payments, and available incentives. 
- 
- 
- 
- 
- 
- Which Mazda SUV should I choose? 
- 
- The right Mazda SUV depends on your space, performance, and efficiency needs. The Mazda CX-30 is a compact crossover that works well for commuting. The Mazda CX-5 is a refined compact SUV with everyday versatility. The Mazda CX-50 offers a more rugged SUV feel and is available as a hybrid. The Mazda CX-70 and Mazda CX-90 give drivers larger SUV options, with plug-in hybrid models available for shoppers interested in plug-in hybrid driving. 
- 
- 
- 
- 
- 
- Where can I service my Mazda near Downers Grove? 
- 
- You can schedule Mazda service at our Mazda Downers Grove dealership. Our service team can help with oil changes, tire rotations, brake inspections, battery checks, wheel alignments, filter replacements, diagnostics, fluid service, genuine Mazda parts, and scheduled maintenance. We serve Mazda drivers from Downers Grove, Naperville, Lombard, La Grange, Bolingbrook, and surrounding Illinois communities. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-     
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
- 
- 
- New  for Sale | Castle Mazda Downers Grove 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Keyword 
- 
- 
- 
- 
- 
- 
- 
- 
- SORT BY: 
- 
- Price lowest to highest 
- 
- 
- 
- 
- 
- Oldest in inventory to newest in inventory 
- Newest in inventory to oldest in inventory 
- Price highest to lowest 
- Price lowest to highest 
- Mileage highest to lowest 
- Mileage lowest to highest 
- Year lowest to highest 
- Year highest to lowest 
- Alphabetical 
- 
- 
- 
- 
- 
- 
- 
-                Refine Search
-               
- 
- 
- 
- 
- 
- Sort 
- 
- 
- 
- 
- 
- Oldest in inventory to newest in inventory 
- Newest in inventory to oldest in inventory 
- Price highest to lowest 
- Price lowest to highest 
- Mileage highest to lowest 
- Mileage lowest to highest 
- Year lowest to highest 
- Year highest to lowest 
- Alphabetical 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- New Mazda  for Sale in Downers Grove | Castle Mazda 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 3 
- 
- 
- 4 
- 
- 
- 5 
- 
- 
- 6 
- 
- 
- 7 
- 
- 
- 8 
- 
- 
- 9 
- 
- 
- 10 
- 
- 
- 11 
- 
- 
- 12 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+ Can't find what 
+ you're looking for? 
+ Let us know what you want. 
+ Reserve Your Vehicle 
  
  
  
@@ -17731,19 +18464,6 @@
  
  
  
- Can't find what 
- you're looking for? 
- Let us know what you want. 
- Reserve Your Vehicle 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -18271,706 +18991,6 @@
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-5 2.5 S Preferred AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
-                                            At Dealership
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KMCHA5T0173732 
- 
- 
- 
- Stock:  
- 
- #MD262971 
- 
- 
- 
- Exterior Color:  
-  Jet Black Mica 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 30 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $36,035 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountData && unlockCtaDiscountData.unlockDiscountCTAPriceLabel ? unlockCtaDiscountData.unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $36,448 
- 
- 
- Your Price
-                                                          
- $36,448 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $36,035 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-5 2.5 S Preferred AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
-                                            At Dealership
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KMCHA5T0130783 
- 
- 
- 
- Stock:  
- 
- #MD262770X 
- 
- 
- 
- Exterior Color:  
-  Machine Gray Metallic 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 30 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $37,115 
- 
- 
- Dealer Discount     
- -$1,076 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountData && unlockCtaDiscountData.unlockDiscountCTAPriceLabel ? unlockCtaDiscountData.unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $36,452 
- 
- 
- Your Price
-                                                          
- $36,452 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $37,115 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-5 2.5 S Preferred AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
-                                            At Dealership
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KMCHA0T0173637 
- 
- 
- 
- Stock:  
- 
- #MD262970 
- 
- 
- 
- Exterior Color:  
-  Jet Black Mica 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 30 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $36,120 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountData && unlockCtaDiscountData.unlockDiscountCTAPriceLabel ? unlockCtaDiscountData.unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $36,533 
- 
- 
- Your Price
-                                                          
- $36,533 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $36,120 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-5 2.5 S Preferred AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
-                                            At Dealership
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KMCHAXT0164458 
- 
- 
- 
- Stock:  
- 
- #MD262897 
- 
- 
- 
- Exterior Color:  
-  Soul Red Crystal Metallic 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 30 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $37,245 
- 
- 
- Dealer Discount     
- -$1,102 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountData && unlockCtaDiscountData.unlockDiscountCTAPriceLabel ? unlockCtaDiscountData.unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $36,556 
- 
- 
- Your Price
-                                                          
- $36,556 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $37,245 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
    
  
  
@@ -19436,18 +19456,18 @@
  
  VIN:  
  
- JM3KMCHAXT0173788 
+ JM3KMCHA5T0130783 
  
  
  
  Stock:  
  
- #MD262969 
+ #MD262770X 
  
  
  
  Exterior Color:  
-  Navy Blue Mica 
+  Machine Gray Metallic 
  
  
  Interior Color:  
@@ -19471,7 +19491,11 @@
  
  MSRP
   
- $36,320 
+ $37,115 
+ 
+ 
+ Dealer Discount     
+ -$1,076 
  
  
  Illinois Doc Fee + Electronic Filing Fee 
@@ -19489,12 +19513,12 @@
  
  Your Price
                                                           
- $36,733 
+ $36,452 
  
  
  Your Price
                                                           
- $36,733 
+ $36,452 
  
  
  
@@ -19507,7 +19531,7 @@
  
  
  MSRP 
- $36,320 
+ $37,115 
  
  
  
@@ -19609,18 +19633,18 @@
  
  VIN:  
  
- JM3KMCHA7T0174073 
+ JM3KMCHAXT0164458 
  
  
  
  Stock:  
  
- #MD262972 
+ #MD262897 
  
  
  
  Exterior Color:  
-  Jet Black Mica 
+  Soul Red Crystal Metallic 
  
  
  Interior Color:  
@@ -19644,7 +19668,11 @@
  
  MSRP
   
- $36,415 
+ $37,245 
+ 
+ 
+ Dealer Discount     
+ -$1,102 
  
  
  Illinois Doc Fee + Electronic Filing Fee 
@@ -19662,12 +19690,12 @@
  
  Your Price
                                                           
- $36,828 
+ $36,556 
  
  
  Your Price
                                                           
- $36,828 
+ $36,556 
  
  
  
@@ -19680,7 +19708,7 @@
  
  
  MSRP 
- $36,415 
+ $37,245 
  
  
  
@@ -24201,6 +24229,183 @@
  
   New 
  
+2026 Mazda CX-5 2.5 S Premium AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+                                            At Dealership
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM3KMDHA3T0175310 
+ 
+ 
+ 
+ Stock:  
+ 
+ #MD262973 
+ 
+ 
+ 
+ Exterior Color:  
+  Aero Gray Metallic 
+ 
+ 
+ Interior Color:  
+ Black Leather 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 30 / 24 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $40,125 
+ 
+ 
+ Dealer Discount     
+ -$1,215 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountData && unlockCtaDiscountData.unlockDiscountCTAPriceLabel ? unlockCtaDiscountData.unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $39,323 
+ 
+ 
+ Your Price
+                                                          
+ $39,323 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $40,125 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
 2026 Mazda CX-70 Plug-In Hybrid SC AWD                                  
  
  
@@ -24660,179 +24865,6 @@
  
  MSRP 
  $41,160 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-5 2.5 S Premium AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
-                                            At Dealership
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KMDHA3T0175310 
- 
- 
- 
- Stock:  
- 
- #MD262973 
- 
- 
- 
- Exterior Color:  
-  Aero Gray Metallic 
- 
- 
- Interior Color:  
- Black Leather 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 30 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $40,125 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountData && unlockCtaDiscountData.unlockDiscountCTAPriceLabel ? unlockCtaDiscountData.unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $40,538 
- 
- 
- Your Price
-                                                          
- $40,538 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $40,125 
  
  
  
@@ -26940,6 +26972,183 @@
  
   New 
  
+2026 Mazda CX-5 2.5 S Premium Plus AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+                                            At Dealership
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM3KMEHA4T0174303 
+ 
+ 
+ 
+ Stock:  
+ 
+ #MD262974 
+ 
+ 
+ 
+ Exterior Color:  
+  Machine Gray Metallic 
+ 
+ 
+ Interior Color:  
+ Black Leather 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 30 / 24 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $41,930 
+ 
+ 
+ Dealer Discount     
+ -$1,210 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountData && unlockCtaDiscountData.unlockDiscountCTAPriceLabel ? unlockCtaDiscountData.unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $41,133 
+ 
+ 
+ Your Price
+                                                          
+ $41,133 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $41,930 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
 2026 Mazda CX-50 Hybrid Premium Plus AWD                                  
  
  
@@ -27093,6 +27302,19 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can't find what 
+ you're looking for? 
+ Let us know what you want. 
+ Reserve Your Vehicle 
  
  
  
@@ -27274,19 +27496,6 @@
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Can't find what 
- you're looking for? 
- Let us know what you want. 
- Reserve Your Vehicle 
  
  
  
@@ -27601,179 +27810,6 @@
  
  MSRP 
  $44,880 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-5 2.5 S Premium Plus AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
-                                            At Dealership
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KMEHA4T0174303 
- 
- 
- 
- Stock:  
- 
- #MD262974 
- 
- 
- 
- Exterior Color:  
-  Machine Gray Metallic 
- 
- 
- Interior Color:  
- Black Leather 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 30 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $41,930 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountData && unlockCtaDiscountData.unlockDiscountCTAPriceLabel ? unlockCtaDiscountData.unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $42,343 
- 
- 
- Your Price
-                                                          
- $42,343 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $41,930 
  
  
  
@@ -42746,7 +42782,7 @@ This vehicle is currently in transit to our dealership. Please contact us for ad
  
  
  Highway/City MPG:  
- 33 / 24 
+ 31 / 24 
  
  
  
@@ -42927,7 +42963,7 @@ This vehicle is currently in transit to our dealership. Any ETA shown is only an
  
  
  Highway/City MPG:  
- 30 / 23 
+ 29 / 23 
  
  
  
@@ -43521,7 +43557,7 @@ This vehicle is currently in transit to our dealership. Any ETA shown is only an
  
  
  Highway/City MPG:  
- 31 / 26 
+ 33 / 24 
  
  
  
@@ -43702,7 +43738,7 @@ This vehicle is currently in transit to our dealership. Any ETA shown is only an
  
  
  Highway/City MPG:  
- 30 / 23 
+ 29 / 23 
  
  
  
@@ -43879,7 +43915,7 @@ This vehicle is currently in transit to our dealership. Any ETA shown is only an
  
  
  Highway/City MPG:  
- 31 / 26 
+ 33 / 24 
  
  
  
@@ -44060,7 +44096,7 @@ This vehicle is currently in transit to our dealership. Please contact us for ad
  
  
  Highway/City MPG:  
- 30 / 23 
+ 29 / 23 
  
  
  
@@ -44250,7 +44286,7 @@ This vehicle is currently in transit to our dealership. Please contact us for ad
  
  
  Highway/City MPG:  
- 31 / 26 
+ 33 / 24 
  
  
  
@@ -44431,7 +44467,7 @@ This vehicle is currently in transit to our dealership. Any ETA shown is only an
  
  
  Highway/City MPG:  
- 31 / 24 
+ 30 / 25 
  
  
  
@@ -48291,7 +48327,7 @@ This vehicle is currently in transit to our dealership. Any ETA shown is only an
  
  
  Highway/City MPG:  
- 31 / 24 
+ 30 / 25 
  
  
  
@@ -48826,7 +48862,7 @@ This vehicle is currently in transit to our dealership. Please contact us for ad
  
  
  Highway/City MPG:  
- 31 / 24 
+ 30 / 25 
  
  
  
@@ -58540,7 +58576,7 @@ This vehicle is currently in transit to our dealership. Please contact us for ad
  
  
  Highway/City MPG:  
- 34 / 26 
+ 28 / 21 
  
  
  
