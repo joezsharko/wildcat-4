@@ -35337,7 +35337,7 @@ This vehicle is currently in transit to our dealership. Any ETA shown is only an
  
  
  
-This vehicle is currently in transit to our dealership. Any ETA shown is only an estimate and is subject to change or delay. Please contact us for additional information.                                                   
+This vehicle is currently in transit to our dealership. Please contact us for additional information.                                                   
                                             In Transit
                                          
  
@@ -35348,13 +35348,13 @@ This vehicle is currently in transit to our dealership. Any ETA shown is only an
  
  VIN:  
  
- JM1BPBCL0T1892061 
+ JM1BPBCL7T1895913 
  
  
  
  Stock:  
  
- #JM1BPBCL0T1892061 
+ #JM1BPBCL7T1895913 
  
  
  
@@ -35532,7 +35532,7 @@ This vehicle is currently in transit to our dealership. Any ETA shown is only an
  
  
  
-This vehicle is currently in transit to our dealership. Please contact us for additional information.                                                   
+This vehicle is currently in transit to our dealership. Any ETA shown is only an estimate and is subject to change or delay. Please contact us for additional information.                                                   
                                             In Transit
                                          
  
@@ -35543,13 +35543,13 @@ This vehicle is currently in transit to our dealership. Please contact us for ad
  
  VIN:  
  
- JM1BPBCL7T1895913 
+ JM1BPBCL0T1892061 
  
  
  
  Stock:  
  
- #JM1BPBCL7T1895913 
+ #JM1BPBCL0T1892061 
  
  
  
