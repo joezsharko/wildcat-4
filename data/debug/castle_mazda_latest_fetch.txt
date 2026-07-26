@@ -2046,7 +2046,7 @@
  
   New 
  
-2026 Mazda CX-50 2.5 S Select                                  
+2026 Mazda CX-30 2.5 S Preferred AWD                                  
  
  
  
@@ -2075,22 +2075,22 @@
  
  VIN:  
  
- 7MMVABAL9TN493613 
+ 3MVDMBCL7TM215219 
  
  
  
  Stock:  
  
- #MD263002 
+ #MD262846X 
  
  
  
  Exterior Color:  
-  Ingot Blue Metallic 
+  Deep Crystal Blue Mica 
  
  
  Interior Color:  
- Black 
+ Black/Black Leatherette 
  
  
  Transmission:  
@@ -2102,55 +2102,59 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 31 / 24 
  
  
  
  
  
  MSRP
+  
+ $31,260 
  
- $31,620 
+ 
+ Dealer Discount     
+ -$757 
  
  
- Dealer Discount    
- -$1,793  
+ Customer Cash  
+ -$1,000 
  
  
  Illinois Doc Fee + Electronic Filing Fee 
  
  
-                               {{getDollarValue(413.0)}}
-                             
+                                         {{getDollarValue(413.0)}}
+                                       
  
  
  
                                                                 {{unlockCtaDiscountData && unlockCtaDiscountData.unlockDiscountCTAPriceLabel ? unlockCtaDiscountData.unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                             
+                                                                 
  - 
  
  
-  Your Price
-                                                              
- $30,240 
+ Your Price
+                                                          
+ $29,916 
  
  
-  Your Price
-                                                              
- $30,240 
+ Your Price
+                                                          
+ $29,916 
  
  
  
  
  
-                   Disclosure
+                     Disclosure
                    
  
  
  
  
  MSRP 
- $31,620 
+ $31,260 
  
  
  
@@ -2611,186 +2615,6 @@
  
  
  10 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-30 2.5 S Preferred AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
-                                            At Dealership
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- 3MVDMBCL7TM215219 
- 
- 
- 
- Stock:  
- 
- #MD262846X 
- 
- 
- 
- Exterior Color:  
-  Deep Crystal Blue Mica 
- 
- 
- Interior Color:  
- Black/Black Leatherette 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 31 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $31,260 
- 
- 
- Dealer Discount     
- -$757 
- 
- 
- Customer Cash  
- -$1,000 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountData && unlockCtaDiscountData.unlockDiscountCTAPriceLabel ? unlockCtaDiscountData.unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $29,916 
- 
- 
- Your Price
-                                                          
- $29,916 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $31,260 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
  
  
  
@@ -3293,6 +3117,182 @@
  
  MSRP 
  $32,465 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-50 2.5 S Select                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+                                            At Dealership
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ 7MMVABAL9TN493613 
+ 
+ 
+ 
+ Stock:  
+ 
+ #MD263002 
+ 
+ 
+ 
+ Exterior Color:  
+  Ingot Blue Metallic 
+ 
+ 
+ Interior Color:  
+ Black 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 30 / 24 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $31,620 
+ 
+ 
+ Dealer Discount     
+ -$793 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountData && unlockCtaDiscountData.unlockDiscountCTAPriceLabel ? unlockCtaDiscountData.unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $31,240 
+ 
+ 
+ Your Price
+                                                          
+ $31,240 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $31,620 
  
  
  
@@ -5630,18 +5630,18 @@
  
  VIN:  
  
- JM3KMBHA9T0120932 
+ JM3KMBHA5T0165253 
  
  
  
  Stock:  
  
- #MD262752 
+ #MD262885 
  
  
  
  Exterior Color:  
-  Navy Blue Mica 
+  Jet Black Mica 
  
  
  Interior Color:  
@@ -5819,18 +5819,18 @@
  
  VIN:  
  
- JM3KMBHA5T0165253 
+ JM3KMBHA9T0120932 
  
  
  
  Stock:  
  
- #MD262885 
+ #MD262752 
  
  
  
  Exterior Color:  
-  Jet Black Mica 
+  Navy Blue Mica 
  
  
  Interior Color:  
@@ -19440,22 +19440,22 @@
  
  VIN:  
  
- JM3KMCHAXT0173676 
+ JM3KMCHA6T0171925 
  
  
  
  Stock:  
  
- #MD262993 
+ #MD262936 
  
  
  
  Exterior Color:  
-  Rhodium White Metallic 
+  Machine Gray Metallic 
  
  
  Interior Color:  
- Pure White Leatherette 
+ Black Leatherette 
  
  
  Transmission:  
@@ -41644,7 +41644,7 @@ This vehicle is currently in transit to our dealership. Please contact us for ad
  
  
  Highway/City MPG:  
- 31 / 24 
+ 31 / 26 
  
  
  
@@ -41837,7 +41837,7 @@ This vehicle is currently in transit to our dealership. Any ETA shown is only an
  
  
  Highway/City MPG:  
- 31 / 24 
+ 31 / 26 
  
  
  
@@ -42017,7 +42017,7 @@ This vehicle is currently in transit to our dealership. Please contact us for ad
  
  
  Highway/City MPG:  
- 31 / 24 
+ 31 / 26 
  
  
  
@@ -42197,7 +42197,7 @@ This vehicle is currently in transit to our dealership. Please contact us for ad
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -42373,7 +42373,7 @@ This vehicle is currently in transit to our dealership. Any ETA shown is only an
  
  
  Highway/City MPG:  
- 33 / 24 
+ 31 / 26 
  
  
  
@@ -42553,7 +42553,7 @@ This vehicle is currently in transit to our dealership. Please contact us for ad
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -42729,7 +42729,7 @@ This vehicle is currently in transit to our dealership. Any ETA shown is only an
  
  
  Highway/City MPG:  
- 33 / 24 
+ 31 / 26 
  
  
  
@@ -42909,7 +42909,7 @@ This vehicle is currently in transit to our dealership. Any ETA shown is only an
  
  
  Highway/City MPG:  
- 31 / 24 
+ 30 / 25 
  
  
  
@@ -43525,7 +43525,7 @@ This vehicle is currently in transit to our dealership. Please contact us for ad
  
  MSRP
   
- $33,635 
+ $33,485 
  
  
  Illinois Doc Fee + Electronic Filing Fee 
@@ -43543,12 +43543,12 @@ This vehicle is currently in transit to our dealership. Please contact us for ad
  
  Your Price
                                                           
- $34,048 
+ $33,898 
  
  
  Your Price
                                                           
- $34,048 
+ $33,898 
  
  
  
@@ -43561,7 +43561,7 @@ This vehicle is currently in transit to our dealership. Please contact us for ad
  
  
  MSRP 
- $33,635 
+ $33,485 
  
  
  
@@ -46963,7 +46963,7 @@ This vehicle is currently in transit to our dealership. Any ETA shown is only an
  
  
  Highway/City MPG:  
- 31 / 24 
+ 30 / 25 
  
  
  
@@ -48776,6 +48776,195 @@ This vehicle is currently in transit to our dealership. Please contact us for ad
  
  VIN:  
  
+ JM3KMCHA1T0193508 
+ 
+ 
+ 
+ Stock:  
+ 
+ #JM3KMCHA1T0193508 
+ 
+ 
+ 
+ Exterior Color:  
+  Rhodium White Metallic 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 29 / 24 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $36,455 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountData && unlockCtaDiscountData.unlockDiscountCTAPriceLabel ? unlockCtaDiscountData.unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $36,868 
+ 
+ 
+ Your Price
+                                                          
+ $36,868 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $36,455 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can't find what 
+ you're looking for? 
+ Let us know what you want. 
+ Reserve Your Vehicle 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-5 2.5 S Preferred AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+This vehicle is currently in transit to our dealership. Please contact us for additional information.                                                   
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
  JM3KMCHA5T0208544 
  
  
@@ -48896,19 +49085,6 @@ This vehicle is currently in transit to our dealership. Please contact us for ad
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Can't find what 
- you're looking for? 
- Let us know what you want. 
- Reserve Your Vehicle 
  
  
  
@@ -49317,13 +49493,13 @@ This vehicle is currently in transit to our dealership. Please contact us for ad
  
  VIN:  
  
- JM3KMCHA1T0193508 
+ JM3KMCHAXT0193958 
  
  
  
  Stock:  
  
- #JM3KMCHA1T0193508 
+ #JM3KMCHAXT0193958 
  
  
  
@@ -49352,7 +49528,7 @@ This vehicle is currently in transit to our dealership. Please contact us for ad
  
  MSRP
   
- $36,605 
+ $36,575 
  
  
  Illinois Doc Fee + Electronic Filing Fee 
@@ -49370,12 +49546,12 @@ This vehicle is currently in transit to our dealership. Please contact us for ad
  
  Your Price
                                                           
- $37,018 
+ $36,988 
  
  
  Your Price
                                                           
- $37,018 
+ $36,988 
  
  
  
@@ -49388,7 +49564,7 @@ This vehicle is currently in transit to our dealership. Please contact us for ad
  
  
  MSRP 
- $36,605 
+ $36,575 
  
  
  
@@ -49565,182 +49741,6 @@ This vehicle is currently in transit to our dealership. Any ETA shown is only an
  
  MSRP 
  $36,715 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-5 2.5 S Preferred AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
-This vehicle is currently in transit to our dealership. Please contact us for additional information.                                                   
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KMCHAXT0193958 
- 
- 
- 
- Stock:  
- 
- #JM3KMCHAXT0193958 
- 
- 
- 
- Exterior Color:  
-  Rhodium White Metallic 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 29 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $36,725 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountData && unlockCtaDiscountData.unlockDiscountCTAPriceLabel ? unlockCtaDiscountData.unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $37,138 
- 
- 
- Your Price
-                                                          
- $37,138 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $36,725 
  
  
  
@@ -53750,7 +53750,7 @@ This vehicle is currently in transit to our dealership. Any ETA shown is only an
  
  
  Highway/City MPG:  
- 30 / 24 
+ 30 / 26 
  
  
  
@@ -54102,7 +54102,7 @@ This vehicle is currently in transit to our dealership. Any ETA shown is only an
  
  
  Highway/City MPG:  
- 30 / 24 
+ 30 / 26 
  
  
  
@@ -54454,7 +54454,7 @@ This vehicle is currently in transit to our dealership. Any ETA shown is only an
  
  
  Highway/City MPG:  
- 30 / 24 
+ 30 / 26 
  
  
  
@@ -54630,7 +54630,7 @@ This vehicle is currently in transit to our dealership. Any ETA shown is only an
  
  
  Highway/City MPG:  
- 30 / 24 
+ 30 / 26 
  
  
  
@@ -55766,7 +55766,7 @@ This vehicle is currently in transit to our dealership. Any ETA shown is only an
  
  
  Highway/City MPG:  
- 30 / 24 
+ 30 / 26 
  
  
  
@@ -56135,7 +56135,7 @@ This vehicle is currently in transit to our dealership. Any ETA shown is only an
  
  
  Highway/City MPG:  
- 30 / 24 
+ 30 / 26 
  
  
  
@@ -56491,7 +56491,7 @@ This vehicle is currently in transit to our dealership. Please contact us for ad
  
  
  Highway/City MPG:  
- 34 / 26 
+ 34 / 27 
  
  
  
