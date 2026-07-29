@@ -32716,7 +32716,7 @@
  
  
  Highway/City MPG:  
- 37 / 27 
+ 35 / 26 
  
  
  
@@ -32912,7 +32912,7 @@
  
  
  Highway/City MPG:  
- 37 / 27 
+ 35 / 26 
  
  
  
@@ -33108,7 +33108,7 @@
  
  
  Highway/City MPG:  
- 37 / 27 
+ 35 / 26 
  
  
  
@@ -33899,7 +33899,7 @@
  
  
  Highway/City MPG:  
- 35 / 26 
+ 34 / 27 
  
  
  
@@ -37260,7 +37260,7 @@
  
  
  Highway/City MPG:  
- 31 / 24 
+ 30 / 25 
  
  
  
@@ -37848,7 +37848,7 @@
  
  
  Highway/City MPG:  
- 33 / 24 
+ 31 / 24 
  
  
  
@@ -38044,7 +38044,7 @@
  
  
  Highway/City MPG:  
- 33 / 24 
+ 31 / 24 
  
  
  
@@ -38240,7 +38240,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 23 
  
  
  
@@ -38831,7 +38831,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 23 
  
  
  
@@ -39023,7 +39023,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 23 
  
  
  
@@ -39215,7 +39215,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 23 
  
  
  
@@ -39407,7 +39407,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 23 
  
  
  
@@ -39610,7 +39610,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 23 
  
  
  
@@ -39802,7 +39802,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 23 
  
  
  
@@ -39994,7 +39994,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 23 
  
  
  
@@ -40186,7 +40186,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 23 
  
  
  
@@ -40238,6 +40238,198 @@
  
  MSRP 
  $31,780 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        Personalize Payment Options
+                   
+ 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+ Schedule Test Drive 
+ Schedule Test Drive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-30 2.5 S Preferred AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ 3MVDMBCL1TM227656 
+ 
+ 
+ 
+ Stock:  
+ 
+ #3MVDMBCL1TM227656 
+ 
+ 
+ 
+ Exterior Color:  
+  Aero Gray Metallic 
+ 
+ 
+ Interior Color:  
+ Black/Black Leatherette 
+ 
+ 
+ Highway/City MPG:  
+ 31 / 24 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+ 
+ $32,195 
+ 
+ 
+ Doc Fee 
+ 
+ 
+                               {{getDollarValue(377.0)}}
+                             
+ 
+ 
+ Electronic Filing Fee 
+ 
+ 
+                               {{getDollarValue(35.0)}}
+                             
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                             
+ - 
+ 
+ 
+  Your Price
+                                                              
+ $32,607 
+ 
+ 
+  Your Price
+                                                              
+ $32,607 
+ 
+ 
+ 
+ 
+ 
+                   Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $32,195 
  
  
  
@@ -40574,7 +40766,7 @@
  
  
  Highway/City MPG:  
- 36 / 26 
+ 35 / 26 
  
  
  
@@ -40630,198 +40822,6 @@
  
  MSRP 
  $33,605 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                                        Personalize Payment Options
-                   
- 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
- Schedule Test Drive 
- Schedule Test Drive 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-5 2.5 S AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KMAHAXT0180454 
- 
- 
- 
- Stock:  
- 
- #JM3KMAHAXT0180454 
- 
- 
- 
- Exterior Color:  
-  Machine Gray Metallic 
- 
- 
- Interior Color:  
- Black Cloth 
- 
- 
- Highway/City MPG:  
- 29 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $32,330 
- 
- 
- Doc Fee 
- 
- 
-                                         {{getDollarValue(377.0)}}
-                                       
- 
- 
- Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(35.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $32,742 
- 
- 
- Your Price
-                                                          
- $32,742 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $32,330 
  
  
  
@@ -41308,6 +41308,198 @@
  
   New 
  
+2026 Mazda CX-5 2.5 S AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM3KMAHAXT0180454 
+ 
+ 
+ 
+ Stock:  
+ 
+ #JM3KMAHAXT0180454 
+ 
+ 
+ 
+ Exterior Color:  
+  Machine Gray Metallic 
+ 
+ 
+ Interior Color:  
+ Black Cloth 
+ 
+ 
+ Highway/City MPG:  
+ 30 / 23 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $32,330 
+ 
+ 
+ Doc Fee 
+ 
+ 
+                                         {{getDollarValue(377.0)}}
+                                       
+ 
+ 
+ Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(35.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $32,742 
+ 
+ 
+ Your Price
+                                                          
+ $32,742 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $32,330 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        Personalize Payment Options
+                   
+ 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+ Schedule Test Drive 
+ Schedule Test Drive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
 2026 Mazda CX-5 2.5 S Select AWD                                  
  
  
@@ -41361,7 +41553,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -41553,7 +41745,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -41745,7 +41937,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -41797,198 +41989,6 @@
  
  MSRP 
  $33,735 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                                        Personalize Payment Options
-                   
- 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
- Schedule Test Drive 
- Schedule Test Drive 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-5 2.5 S Select AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KMBHA8T0206474 
- 
- 
- 
- Stock:  
- 
- #JM3KMBHA8T0206474 
- 
- 
- 
- Exterior Color:  
-  Jet Black Mica 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Highway/City MPG:  
- 30 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $33,855 
- 
- 
- Doc Fee 
- 
- 
-                                         {{getDollarValue(377.0)}}
-                                       
- 
- 
- Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(35.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $34,267 
- 
- 
- Your Price
-                                                          
- $34,267 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $33,855 
  
  
  
@@ -42121,6 +42121,198 @@
  
  VIN:  
  
+ JM3KMBHA8T0206474 
+ 
+ 
+ 
+ Stock:  
+ 
+ #JM3KMBHA8T0206474 
+ 
+ 
+ 
+ Exterior Color:  
+  Jet Black Mica 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Highway/City MPG:  
+ 29 / 23 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $33,855 
+ 
+ 
+ Doc Fee 
+ 
+ 
+                                         {{getDollarValue(377.0)}}
+                                       
+ 
+ 
+ Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(35.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $34,267 
+ 
+ 
+ Your Price
+                                                          
+ $34,267 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $33,855 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        Personalize Payment Options
+                   
+ 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+ Schedule Test Drive 
+ Schedule Test Drive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-5 2.5 S Select AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
  JM3KMBHA4T0211879 
  
  
@@ -42140,7 +42332,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -42332,7 +42524,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -42524,7 +42716,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -42716,7 +42908,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -42908,7 +43100,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -43100,199 +43292,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $34,085 
- 
- 
- Doc Fee 
- 
- 
-                                         {{getDollarValue(377.0)}}
-                                       
- 
- 
- Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(35.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $34,497 
- 
- 
- Your Price
-                                                          
- $34,497 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $34,085 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                                        Personalize Payment Options
-                   
- 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
- Schedule Test Drive 
- Schedule Test Drive 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-5 2.5 S Select AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KMBHA3T0208553 
- 
- 
- 
- Stock:  
- 
- #JM3KMBHA3T0208553 
- 
- 
- 
- Exterior Color:  
-  Jet Black Mica 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -43864,6 +43864,198 @@
  
  VIN:  
  
+ JM3KMBHA3T0208553 
+ 
+ 
+ 
+ Stock:  
+ 
+ #JM3KMBHA3T0208553 
+ 
+ 
+ 
+ Exterior Color:  
+  Jet Black Mica 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Highway/City MPG:  
+ 29 / 23 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $34,085 
+ 
+ 
+ Doc Fee 
+ 
+ 
+                                         {{getDollarValue(377.0)}}
+                                       
+ 
+ 
+ Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(35.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $34,497 
+ 
+ 
+ Your Price
+                                                          
+ $34,497 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $34,085 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        Personalize Payment Options
+                   
+ 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+ Schedule Test Drive 
+ Schedule Test Drive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-5 2.5 S Select AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
  JM3KMBHA7T0182961 
  
  
@@ -43883,7 +44075,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -44075,7 +44267,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -44267,7 +44459,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -44319,198 +44511,6 @@
  
  MSRP 
  $34,185 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                                        Personalize Payment Options
-                   
- 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
- Schedule Test Drive 
- Schedule Test Drive 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-5 2.5 S Select AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KMBHA5T0210286 
- 
- 
- 
- Stock:  
- 
- #JM3KMBHA5T0210286 
- 
- 
- 
- Exterior Color:  
-  Jet Black Mica 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Highway/City MPG:  
- 30 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $34,210 
- 
- 
- Doc Fee 
- 
- 
-                                         {{getDollarValue(377.0)}}
-                                       
- 
- 
- Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(35.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $34,622 
- 
- 
- Your Price
-                                                          
- $34,622 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $34,210 
  
  
  
@@ -44643,6 +44643,198 @@
  
  VIN:  
  
+ JM3KMBHA5T0210286 
+ 
+ 
+ 
+ Stock:  
+ 
+ #JM3KMBHA5T0210286 
+ 
+ 
+ 
+ Exterior Color:  
+  Jet Black Mica 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Highway/City MPG:  
+ 29 / 23 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $34,210 
+ 
+ 
+ Doc Fee 
+ 
+ 
+                                         {{getDollarValue(377.0)}}
+                                       
+ 
+ 
+ Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(35.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $34,622 
+ 
+ 
+ Your Price
+                                                          
+ $34,622 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $34,210 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        Personalize Payment Options
+                   
+ 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+ Schedule Test Drive 
+ Schedule Test Drive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-5 2.5 S Select AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
  JM3KMBHA6T0194311 
  
  
@@ -44662,7 +44854,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -44854,7 +45046,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -45046,7 +45238,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -45238,7 +45430,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -45430,7 +45622,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -45622,7 +45814,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -45674,198 +45866,6 @@
  
  MSRP 
  $34,420 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                                        Personalize Payment Options
-                   
- 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
- Schedule Test Drive 
- Schedule Test Drive 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-5 2.5 S Select AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KMBHA8T0192642 
- 
- 
- 
- Stock:  
- 
- #JM3KMBHA8T0192642 
- 
- 
- 
- Exterior Color:  
-  Machine Gray Metallic 
- 
- 
- Interior Color:  
- Pure White Leatherette 
- 
- 
- Highway/City MPG:  
- 30 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $34,445 
- 
- 
- Doc Fee 
- 
- 
-                                         {{getDollarValue(377.0)}}
-                                       
- 
- 
- Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(35.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $34,857 
- 
- 
- Your Price
-                                                          
- $34,857 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $34,445 
  
  
  
@@ -46386,6 +46386,198 @@
  
  VIN:  
  
+ JM3KMBHA8T0192642 
+ 
+ 
+ 
+ Stock:  
+ 
+ #JM3KMBHA8T0192642 
+ 
+ 
+ 
+ Exterior Color:  
+  Machine Gray Metallic 
+ 
+ 
+ Interior Color:  
+ Pure White Leatherette 
+ 
+ 
+ Highway/City MPG:  
+ 29 / 23 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $34,445 
+ 
+ 
+ Doc Fee 
+ 
+ 
+                                         {{getDollarValue(377.0)}}
+                                       
+ 
+ 
+ Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(35.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $34,857 
+ 
+ 
+ Your Price
+                                                          
+ $34,857 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $34,445 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        Personalize Payment Options
+                   
+ 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+ Schedule Test Drive 
+ Schedule Test Drive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-5 2.5 S Select AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
  JM3KMBHA7T0208331 
  
  
@@ -46405,7 +46597,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -46597,7 +46789,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -46789,7 +46981,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -46841,198 +47033,6 @@
  
  MSRP 
  $34,585 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                                        Personalize Payment Options
-                   
- 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
- Schedule Test Drive 
- Schedule Test Drive 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-5 2.5 S Select AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KMBHA3T0188529 
- 
- 
- 
- Stock:  
- 
- #JM3KMBHA3T0188529 
- 
- 
- 
- Exterior Color:  
-  Machine Gray Metallic 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Highway/City MPG:  
- 30 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $34,620 
- 
- 
- Doc Fee 
- 
- 
-                                         {{getDollarValue(377.0)}}
-                                       
- 
- 
- Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(35.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $35,032 
- 
- 
- Your Price
-                                                          
- $35,032 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $34,620 
  
  
  
@@ -47165,6 +47165,198 @@
  
  VIN:  
  
+ JM3KMBHA3T0188529 
+ 
+ 
+ 
+ Stock:  
+ 
+ #JM3KMBHA3T0188529 
+ 
+ 
+ 
+ Exterior Color:  
+  Machine Gray Metallic 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Highway/City MPG:  
+ 29 / 23 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $34,620 
+ 
+ 
+ Doc Fee 
+ 
+ 
+                                         {{getDollarValue(377.0)}}
+                                       
+ 
+ 
+ Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(35.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $35,032 
+ 
+ 
+ Your Price
+                                                          
+ $35,032 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $34,620 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        Personalize Payment Options
+                   
+ 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+ Schedule Test Drive 
+ Schedule Test Drive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-5 2.5 S Select AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
  JM3KMBHA1T0192613 
  
  
@@ -47184,7 +47376,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -47768,7 +47960,7 @@
  
  
  Highway/City MPG:  
- 28 / 21 
+ 34 / 26 
  
  
  
@@ -47960,7 +48152,7 @@
  
  
  Highway/City MPG:  
- 31 / 24 
+ 30 / 24 
  
  
  
@@ -48156,7 +48348,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -48208,202 +48400,6 @@
  
  MSRP 
  $35,835 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                                        Personalize Payment Options
-                   
- 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
- Schedule Test Drive 
- Schedule Test Drive 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-50 Hybrid Preferred AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- 7MMVAABWXTN184607 
- 
- 
- 
- Stock:  
- 
- #7MMVAABWXTN184607 
- 
- 
- 
- Exterior Color:  
-  Polymetal Gray Metallic 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Highway/City MPG:  
- 37 / 39 
- 
- 
- 
- 
- 
- MSRP
-  
- $36,840 
- 
- 
- Customer Cash  
- -$1,000 
- 
- 
- Doc Fee 
- 
- 
-                                         {{getDollarValue(377.0)}}
-                                       
- 
- 
- Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(35.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $36,252 
- 
- 
- Your Price
-                                                          
- $36,252 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $36,840 
  
  
  
@@ -48890,6 +48886,202 @@
  
   New 
  
+2026 Mazda CX-50 Hybrid Preferred AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ 7MMVAABWXTN184607 
+ 
+ 
+ 
+ Stock:  
+ 
+ #7MMVAABWXTN184607 
+ 
+ 
+ 
+ Exterior Color:  
+  Polymetal Gray Metallic 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Highway/City MPG:  
+ 37 / 39 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $36,840 
+ 
+ 
+ Customer Cash  
+ -$1,000 
+ 
+ 
+ Doc Fee 
+ 
+ 
+                                         {{getDollarValue(377.0)}}
+                                       
+ 
+ 
+ Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(35.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $36,252 
+ 
+ 
+ Your Price
+                                                          
+ $36,252 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $36,840 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        Personalize Payment Options
+                   
+ 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+ Schedule Test Drive 
+ Schedule Test Drive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
 2026 Mazda CX-5 2.5 S Preferred AWD                                  
  
  
@@ -48943,7 +49135,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -49135,7 +49327,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -49327,7 +49519,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -49440,6 +49632,17 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  What's your car worth? Use our easy online trade-in calculator and get an appraisal today! 
+ Value Your Trade 
  
  
  
@@ -49519,7 +49722,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -49632,17 +49835,6 @@
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  What's your car worth? Use our easy online trade-in calculator and get an appraisal today! 
- Value Your Trade 
  
  
  
@@ -49918,7 +50110,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -50110,7 +50302,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -50302,7 +50494,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -50494,7 +50686,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -50667,269 +50859,77 @@
  
  VIN:  
  
- JM3KMCHA8T0194249 
+ JM3KMCHA1T0213272 
  
  
  
  Stock:  
  
- #JM3KMCHA8T0194249 
+ #JM3KMCHA1T0213272 
  
  
  
  Exterior Color:  
-  Jet Black Mica 
+  Aero Gray Metallic 
  
  
  Interior Color:  
- Black Leatherette 
+ Pure White Leatherette 
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
  
  
  MSRP
-  
- $36,320 
+ 
+ $36,665 
  
  
  Doc Fee 
  
  
-                                         {{getDollarValue(377.0)}}
-                                       
+                               {{getDollarValue(377.0)}}
+                             
  
  
  Electronic Filing Fee 
  
  
-                                         {{getDollarValue(35.0)}}
-                                       
+                               {{getDollarValue(35.0)}}
+                             
  
  
  
                                                                 {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
+                                                             
  - 
  
  
- Your Price
-                                                          
- $36,732 
+  Your Price
+                                                              
+ $37,077 
  
  
- Your Price
-                                                          
- $36,732 
+  Your Price
+                                                              
+ $37,077 
  
  
  
  
  
-                     Disclosure
+                   Disclosure
                    
  
  
  
  
  MSRP 
- $36,320 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                                        Personalize Payment Options
-                   
- 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
- Schedule Test Drive 
- Schedule Test Drive 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-5 2.5 S Preferred AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KMCHA3T0206632 
- 
- 
- 
- Stock:  
- 
- #JM3KMCHA3T0206632 
- 
- 
- 
- Exterior Color:  
-  Navy Blue Mica 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Highway/City MPG:  
- 30 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $36,340 
- 
- 
- Doc Fee 
- 
- 
-                                         {{getDollarValue(377.0)}}
-                                       
- 
- 
- Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(35.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $36,752 
- 
- 
- Your Price
-                                                          
- $36,752 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $36,340 
+ $36,665 
  
  
  
@@ -51416,6 +51416,390 @@
  
   New 
  
+2026 Mazda CX-5 2.5 S Preferred AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM3KMCHA8T0194249 
+ 
+ 
+ 
+ Stock:  
+ 
+ #JM3KMCHA8T0194249 
+ 
+ 
+ 
+ Exterior Color:  
+  Jet Black Mica 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Highway/City MPG:  
+ 29 / 23 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $36,320 
+ 
+ 
+ Doc Fee 
+ 
+ 
+                                         {{getDollarValue(377.0)}}
+                                       
+ 
+ 
+ Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(35.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $36,732 
+ 
+ 
+ Your Price
+                                                          
+ $36,732 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $36,320 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        Personalize Payment Options
+                   
+ 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+ Schedule Test Drive 
+ Schedule Test Drive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-5 2.5 S Preferred AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM3KMCHA3T0206632 
+ 
+ 
+ 
+ Stock:  
+ 
+ #JM3KMCHA3T0206632 
+ 
+ 
+ 
+ Exterior Color:  
+  Navy Blue Mica 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Highway/City MPG:  
+ 29 / 23 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $36,340 
+ 
+ 
+ Doc Fee 
+ 
+ 
+                                         {{getDollarValue(377.0)}}
+                                       
+ 
+ 
+ Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(35.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $36,752 
+ 
+ 
+ Your Price
+                                                          
+ $36,752 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $36,340 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        Personalize Payment Options
+                   
+ 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+ Schedule Test Drive 
+ Schedule Test Drive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
 2026 Mazda CX-50 Hybrid Preferred AWD                                  
  
  
@@ -51665,7 +52049,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -51787,6 +52171,17 @@
  
  
  
+  What's your car worth? Use our easy online trade-in calculator and get an appraisal today! 
+ Value Your Trade 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
@@ -51857,7 +52252,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -52175,17 +52570,6 @@
  
  
  
-  What's your car worth? Use our easy online trade-in calculator and get an appraisal today! 
- Value Your Trade 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -52256,7 +52640,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -52448,7 +52832,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -52640,7 +53024,7 @@
  
  
  Highway/City MPG:  
- 31 / 24 
+ 30 / 24 
  
  
  
@@ -52836,7 +53220,7 @@
  
  
  Highway/City MPG:  
- 31 / 24 
+ 30 / 24 
  
  
  
@@ -53013,18 +53397,18 @@
  
  VIN:  
  
- JM3KMCHA7T0184621 
+ JM3KMCHA3T0189024 
  
  
  
  Stock:  
  
- #JM3KMCHA7T0184621 
+ #JM3KMCHA3T0189024 
  
  
  
  Exterior Color:  
-  Navy Blue Mica 
+  Aero Gray Metallic 
  
  
  Interior Color:  
@@ -53032,446 +53416,58 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
  
  
  MSRP
-  
- $36,540 
+ 
+ $36,940 
  
  
  Doc Fee 
  
  
-                                         {{getDollarValue(377.0)}}
-                                       
+                               {{getDollarValue(377.0)}}
+                             
  
  
  Electronic Filing Fee 
  
  
-                                         {{getDollarValue(35.0)}}
-                                       
+                               {{getDollarValue(35.0)}}
+                             
  
  
  
                                                                 {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
+                                                             
  - 
  
  
- Your Price
-                                                          
- $36,952 
+  Your Price
+                                                              
+ $37,352 
  
  
- Your Price
-                                                          
- $36,952 
+  Your Price
+                                                              
+ $37,352 
  
  
  
  
  
-                     Disclosure
+                   Disclosure
                    
  
  
  
  
  MSRP 
- $36,540 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                                        Personalize Payment Options
-                   
- 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
- Schedule Test Drive 
- Schedule Test Drive 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-50 2.5 S Premium AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- 7MMVABDL1TN618308 
- 
- 
- 
- Stock:  
- 
- #7MMVABDL1TN618308 
- 
- 
- 
- Exterior Color:  
-  Polymetal Gray Metallic 
- 
- 
- Interior Color:  
- Black Leather 
- 
- 
- Highway/City MPG:  
- 31 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $37,555 
- 
- 
- Customer Cash  
- -$1,000 
- 
- 
- Doc Fee 
- 
- 
-                                         {{getDollarValue(377.0)}}
-                                       
- 
- 
- Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(35.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $36,967 
- 
- 
- Your Price
-                                                          
- $36,967 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $37,555 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                                        Personalize Payment Options
-                   
- 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
- Schedule Test Drive 
- Schedule Test Drive 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-5 2.5 S Preferred AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KMCHA1T0184615 
- 
- 
- 
- Stock:  
- 
- #JM3KMCHA1T0184615 
- 
- 
- 
- Exterior Color:  
-  Soul Red Crystal Metallic 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Highway/City MPG:  
- 30 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $36,600 
- 
- 
- Doc Fee 
- 
- 
-                                         {{getDollarValue(377.0)}}
-                                       
- 
- 
- Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(35.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $37,012 
- 
- 
- Your Price
-                                                          
- $37,012 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $36,600 
+ $36,940 
  
  
  
@@ -53992,6 +53988,789 @@
  
  VIN:  
  
+ JM3KMCHA7T0184621 
+ 
+ 
+ 
+ Stock:  
+ 
+ #JM3KMCHA7T0184621 
+ 
+ 
+ 
+ Exterior Color:  
+  Navy Blue Mica 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Highway/City MPG:  
+ 29 / 23 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $36,540 
+ 
+ 
+ Doc Fee 
+ 
+ 
+                                         {{getDollarValue(377.0)}}
+                                       
+ 
+ 
+ Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(35.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $36,952 
+ 
+ 
+ Your Price
+                                                          
+ $36,952 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $36,540 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        Personalize Payment Options
+                   
+ 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+ Schedule Test Drive 
+ Schedule Test Drive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-50 2.5 S Premium AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ 7MMVABDL1TN618308 
+ 
+ 
+ 
+ Stock:  
+ 
+ #7MMVABDL1TN618308 
+ 
+ 
+ 
+ Exterior Color:  
+  Polymetal Gray Metallic 
+ 
+ 
+ Interior Color:  
+ Black Leather 
+ 
+ 
+ Highway/City MPG:  
+ 30 / 24 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $37,555 
+ 
+ 
+ Customer Cash  
+ -$1,000 
+ 
+ 
+ Doc Fee 
+ 
+ 
+                                         {{getDollarValue(377.0)}}
+                                       
+ 
+ 
+ Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(35.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $36,967 
+ 
+ 
+ Your Price
+                                                          
+ $36,967 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $37,555 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        Personalize Payment Options
+                   
+ 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+ Schedule Test Drive 
+ Schedule Test Drive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-5 2.5 S Preferred AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM3KMCHA1T0213157 
+ 
+ 
+ 
+ Stock:  
+ 
+ #JM3KMCHA1T0213157 
+ 
+ 
+ 
+ Exterior Color:  
+  Rhodium White Metallic 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Highway/City MPG:  
+ 29 / 23 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+ 
+ $37,000 
+ 
+ 
+ Doc Fee 
+ 
+ 
+                               {{getDollarValue(377.0)}}
+                             
+ 
+ 
+ Electronic Filing Fee 
+ 
+ 
+                               {{getDollarValue(35.0)}}
+                             
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                             
+ - 
+ 
+ 
+  Your Price
+                                                              
+ $37,412 
+ 
+ 
+  Your Price
+                                                              
+ $37,412 
+ 
+ 
+ 
+ 
+ 
+                   Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $37,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        Personalize Payment Options
+                   
+ 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+ Schedule Test Drive 
+ Schedule Test Drive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-5 2.5 S Preferred AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM3KMCHA1T0184615 
+ 
+ 
+ 
+ Stock:  
+ 
+ #JM3KMCHA1T0184615 
+ 
+ 
+ 
+ Exterior Color:  
+  Soul Red Crystal Metallic 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Highway/City MPG:  
+ 29 / 23 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $36,600 
+ 
+ 
+ Doc Fee 
+ 
+ 
+                                         {{getDollarValue(377.0)}}
+                                       
+ 
+ 
+ Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(35.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $37,012 
+ 
+ 
+ Your Price
+                                                          
+ $37,012 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $36,600 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        Personalize Payment Options
+                   
+ 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+ Schedule Test Drive 
+ Schedule Test Drive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  What's your car worth? Use our easy online trade-in calculator and get an appraisal today! 
+ Value Your Trade 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-5 2.5 S Preferred AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
  JM3KMCHA3T0210454 
  
  
@@ -54011,7 +54790,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -54203,7 +54982,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -54395,7 +55174,7 @@
  
  
  Highway/City MPG:  
- 31 / 24 
+ 30 / 24 
  
  
  
@@ -54591,7 +55370,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -54713,17 +55492,6 @@
  
  
  
-  What's your car worth? Use our easy online trade-in calculator and get an appraisal today! 
- Value Your Trade 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -54794,7 +55562,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -54986,7 +55754,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -55178,7 +55946,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -55282,6 +56050,405 @@
  
  Schedule Test Drive 
  Schedule Test Drive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ 18 
+ 
+ 
+ 19 
+ 
+ 
+ 20 
+ 
+ 
+ 21 
+ 
+ 
+ 22 
+ 
+ 
+ 23 
+ 
+ 
+ 24 
+ 
+ 
+ 25 
+ 
+ 
+ 26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Back to Top 
+ 
+ 
+ 
+ 
+ 
+ 
+ Frequently Asked Questions About New Mazda Vehicles in Chicago, IL 
+ 
+ 
+ 
+ 
+ Why is buying a brand-new Mazda a great investment? 
+ 
+ Choosing a factory-fresh model is the absolute best way to experience everything the brand has to offer, from incredible handling to premium cabin finishes, while completely protecting your wallet from the unpredictable repairs common with older vehicles. Sourcing your vehicle straight from our showroom floor guarantees a spotless maintenance history, meaning you never have to worry about how a previous owner drove it or whether they skipped vital maintenance appointments. 
+ Every new vehicle comes backed by an expansive manufacturer warranty layout that takes care of covered powertrain or electronic issues automatically, with zero out-of-pocket stress for you. Additionally, buying new ensures you immediately get the absolute latest safety sensors, responsive infotainment upgrades, and highly optimized fuel-saving engineering straight from the assembly line. 
+ Mazda builds cars with a deep driver-centric focus, creating a unique level of responsiveness that makes every daily commute feel completely natural and rewarding. Investing in a brand-new model keeps your family comfortable and safe on Chicagoland streets across all four seasons. 
+ 
+ 
+ 
+ What models and fuel-efficient options are available in the lineup? 
+ 
+ The new inventory features a diverse matrix of body styles designed to fit into different driving routines and family sizes perfectly. City commuters looking for sharp styling, easy parallel parking, and outstanding gas mileage will love the nimble Mazda3 Sedan and Mazda3 Hatchback line. If you want everyday flexibility and a higher view of the road, our crossover collection includes the sleek CX-30, the universally popular CX-5, and the rugged CX-50. 
+ For drivers who need serious interior volume or advanced hybrid layouts, Mazda offers groundbreaking multi-energy setups. Crossover shoppers can explore excellent fuel savings with the CX-50 Hybrid, built with an electrified platform made for weekend road trips. For premium luxury and space, the large two-row CX-70 and three-row CX-90 flagships deliver massive power through mild-hybrid inline-six engines or advanced plug-in hybrid setups. 
+ These advanced plug-in hybrid options pair an efficient gasoline engine with a high-capacity electric battery to provide a highly practical all-electric driving range around the city, shifting seamlessly back to standard hybrid operation on longer journeys to eliminate range anxiety entirely. 
+ 
+ 
+ 
+ How does standard i-ACTIV AWD® handle brutal Chicago winters? 
+ 
+ Navigating snow-covered city streets, heavy downpours, and slick patches of black ice demands a smart, stable drivetrain that reacts instantly to changing conditions. Mazda answers this challenge by making its intelligent i-ACTIV AWD® system standard equipment on every single crossover and SUV model on our lot. Unlike older all-wheel-drive platforms that only step in after your wheels start spinning, this proactive system continuously monitors the environment to prevent traction loss before it happens. 
+ The system analyzes multiple data points in real time—including outside ambient temperature levels, active windshield wiper usage, steering inputs, and individual wheel speeds—to instantly understand the road surface. Power shifts automatically and seamlessly to the specific tires with the strongest physical grip, keeping you tracking in a straight line without any sudden slips. 
+ Combined with Mazda Intelligent Drive Select technology, you can manually switch between driving modes to perfectly tune your performance. This advanced mechanical optimization delivers absolute confidence, helping local commuters navigate severe midwestern weather safely. 
+ 
+ 
+ 
+ Can I manage my trade-in valuation and auto financing steps from home? 
+ 
+ Yes, you absolutely can handle the main financial components of your upcoming purchase right from your computer to save time when visiting our physical building. Our site features a secure, digital trade calculation tool. By simply inputting your current vehicle's exact condition parameters and mileage details, you can quickly check its real-market equity value based on real-time data trends. 
+ Knowing your baseline trade numbers helps you structure an accurate budget. From there, you can submit your credit application securely online. This lets you explore your auto pre-approval paths and customize your down payment options on your own schedule, so you know exactly where you stand before coming in for a test drive. 
+ Our dedicated on-site finance department maintains deep relationships with top lenders, major commercial banking networks, and regional credit unions. This wide matrix of resources allows our specialists to connect buyers with highly competitive interest rates and custom loan terms built comfortably around your personal household balance sheet. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ready to Upgrade Your Driving Experience? 
+ Our friendly team of product specialists at McGrath City Mazda is ready to guide you through our selection of brand-new vehicles. We can help you compare cabin volumes, demonstrate the intuitive infotainment tech displays, explain hybrid battery charging setups, and build a personalized payment profile around your budget goals. 
+ We keep our showroom completely relaxed and customer-focused because your satisfaction is our main priority. We believe in direct numbers, clear details about every model, and honest answers. We do not use high-pressure sales pitches or unexpected dealer fees, so you can shop with complete confidence. 
+ Browse our current options online, compare features side-by-side, check out our latest promotions, or schedule an extensive test drive today. Drop our staff a quick message through our secure online contact page whenever you are ready to get started! 
+ 
+ 
+ Contact Our Sales Team 
+ 
+ 
+ 
+ 
+ 
+ Find an Outstanding New Mazda for Sale in Chicago, IL 
+ Upgrading your everyday drive to a highly capable, exceptionally comfortable, and modern new vehicle should be an open and rewarding journey. At McGrath City Mazda, we make it completely easy for drivers from across Chicago, Cicero, Oak Park, Berwyn, and Elmhurst to discover the incredible value within our  new Mazda inventory . Mazda models consistently stand out because they deliver a perfect balance of striking aesthetic design, robust mechanical durability, and driver-focused utility. Sourcing a new model from our showroom floor represents a highly practical move, enabling you to acquire elite modern refinements—such as intuitive center touchscreens, wireless smartphone connectivity, intelligent driver-assist safety sensors, and standard all-wheel drive—all while staying in total control of your household budget variables. 
+ A Seamless Automotive Path from Start to Finish 
+ We believe in making the car-shopping process completely straightforward and direct for our neighbors. To plan ahead from home, you can quickly  value your trade  online to see your vehicle equity. When you are ready to explore payment configurations, you can securely  apply for financing  to check your auto pre-approval paths. Be sure to look over our active  new vehicle specials  and rotating  dealer specials  to maximize your savings at the table. 
+ If you are keeping your options open and want to compare new models against premium pre-owned alternatives, we invite you to browse our standard  used cars , explore our budget-friendly pre-owned selections under $25k or under $20k, or check out our factory-backed  certified pre-owned  models. Don't forget to take a look at our current  pre-owned specials  for extra ways to save on a quality pre-owned car. 
+ Once a vehicle catches your eye, go ahead and  schedule a test drive  to experience the legendary Mazda driving connection firsthand. Our commitment to you continues for the life of your vehicle—our modern service center makes it simple to  schedule service  for routine maintenance, and you can easily  order parts  online for any quick upgrades. For any general questions or personal shopping assistance, please feel free to  contact us  today to speak directly with our friendly local staff! 
+ 
+ 
+ Browse New Inventory 
+ 
+ 
+ Get Approved Online 
+ 
+ 
+ Value Your Current Trade 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ New Mazda for Sale in Chicago, IL | McGrath City Mazda 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Keyword 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SORT BY: 
+ 
+ Price lowest to highest 
+ 
+ 
+ 
+ 
+ 
+ Price highest to lowest 
+ Price lowest to highest 
+ Mileage highest to lowest 
+ Mileage lowest to highest 
+ Year lowest to highest 
+ Year highest to lowest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Refine Search
+               
+ 
+ 
+ 
+ 
+ 
+ Sort 
+ 
+ 
+ 
+ 
+ 
+ Price highest to lowest 
+ Price lowest to highest 
+ Mileage highest to lowest 
+ Mileage lowest to highest 
+ Year lowest to highest 
+ Year highest to lowest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ New Mazda for Sale in Chicago, IL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18 
+ 
+ 
+ 19 
+ 
+ 
+ 20 
+ 
+ 
+ 21 
+ 
+ 
+ 22 
+ 
+ 
+ 23 
+ 
+ 
+ 24 
+ 
+ 
+ 25 
+ 
+ 
+ 26 
+ 
+ 
+ 27 
+ 
  
  
  
@@ -56075,401 +57242,13 @@
  
  
  
-   
  
  
-   
  
  
  
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 17 
- 
- 
- 18 
- 
- 
- 19 
- 
- 
- 20 
- 
- 
- 21 
- 
- 
- 22 
- 
- 
- 23 
- 
- 
- 24 
- 
- 
- 25 
- 
- 
- 26 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Back to Top 
- 
- 
- 
- 
- 
- 
- Frequently Asked Questions About New Mazda Vehicles in Chicago, IL 
- 
- 
- 
- 
- Why is buying a brand-new Mazda a great investment? 
- 
- Choosing a factory-fresh model is the absolute best way to experience everything the brand has to offer, from incredible handling to premium cabin finishes, while completely protecting your wallet from the unpredictable repairs common with older vehicles. Sourcing your vehicle straight from our showroom floor guarantees a spotless maintenance history, meaning you never have to worry about how a previous owner drove it or whether they skipped vital maintenance appointments. 
- Every new vehicle comes backed by an expansive manufacturer warranty layout that takes care of covered powertrain or electronic issues automatically, with zero out-of-pocket stress for you. Additionally, buying new ensures you immediately get the absolute latest safety sensors, responsive infotainment upgrades, and highly optimized fuel-saving engineering straight from the assembly line. 
- Mazda builds cars with a deep driver-centric focus, creating a unique level of responsiveness that makes every daily commute feel completely natural and rewarding. Investing in a brand-new model keeps your family comfortable and safe on Chicagoland streets across all four seasons. 
- 
- 
- 
- What models and fuel-efficient options are available in the lineup? 
- 
- The new inventory features a diverse matrix of body styles designed to fit into different driving routines and family sizes perfectly. City commuters looking for sharp styling, easy parallel parking, and outstanding gas mileage will love the nimble Mazda3 Sedan and Mazda3 Hatchback line. If you want everyday flexibility and a higher view of the road, our crossover collection includes the sleek CX-30, the universally popular CX-5, and the rugged CX-50. 
- For drivers who need serious interior volume or advanced hybrid layouts, Mazda offers groundbreaking multi-energy setups. Crossover shoppers can explore excellent fuel savings with the CX-50 Hybrid, built with an electrified platform made for weekend road trips. For premium luxury and space, the large two-row CX-70 and three-row CX-90 flagships deliver massive power through mild-hybrid inline-six engines or advanced plug-in hybrid setups. 
- These advanced plug-in hybrid options pair an efficient gasoline engine with a high-capacity electric battery to provide a highly practical all-electric driving range around the city, shifting seamlessly back to standard hybrid operation on longer journeys to eliminate range anxiety entirely. 
- 
- 
- 
- How does standard i-ACTIV AWD® handle brutal Chicago winters? 
- 
- Navigating snow-covered city streets, heavy downpours, and slick patches of black ice demands a smart, stable drivetrain that reacts instantly to changing conditions. Mazda answers this challenge by making its intelligent i-ACTIV AWD® system standard equipment on every single crossover and SUV model on our lot. Unlike older all-wheel-drive platforms that only step in after your wheels start spinning, this proactive system continuously monitors the environment to prevent traction loss before it happens. 
- The system analyzes multiple data points in real time—including outside ambient temperature levels, active windshield wiper usage, steering inputs, and individual wheel speeds—to instantly understand the road surface. Power shifts automatically and seamlessly to the specific tires with the strongest physical grip, keeping you tracking in a straight line without any sudden slips. 
- Combined with Mazda Intelligent Drive Select technology, you can manually switch between driving modes to perfectly tune your performance. This advanced mechanical optimization delivers absolute confidence, helping local commuters navigate severe midwestern weather safely. 
- 
- 
- 
- Can I manage my trade-in valuation and auto financing steps from home? 
- 
- Yes, you absolutely can handle the main financial components of your upcoming purchase right from your computer to save time when visiting our physical building. Our site features a secure, digital trade calculation tool. By simply inputting your current vehicle's exact condition parameters and mileage details, you can quickly check its real-market equity value based on real-time data trends. 
- Knowing your baseline trade numbers helps you structure an accurate budget. From there, you can submit your credit application securely online. This lets you explore your auto pre-approval paths and customize your down payment options on your own schedule, so you know exactly where you stand before coming in for a test drive. 
- Our dedicated on-site finance department maintains deep relationships with top lenders, major commercial banking networks, and regional credit unions. This wide matrix of resources allows our specialists to connect buyers with highly competitive interest rates and custom loan terms built comfortably around your personal household balance sheet. 
- 
- 
- 
- 
- 
- 
- Ready to Upgrade Your Driving Experience? 
- Our friendly team of product specialists at McGrath City Mazda is ready to guide you through our selection of brand-new vehicles. We can help you compare cabin volumes, demonstrate the intuitive infotainment tech displays, explain hybrid battery charging setups, and build a personalized payment profile around your budget goals. 
- We keep our showroom completely relaxed and customer-focused because your satisfaction is our main priority. We believe in direct numbers, clear details about every model, and honest answers. We do not use high-pressure sales pitches or unexpected dealer fees, so you can shop with complete confidence. 
- Browse our current options online, compare features side-by-side, check out our latest promotions, or schedule an extensive test drive today. Drop our staff a quick message through our secure online contact page whenever you are ready to get started! 
- 
- 
- Contact Our Sales Team 
- 
- 
- 
- 
- 
- Find an Outstanding New Mazda for Sale in Chicago, IL 
- Upgrading your everyday drive to a highly capable, exceptionally comfortable, and modern new vehicle should be an open and rewarding journey. At McGrath City Mazda, we make it completely easy for drivers from across Chicago, Cicero, Oak Park, Berwyn, and Elmhurst to discover the incredible value within our  new Mazda inventory . Mazda models consistently stand out because they deliver a perfect balance of striking aesthetic design, robust mechanical durability, and driver-focused utility. Sourcing a new model from our showroom floor represents a highly practical move, enabling you to acquire elite modern refinements—such as intuitive center touchscreens, wireless smartphone connectivity, intelligent driver-assist safety sensors, and standard all-wheel drive—all while staying in total control of your household budget variables. 
- A Seamless Automotive Path from Start to Finish 
- We believe in making the car-shopping process completely straightforward and direct for our neighbors. To plan ahead from home, you can quickly  value your trade  online to see your vehicle equity. When you are ready to explore payment configurations, you can securely  apply for financing  to check your auto pre-approval paths. Be sure to look over our active  new vehicle specials  and rotating  dealer specials  to maximize your savings at the table. 
- If you are keeping your options open and want to compare new models against premium pre-owned alternatives, we invite you to browse our standard  used cars , explore our budget-friendly pre-owned selections under $25k or under $20k, or check out our factory-backed  certified pre-owned  models. Don't forget to take a look at our current  pre-owned specials  for extra ways to save on a quality pre-owned car. 
- Once a vehicle catches your eye, go ahead and  schedule a test drive  to experience the legendary Mazda driving connection firsthand. Our commitment to you continues for the life of your vehicle—our modern service center makes it simple to  schedule service  for routine maintenance, and you can easily  order parts  online for any quick upgrades. For any general questions or personal shopping assistance, please feel free to  contact us  today to speak directly with our friendly local staff! 
- 
- 
- Browse New Inventory 
- 
- 
- Get Approved Online 
- 
- 
- Value Your Current Trade 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-     
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
- 
- 
- New Mazda for Sale in Chicago, IL | McGrath City Mazda 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Keyword 
- 
- 
- 
- 
- 
- 
- 
- 
- SORT BY: 
- 
- Price lowest to highest 
- 
- 
- 
- 
- 
- Price highest to lowest 
- Price lowest to highest 
- Mileage highest to lowest 
- Mileage lowest to highest 
- Year lowest to highest 
- Year highest to lowest 
- 
- 
- 
- 
- 
- 
- 
-                Refine Search
-               
- 
- 
- 
- 
- 
- Sort 
- 
- 
- 
- 
- 
- Price highest to lowest 
- Price lowest to highest 
- Mileage highest to lowest 
- Mileage lowest to highest 
- Year lowest to highest 
- Year highest to lowest 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- New Mazda for Sale in Chicago, IL 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 18 
- 
- 
- 19 
- 
- 
- 20 
- 
- 
- 21 
- 
- 
- 22 
- 
- 
- 23 
- 
- 
- 24 
- 
- 
- 25 
- 
- 
- 26 
- 
- 
- 27 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+  What's your car worth? Use our easy online trade-in calculator and get an appraisal today! 
+ Value Your Trade 
  
  
  
@@ -57259,17 +58038,6 @@
  
  
  
-  What's your car worth? Use our easy online trade-in calculator and get an appraisal today! 
- Value Your Trade 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -57840,6 +58608,405 @@
  
  Schedule Test Drive 
  Schedule Test Drive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18 
+ 
+ 
+ 19 
+ 
+ 
+ 20 
+ 
+ 
+ 21 
+ 
+ 
+ 22 
+ 
+ 
+ 23 
+ 
+ 
+ 24 
+ 
+ 
+ 25 
+ 
+ 
+ 26 
+ 
+ 
+ 27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Back to Top 
+ 
+ 
+ 
+ 
+ 
+ 
+ Frequently Asked Questions About New Mazda Vehicles in Chicago, IL 
+ 
+ 
+ 
+ 
+ Why is buying a brand-new Mazda a great investment? 
+ 
+ Choosing a factory-fresh model is the absolute best way to experience everything the brand has to offer, from incredible handling to premium cabin finishes, while completely protecting your wallet from the unpredictable repairs common with older vehicles. Sourcing your vehicle straight from our showroom floor guarantees a spotless maintenance history, meaning you never have to worry about how a previous owner drove it or whether they skipped vital maintenance appointments. 
+ Every new vehicle comes backed by an expansive manufacturer warranty layout that takes care of covered powertrain or electronic issues automatically, with zero out-of-pocket stress for you. Additionally, buying new ensures you immediately get the absolute latest safety sensors, responsive infotainment upgrades, and highly optimized fuel-saving engineering straight from the assembly line. 
+ Mazda builds cars with a deep driver-centric focus, creating a unique level of responsiveness that makes every daily commute feel completely natural and rewarding. Investing in a brand-new model keeps your family comfortable and safe on Chicagoland streets across all four seasons. 
+ 
+ 
+ 
+ What models and fuel-efficient options are available in the lineup? 
+ 
+ The new inventory features a diverse matrix of body styles designed to fit into different driving routines and family sizes perfectly. City commuters looking for sharp styling, easy parallel parking, and outstanding gas mileage will love the nimble Mazda3 Sedan and Mazda3 Hatchback line. If you want everyday flexibility and a higher view of the road, our crossover collection includes the sleek CX-30, the universally popular CX-5, and the rugged CX-50. 
+ For drivers who need serious interior volume or advanced hybrid layouts, Mazda offers groundbreaking multi-energy setups. Crossover shoppers can explore excellent fuel savings with the CX-50 Hybrid, built with an electrified platform made for weekend road trips. For premium luxury and space, the large two-row CX-70 and three-row CX-90 flagships deliver massive power through mild-hybrid inline-six engines or advanced plug-in hybrid setups. 
+ These advanced plug-in hybrid options pair an efficient gasoline engine with a high-capacity electric battery to provide a highly practical all-electric driving range around the city, shifting seamlessly back to standard hybrid operation on longer journeys to eliminate range anxiety entirely. 
+ 
+ 
+ 
+ How does standard i-ACTIV AWD® handle brutal Chicago winters? 
+ 
+ Navigating snow-covered city streets, heavy downpours, and slick patches of black ice demands a smart, stable drivetrain that reacts instantly to changing conditions. Mazda answers this challenge by making its intelligent i-ACTIV AWD® system standard equipment on every single crossover and SUV model on our lot. Unlike older all-wheel-drive platforms that only step in after your wheels start spinning, this proactive system continuously monitors the environment to prevent traction loss before it happens. 
+ The system analyzes multiple data points in real time—including outside ambient temperature levels, active windshield wiper usage, steering inputs, and individual wheel speeds—to instantly understand the road surface. Power shifts automatically and seamlessly to the specific tires with the strongest physical grip, keeping you tracking in a straight line without any sudden slips. 
+ Combined with Mazda Intelligent Drive Select technology, you can manually switch between driving modes to perfectly tune your performance. This advanced mechanical optimization delivers absolute confidence, helping local commuters navigate severe midwestern weather safely. 
+ 
+ 
+ 
+ Can I manage my trade-in valuation and auto financing steps from home? 
+ 
+ Yes, you absolutely can handle the main financial components of your upcoming purchase right from your computer to save time when visiting our physical building. Our site features a secure, digital trade calculation tool. By simply inputting your current vehicle's exact condition parameters and mileage details, you can quickly check its real-market equity value based on real-time data trends. 
+ Knowing your baseline trade numbers helps you structure an accurate budget. From there, you can submit your credit application securely online. This lets you explore your auto pre-approval paths and customize your down payment options on your own schedule, so you know exactly where you stand before coming in for a test drive. 
+ Our dedicated on-site finance department maintains deep relationships with top lenders, major commercial banking networks, and regional credit unions. This wide matrix of resources allows our specialists to connect buyers with highly competitive interest rates and custom loan terms built comfortably around your personal household balance sheet. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ready to Upgrade Your Driving Experience? 
+ Our friendly team of product specialists at McGrath City Mazda is ready to guide you through our selection of brand-new vehicles. We can help you compare cabin volumes, demonstrate the intuitive infotainment tech displays, explain hybrid battery charging setups, and build a personalized payment profile around your budget goals. 
+ We keep our showroom completely relaxed and customer-focused because your satisfaction is our main priority. We believe in direct numbers, clear details about every model, and honest answers. We do not use high-pressure sales pitches or unexpected dealer fees, so you can shop with complete confidence. 
+ Browse our current options online, compare features side-by-side, check out our latest promotions, or schedule an extensive test drive today. Drop our staff a quick message through our secure online contact page whenever you are ready to get started! 
+ 
+ 
+ Contact Our Sales Team 
+ 
+ 
+ 
+ 
+ 
+ Find an Outstanding New Mazda for Sale in Chicago, IL 
+ Upgrading your everyday drive to a highly capable, exceptionally comfortable, and modern new vehicle should be an open and rewarding journey. At McGrath City Mazda, we make it completely easy for drivers from across Chicago, Cicero, Oak Park, Berwyn, and Elmhurst to discover the incredible value within our  new Mazda inventory . Mazda models consistently stand out because they deliver a perfect balance of striking aesthetic design, robust mechanical durability, and driver-focused utility. Sourcing a new model from our showroom floor represents a highly practical move, enabling you to acquire elite modern refinements—such as intuitive center touchscreens, wireless smartphone connectivity, intelligent driver-assist safety sensors, and standard all-wheel drive—all while staying in total control of your household budget variables. 
+ A Seamless Automotive Path from Start to Finish 
+ We believe in making the car-shopping process completely straightforward and direct for our neighbors. To plan ahead from home, you can quickly  value your trade  online to see your vehicle equity. When you are ready to explore payment configurations, you can securely  apply for financing  to check your auto pre-approval paths. Be sure to look over our active  new vehicle specials  and rotating  dealer specials  to maximize your savings at the table. 
+ If you are keeping your options open and want to compare new models against premium pre-owned alternatives, we invite you to browse our standard  used cars , explore our budget-friendly pre-owned selections under $25k or under $20k, or check out our factory-backed  certified pre-owned  models. Don't forget to take a look at our current  pre-owned specials  for extra ways to save on a quality pre-owned car. 
+ Once a vehicle catches your eye, go ahead and  schedule a test drive  to experience the legendary Mazda driving connection firsthand. Our commitment to you continues for the life of your vehicle—our modern service center makes it simple to  schedule service  for routine maintenance, and you can easily  order parts  online for any quick upgrades. For any general questions or personal shopping assistance, please feel free to  contact us  today to speak directly with our friendly local staff! 
+ 
+ 
+ Browse New Inventory 
+ 
+ 
+ Get Approved Online 
+ 
+ 
+ Value Your Current Trade 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ New Mazda for Sale in Chicago, IL | McGrath City Mazda 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Keyword 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SORT BY: 
+ 
+ Price lowest to highest 
+ 
+ 
+ 
+ 
+ 
+ Price highest to lowest 
+ Price lowest to highest 
+ Mileage highest to lowest 
+ Mileage lowest to highest 
+ Year lowest to highest 
+ Year highest to lowest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Refine Search
+               
+ 
+ 
+ 
+ 
+ 
+ Sort 
+ 
+ 
+ 
+ 
+ 
+ Price highest to lowest 
+ Price lowest to highest 
+ Mileage highest to lowest 
+ Mileage lowest to highest 
+ Year lowest to highest 
+ Year highest to lowest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ New Mazda for Sale in Chicago, IL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 19 
+ 
+ 
+ 20 
+ 
+ 
+ 21 
+ 
+ 
+ 22 
+ 
+ 
+ 23 
+ 
+ 
+ 24 
+ 
+ 
+ 25 
+ 
+ 
+ 26 
+ 
+ 
+ 27 
+ 
+ 
+ 28 
+ 
  
  
  
@@ -58629,15 +59796,14 @@
  
  
  
-   
  
  
-   
  
  
  
+  What's your car worth? Use our easy online trade-in calculator and get an appraisal today! 
+ Value Your Trade 
  
-   
  
  
  
@@ -58651,34 +59817,27 @@
  
  
  
- 18 
  
  
- 19 
  
  
- 20 
  
  
- 21 
  
  
- 22 
  
  
- 23 
+  New 
  
+2026 Mazda CX-50 2.5 Turbo AWD                                  
  
- 24 
  
  
- 25 
  
  
- 26 
+ View All Features 
  
  
- 27 
  
  
  
@@ -58686,94 +59845,99 @@
  
  
  
+ Location:  
  
  
- Back to Top 
  
  
  
  
  
+                                            In Transit
+                                         
  
- Frequently Asked Questions About New Mazda Vehicles in Chicago, IL 
  
  
  
  
- Why is buying a brand-new Mazda a great investment? 
  
- Choosing a factory-fresh model is the absolute best way to experience everything the brand has to offer, from incredible handling to premium cabin finishes, while completely protecting your wallet from the unpredictable repairs common with older vehicles. Sourcing your vehicle straight from our showroom floor guarantees a spotless maintenance history, meaning you never have to worry about how a previous owner drove it or whether they skipped vital maintenance appointments. 
- Every new vehicle comes backed by an expansive manufacturer warranty layout that takes care of covered powertrain or electronic issues automatically, with zero out-of-pocket stress for you. Additionally, buying new ensures you immediately get the absolute latest safety sensors, responsive infotainment upgrades, and highly optimized fuel-saving engineering straight from the assembly line. 
- Mazda builds cars with a deep driver-centric focus, creating a unique level of responsiveness that makes every daily commute feel completely natural and rewarding. Investing in a brand-new model keeps your family comfortable and safe on Chicagoland streets across all four seasons. 
+ VIN:  
  
+ 7MMVABCYXTN616490 
  
  
- What models and fuel-efficient options are available in the lineup? 
  
- The new inventory features a diverse matrix of body styles designed to fit into different driving routines and family sizes perfectly. City commuters looking for sharp styling, easy parallel parking, and outstanding gas mileage will love the nimble Mazda3 Sedan and Mazda3 Hatchback line. If you want everyday flexibility and a higher view of the road, our crossover collection includes the sleek CX-30, the universally popular CX-5, and the rugged CX-50. 
- For drivers who need serious interior volume or advanced hybrid layouts, Mazda offers groundbreaking multi-energy setups. Crossover shoppers can explore excellent fuel savings with the CX-50 Hybrid, built with an electrified platform made for weekend road trips. For premium luxury and space, the large two-row CX-70 and three-row CX-90 flagships deliver massive power through mild-hybrid inline-six engines or advanced plug-in hybrid setups. 
- These advanced plug-in hybrid options pair an efficient gasoline engine with a high-capacity electric battery to provide a highly practical all-electric driving range around the city, shifting seamlessly back to standard hybrid operation on longer journeys to eliminate range anxiety entirely. 
+ Stock:  
  
+ #7MMVABCYXTN616490 
  
  
- How does standard i-ACTIV AWD® handle brutal Chicago winters? 
  
- Navigating snow-covered city streets, heavy downpours, and slick patches of black ice demands a smart, stable drivetrain that reacts instantly to changing conditions. Mazda answers this challenge by making its intelligent i-ACTIV AWD® system standard equipment on every single crossover and SUV model on our lot. Unlike older all-wheel-drive platforms that only step in after your wheels start spinning, this proactive system continuously monitors the environment to prevent traction loss before it happens. 
- The system analyzes multiple data points in real time—including outside ambient temperature levels, active windshield wiper usage, steering inputs, and individual wheel speeds—to instantly understand the road surface. Power shifts automatically and seamlessly to the specific tires with the strongest physical grip, keeping you tracking in a straight line without any sudden slips. 
- Combined with Mazda Intelligent Drive Select technology, you can manually switch between driving modes to perfectly tune your performance. This advanced mechanical optimization delivers absolute confidence, helping local commuters navigate severe midwestern weather safely. 
+ Exterior Color:  
+  Zircon Sand Metallic 
  
  
+ Interior Color:  
+ White Leather 
  
- Can I manage my trade-in valuation and auto financing steps from home? 
  
- Yes, you absolutely can handle the main financial components of your upcoming purchase right from your computer to save time when visiting our physical building. Our site features a secure, digital trade calculation tool. By simply inputting your current vehicle's exact condition parameters and mileage details, you can quickly check its real-market equity value based on real-time data trends. 
- Knowing your baseline trade numbers helps you structure an accurate budget. From there, you can submit your credit application securely online. This lets you explore your auto pre-approval paths and customize your down payment options on your own schedule, so you know exactly where you stand before coming in for a test drive. 
- Our dedicated on-site finance department maintains deep relationships with top lenders, major commercial banking networks, and regional credit unions. This wide matrix of resources allows our specialists to connect buyers with highly competitive interest rates and custom loan terms built comfortably around your personal household balance sheet. 
+ Highway/City MPG:  
+ 29 / 23 
  
  
  
  
  
+ MSRP
+  
+ $41,390 
  
- Ready to Upgrade Your Driving Experience? 
- Our friendly team of product specialists at McGrath City Mazda is ready to guide you through our selection of brand-new vehicles. We can help you compare cabin volumes, demonstrate the intuitive infotainment tech displays, explain hybrid battery charging setups, and build a personalized payment profile around your budget goals. 
- We keep our showroom completely relaxed and customer-focused because your satisfaction is our main priority. We believe in direct numbers, clear details about every model, and honest answers. We do not use high-pressure sales pitches or unexpected dealer fees, so you can shop with complete confidence. 
- Browse our current options online, compare features side-by-side, check out our latest promotions, or schedule an extensive test drive today. Drop our staff a quick message through our secure online contact page whenever you are ready to get started! 
  
+ Customer Cash  
+ -$1,500 
  
- Contact Our Sales Team 
  
+ Doc Fee 
  
  
+                                         {{getDollarValue(377.0)}}
+                                       
  
  
- Find an Outstanding New Mazda for Sale in Chicago, IL 
- Upgrading your everyday drive to a highly capable, exceptionally comfortable, and modern new vehicle should be an open and rewarding journey. At McGrath City Mazda, we make it completely easy for drivers from across Chicago, Cicero, Oak Park, Berwyn, and Elmhurst to discover the incredible value within our  new Mazda inventory . Mazda models consistently stand out because they deliver a perfect balance of striking aesthetic design, robust mechanical durability, and driver-focused utility. Sourcing a new model from our showroom floor represents a highly practical move, enabling you to acquire elite modern refinements—such as intuitive center touchscreens, wireless smartphone connectivity, intelligent driver-assist safety sensors, and standard all-wheel drive—all while staying in total control of your household budget variables. 
- A Seamless Automotive Path from Start to Finish 
- We believe in making the car-shopping process completely straightforward and direct for our neighbors. To plan ahead from home, you can quickly  value your trade  online to see your vehicle equity. When you are ready to explore payment configurations, you can securely  apply for financing  to check your auto pre-approval paths. Be sure to look over our active  new vehicle specials  and rotating  dealer specials  to maximize your savings at the table. 
- If you are keeping your options open and want to compare new models against premium pre-owned alternatives, we invite you to browse our standard  used cars , explore our budget-friendly pre-owned selections under $25k or under $20k, or check out our factory-backed  certified pre-owned  models. Don't forget to take a look at our current  pre-owned specials  for extra ways to save on a quality pre-owned car. 
- Once a vehicle catches your eye, go ahead and  schedule a test drive  to experience the legendary Mazda driving connection firsthand. Our commitment to you continues for the life of your vehicle—our modern service center makes it simple to  schedule service  for routine maintenance, and you can easily  order parts  online for any quick upgrades. For any general questions or personal shopping assistance, please feel free to  contact us  today to speak directly with our friendly local staff! 
+ Electronic Filing Fee 
  
  
- Browse New Inventory 
+                                         {{getDollarValue(35.0)}}
+                                       
  
  
- Get Approved Online 
  
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
  
- Value Your Current Trade 
  
+ Your Price
+                                                          
+ $40,302 
  
  
+ Your Price
+                                                          
+ $40,302 
  
  
  
  
  
+                     Disclosure
+                   
  
  
  
  
+ MSRP 
+ $41,390 
  
  
  
@@ -58792,229 +59956,40 @@
  
  
  
-     
  
  
  
  
+                                        Personalize Payment Options
+                   
  
  
  
  
+  {{inventorySettings.data.buttonLabel}}  
  
  
  
  
  
  
+                        {{inventorySettings.data.buttonLabel}}
+                       
  
  
  
  
  
+                               Get Out The Door Price
+                                
  
  
+                               Get Out The Door Price
+                                
  
  
- 
- 
- 
-
-
- 
- 
- 
- 
- 
- New Mazda for Sale in Chicago, IL | McGrath City Mazda 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Keyword 
- 
- 
- 
- 
- 
- 
- 
- 
- SORT BY: 
- 
- Price lowest to highest 
- 
- 
- 
- 
- 
- Price highest to lowest 
- Price lowest to highest 
- Mileage highest to lowest 
- Mileage lowest to highest 
- Year lowest to highest 
- Year highest to lowest 
- 
- 
- 
- 
- 
- 
- 
-                Refine Search
-               
- 
- 
- 
- 
- 
- Sort 
- 
- 
- 
- 
- 
- Price highest to lowest 
- Price lowest to highest 
- Mileage highest to lowest 
- Mileage lowest to highest 
- Year lowest to highest 
- Year highest to lowest 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- New Mazda for Sale in Chicago, IL 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 19 
- 
- 
- 20 
- 
- 
- 21 
- 
- 
- 22 
- 
- 
- 23 
- 
- 
- 24 
- 
- 
- 25 
- 
- 
- 26 
- 
- 
- 27 
- 
- 
- 28 
- 
+ Schedule Test Drive 
+ Schedule Test Drive 
  
  
  
@@ -59159,202 +60134,6 @@
  
  MSRP 
  $41,890 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                                        Personalize Payment Options
-                   
- 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
- Schedule Test Drive 
- Schedule Test Drive 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-50 2.5 Turbo AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- 7MMVABCYXTN616490 
- 
- 
- 
- Stock:  
- 
- #7MMVABCYXTN616490 
- 
- 
- 
- Exterior Color:  
-  Zircon Sand Metallic 
- 
- 
- Interior Color:  
- White Leather 
- 
- 
- Highway/City MPG:  
- 29 / 23 
- 
- 
- 
- 
- 
- MSRP
-  
- $41,390 
- 
- 
- Customer Cash  
- -$1,500 
- 
- 
- Doc Fee 
- 
- 
-                                         {{getDollarValue(377.0)}}
-                                       
- 
- 
- Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(35.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $40,302 
- 
- 
- Your Price
-                                                          
- $40,302 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $41,390 
  
  
  
@@ -59804,17 +60583,6 @@
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  What's your car worth? Use our easy online trade-in calculator and get an appraisal today! 
- Value Your Trade 
  
  
  
@@ -60390,6 +61158,405 @@
  
  Schedule Test Drive 
  Schedule Test Drive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 19 
+ 
+ 
+ 20 
+ 
+ 
+ 21 
+ 
+ 
+ 22 
+ 
+ 
+ 23 
+ 
+ 
+ 24 
+ 
+ 
+ 25 
+ 
+ 
+ 26 
+ 
+ 
+ 27 
+ 
+ 
+ 28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Back to Top 
+ 
+ 
+ 
+ 
+ 
+ 
+ Frequently Asked Questions About New Mazda Vehicles in Chicago, IL 
+ 
+ 
+ 
+ 
+ Why is buying a brand-new Mazda a great investment? 
+ 
+ Choosing a factory-fresh model is the absolute best way to experience everything the brand has to offer, from incredible handling to premium cabin finishes, while completely protecting your wallet from the unpredictable repairs common with older vehicles. Sourcing your vehicle straight from our showroom floor guarantees a spotless maintenance history, meaning you never have to worry about how a previous owner drove it or whether they skipped vital maintenance appointments. 
+ Every new vehicle comes backed by an expansive manufacturer warranty layout that takes care of covered powertrain or electronic issues automatically, with zero out-of-pocket stress for you. Additionally, buying new ensures you immediately get the absolute latest safety sensors, responsive infotainment upgrades, and highly optimized fuel-saving engineering straight from the assembly line. 
+ Mazda builds cars with a deep driver-centric focus, creating a unique level of responsiveness that makes every daily commute feel completely natural and rewarding. Investing in a brand-new model keeps your family comfortable and safe on Chicagoland streets across all four seasons. 
+ 
+ 
+ 
+ What models and fuel-efficient options are available in the lineup? 
+ 
+ The new inventory features a diverse matrix of body styles designed to fit into different driving routines and family sizes perfectly. City commuters looking for sharp styling, easy parallel parking, and outstanding gas mileage will love the nimble Mazda3 Sedan and Mazda3 Hatchback line. If you want everyday flexibility and a higher view of the road, our crossover collection includes the sleek CX-30, the universally popular CX-5, and the rugged CX-50. 
+ For drivers who need serious interior volume or advanced hybrid layouts, Mazda offers groundbreaking multi-energy setups. Crossover shoppers can explore excellent fuel savings with the CX-50 Hybrid, built with an electrified platform made for weekend road trips. For premium luxury and space, the large two-row CX-70 and three-row CX-90 flagships deliver massive power through mild-hybrid inline-six engines or advanced plug-in hybrid setups. 
+ These advanced plug-in hybrid options pair an efficient gasoline engine with a high-capacity electric battery to provide a highly practical all-electric driving range around the city, shifting seamlessly back to standard hybrid operation on longer journeys to eliminate range anxiety entirely. 
+ 
+ 
+ 
+ How does standard i-ACTIV AWD® handle brutal Chicago winters? 
+ 
+ Navigating snow-covered city streets, heavy downpours, and slick patches of black ice demands a smart, stable drivetrain that reacts instantly to changing conditions. Mazda answers this challenge by making its intelligent i-ACTIV AWD® system standard equipment on every single crossover and SUV model on our lot. Unlike older all-wheel-drive platforms that only step in after your wheels start spinning, this proactive system continuously monitors the environment to prevent traction loss before it happens. 
+ The system analyzes multiple data points in real time—including outside ambient temperature levels, active windshield wiper usage, steering inputs, and individual wheel speeds—to instantly understand the road surface. Power shifts automatically and seamlessly to the specific tires with the strongest physical grip, keeping you tracking in a straight line without any sudden slips. 
+ Combined with Mazda Intelligent Drive Select technology, you can manually switch between driving modes to perfectly tune your performance. This advanced mechanical optimization delivers absolute confidence, helping local commuters navigate severe midwestern weather safely. 
+ 
+ 
+ 
+ Can I manage my trade-in valuation and auto financing steps from home? 
+ 
+ Yes, you absolutely can handle the main financial components of your upcoming purchase right from your computer to save time when visiting our physical building. Our site features a secure, digital trade calculation tool. By simply inputting your current vehicle's exact condition parameters and mileage details, you can quickly check its real-market equity value based on real-time data trends. 
+ Knowing your baseline trade numbers helps you structure an accurate budget. From there, you can submit your credit application securely online. This lets you explore your auto pre-approval paths and customize your down payment options on your own schedule, so you know exactly where you stand before coming in for a test drive. 
+ Our dedicated on-site finance department maintains deep relationships with top lenders, major commercial banking networks, and regional credit unions. This wide matrix of resources allows our specialists to connect buyers with highly competitive interest rates and custom loan terms built comfortably around your personal household balance sheet. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ready to Upgrade Your Driving Experience? 
+ Our friendly team of product specialists at McGrath City Mazda is ready to guide you through our selection of brand-new vehicles. We can help you compare cabin volumes, demonstrate the intuitive infotainment tech displays, explain hybrid battery charging setups, and build a personalized payment profile around your budget goals. 
+ We keep our showroom completely relaxed and customer-focused because your satisfaction is our main priority. We believe in direct numbers, clear details about every model, and honest answers. We do not use high-pressure sales pitches or unexpected dealer fees, so you can shop with complete confidence. 
+ Browse our current options online, compare features side-by-side, check out our latest promotions, or schedule an extensive test drive today. Drop our staff a quick message through our secure online contact page whenever you are ready to get started! 
+ 
+ 
+ Contact Our Sales Team 
+ 
+ 
+ 
+ 
+ 
+ Find an Outstanding New Mazda for Sale in Chicago, IL 
+ Upgrading your everyday drive to a highly capable, exceptionally comfortable, and modern new vehicle should be an open and rewarding journey. At McGrath City Mazda, we make it completely easy for drivers from across Chicago, Cicero, Oak Park, Berwyn, and Elmhurst to discover the incredible value within our  new Mazda inventory . Mazda models consistently stand out because they deliver a perfect balance of striking aesthetic design, robust mechanical durability, and driver-focused utility. Sourcing a new model from our showroom floor represents a highly practical move, enabling you to acquire elite modern refinements—such as intuitive center touchscreens, wireless smartphone connectivity, intelligent driver-assist safety sensors, and standard all-wheel drive—all while staying in total control of your household budget variables. 
+ A Seamless Automotive Path from Start to Finish 
+ We believe in making the car-shopping process completely straightforward and direct for our neighbors. To plan ahead from home, you can quickly  value your trade  online to see your vehicle equity. When you are ready to explore payment configurations, you can securely  apply for financing  to check your auto pre-approval paths. Be sure to look over our active  new vehicle specials  and rotating  dealer specials  to maximize your savings at the table. 
+ If you are keeping your options open and want to compare new models against premium pre-owned alternatives, we invite you to browse our standard  used cars , explore our budget-friendly pre-owned selections under $25k or under $20k, or check out our factory-backed  certified pre-owned  models. Don't forget to take a look at our current  pre-owned specials  for extra ways to save on a quality pre-owned car. 
+ Once a vehicle catches your eye, go ahead and  schedule a test drive  to experience the legendary Mazda driving connection firsthand. Our commitment to you continues for the life of your vehicle—our modern service center makes it simple to  schedule service  for routine maintenance, and you can easily  order parts  online for any quick upgrades. For any general questions or personal shopping assistance, please feel free to  contact us  today to speak directly with our friendly local staff! 
+ 
+ 
+ Browse New Inventory 
+ 
+ 
+ Get Approved Online 
+ 
+ 
+ Value Your Current Trade 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ New Mazda for Sale in Chicago, IL | McGrath City Mazda 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Keyword 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SORT BY: 
+ 
+ Price lowest to highest 
+ 
+ 
+ 
+ 
+ 
+ Price highest to lowest 
+ Price lowest to highest 
+ Mileage highest to lowest 
+ Mileage lowest to highest 
+ Year lowest to highest 
+ Year highest to lowest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Refine Search
+               
+ 
+ 
+ 
+ 
+ 
+ Sort 
+ 
+ 
+ 
+ 
+ 
+ Price highest to lowest 
+ Price lowest to highest 
+ Mileage highest to lowest 
+ Mileage lowest to highest 
+ Year lowest to highest 
+ Year highest to lowest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ New Mazda for Sale in Chicago, IL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 20 
+ 
+ 
+ 21 
+ 
+ 
+ 22 
+ 
+ 
+ 23 
+ 
+ 
+ 24 
+ 
+ 
+ 25 
+ 
+ 
+ 26 
+ 
+ 
+ 27 
+ 
+ 
+ 28 
+ 
+ 
+ 29 
+ 
  
  
  
@@ -61179,401 +62346,13 @@
  
  
  
-   
  
  
-   
  
  
  
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 19 
- 
- 
- 20 
- 
- 
- 21 
- 
- 
- 22 
- 
- 
- 23 
- 
- 
- 24 
- 
- 
- 25 
- 
- 
- 26 
- 
- 
- 27 
- 
- 
- 28 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Back to Top 
- 
- 
- 
- 
- 
- 
- Frequently Asked Questions About New Mazda Vehicles in Chicago, IL 
- 
- 
- 
- 
- Why is buying a brand-new Mazda a great investment? 
- 
- Choosing a factory-fresh model is the absolute best way to experience everything the brand has to offer, from incredible handling to premium cabin finishes, while completely protecting your wallet from the unpredictable repairs common with older vehicles. Sourcing your vehicle straight from our showroom floor guarantees a spotless maintenance history, meaning you never have to worry about how a previous owner drove it or whether they skipped vital maintenance appointments. 
- Every new vehicle comes backed by an expansive manufacturer warranty layout that takes care of covered powertrain or electronic issues automatically, with zero out-of-pocket stress for you. Additionally, buying new ensures you immediately get the absolute latest safety sensors, responsive infotainment upgrades, and highly optimized fuel-saving engineering straight from the assembly line. 
- Mazda builds cars with a deep driver-centric focus, creating a unique level of responsiveness that makes every daily commute feel completely natural and rewarding. Investing in a brand-new model keeps your family comfortable and safe on Chicagoland streets across all four seasons. 
- 
- 
- 
- What models and fuel-efficient options are available in the lineup? 
- 
- The new inventory features a diverse matrix of body styles designed to fit into different driving routines and family sizes perfectly. City commuters looking for sharp styling, easy parallel parking, and outstanding gas mileage will love the nimble Mazda3 Sedan and Mazda3 Hatchback line. If you want everyday flexibility and a higher view of the road, our crossover collection includes the sleek CX-30, the universally popular CX-5, and the rugged CX-50. 
- For drivers who need serious interior volume or advanced hybrid layouts, Mazda offers groundbreaking multi-energy setups. Crossover shoppers can explore excellent fuel savings with the CX-50 Hybrid, built with an electrified platform made for weekend road trips. For premium luxury and space, the large two-row CX-70 and three-row CX-90 flagships deliver massive power through mild-hybrid inline-six engines or advanced plug-in hybrid setups. 
- These advanced plug-in hybrid options pair an efficient gasoline engine with a high-capacity electric battery to provide a highly practical all-electric driving range around the city, shifting seamlessly back to standard hybrid operation on longer journeys to eliminate range anxiety entirely. 
- 
- 
- 
- How does standard i-ACTIV AWD® handle brutal Chicago winters? 
- 
- Navigating snow-covered city streets, heavy downpours, and slick patches of black ice demands a smart, stable drivetrain that reacts instantly to changing conditions. Mazda answers this challenge by making its intelligent i-ACTIV AWD® system standard equipment on every single crossover and SUV model on our lot. Unlike older all-wheel-drive platforms that only step in after your wheels start spinning, this proactive system continuously monitors the environment to prevent traction loss before it happens. 
- The system analyzes multiple data points in real time—including outside ambient temperature levels, active windshield wiper usage, steering inputs, and individual wheel speeds—to instantly understand the road surface. Power shifts automatically and seamlessly to the specific tires with the strongest physical grip, keeping you tracking in a straight line without any sudden slips. 
- Combined with Mazda Intelligent Drive Select technology, you can manually switch between driving modes to perfectly tune your performance. This advanced mechanical optimization delivers absolute confidence, helping local commuters navigate severe midwestern weather safely. 
- 
- 
- 
- Can I manage my trade-in valuation and auto financing steps from home? 
- 
- Yes, you absolutely can handle the main financial components of your upcoming purchase right from your computer to save time when visiting our physical building. Our site features a secure, digital trade calculation tool. By simply inputting your current vehicle's exact condition parameters and mileage details, you can quickly check its real-market equity value based on real-time data trends. 
- Knowing your baseline trade numbers helps you structure an accurate budget. From there, you can submit your credit application securely online. This lets you explore your auto pre-approval paths and customize your down payment options on your own schedule, so you know exactly where you stand before coming in for a test drive. 
- Our dedicated on-site finance department maintains deep relationships with top lenders, major commercial banking networks, and regional credit unions. This wide matrix of resources allows our specialists to connect buyers with highly competitive interest rates and custom loan terms built comfortably around your personal household balance sheet. 
- 
- 
- 
- 
- 
- 
- Ready to Upgrade Your Driving Experience? 
- Our friendly team of product specialists at McGrath City Mazda is ready to guide you through our selection of brand-new vehicles. We can help you compare cabin volumes, demonstrate the intuitive infotainment tech displays, explain hybrid battery charging setups, and build a personalized payment profile around your budget goals. 
- We keep our showroom completely relaxed and customer-focused because your satisfaction is our main priority. We believe in direct numbers, clear details about every model, and honest answers. We do not use high-pressure sales pitches or unexpected dealer fees, so you can shop with complete confidence. 
- Browse our current options online, compare features side-by-side, check out our latest promotions, or schedule an extensive test drive today. Drop our staff a quick message through our secure online contact page whenever you are ready to get started! 
- 
- 
- Contact Our Sales Team 
- 
- 
- 
- 
- 
- Find an Outstanding New Mazda for Sale in Chicago, IL 
- Upgrading your everyday drive to a highly capable, exceptionally comfortable, and modern new vehicle should be an open and rewarding journey. At McGrath City Mazda, we make it completely easy for drivers from across Chicago, Cicero, Oak Park, Berwyn, and Elmhurst to discover the incredible value within our  new Mazda inventory . Mazda models consistently stand out because they deliver a perfect balance of striking aesthetic design, robust mechanical durability, and driver-focused utility. Sourcing a new model from our showroom floor represents a highly practical move, enabling you to acquire elite modern refinements—such as intuitive center touchscreens, wireless smartphone connectivity, intelligent driver-assist safety sensors, and standard all-wheel drive—all while staying in total control of your household budget variables. 
- A Seamless Automotive Path from Start to Finish 
- We believe in making the car-shopping process completely straightforward and direct for our neighbors. To plan ahead from home, you can quickly  value your trade  online to see your vehicle equity. When you are ready to explore payment configurations, you can securely  apply for financing  to check your auto pre-approval paths. Be sure to look over our active  new vehicle specials  and rotating  dealer specials  to maximize your savings at the table. 
- If you are keeping your options open and want to compare new models against premium pre-owned alternatives, we invite you to browse our standard  used cars , explore our budget-friendly pre-owned selections under $25k or under $20k, or check out our factory-backed  certified pre-owned  models. Don't forget to take a look at our current  pre-owned specials  for extra ways to save on a quality pre-owned car. 
- Once a vehicle catches your eye, go ahead and  schedule a test drive  to experience the legendary Mazda driving connection firsthand. Our commitment to you continues for the life of your vehicle—our modern service center makes it simple to  schedule service  for routine maintenance, and you can easily  order parts  online for any quick upgrades. For any general questions or personal shopping assistance, please feel free to  contact us  today to speak directly with our friendly local staff! 
- 
- 
- Browse New Inventory 
- 
- 
- Get Approved Online 
- 
- 
- Value Your Current Trade 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-     
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
- 
- 
- New Mazda for Sale in Chicago, IL | McGrath City Mazda 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Keyword 
- 
- 
- 
- 
- 
- 
- 
- 
- SORT BY: 
- 
- Price lowest to highest 
- 
- 
- 
- 
- 
- Price highest to lowest 
- Price lowest to highest 
- Mileage highest to lowest 
- Mileage lowest to highest 
- Year lowest to highest 
- Year highest to lowest 
- 
- 
- 
- 
- 
- 
- 
-                Refine Search
-               
- 
- 
- 
- 
- 
- Sort 
- 
- 
- 
- 
- 
- Price highest to lowest 
- Price lowest to highest 
- Mileage highest to lowest 
- Mileage lowest to highest 
- Year lowest to highest 
- Year highest to lowest 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- New Mazda for Sale in Chicago, IL 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 20 
- 
- 
- 21 
- 
- 
- 22 
- 
- 
- 23 
- 
- 
- 24 
- 
- 
- 25 
- 
- 
- 26 
- 
- 
- 27 
- 
- 
- 28 
- 
- 
- 29 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+  What's your car worth? Use our easy online trade-in calculator and get an appraisal today! 
+ Value Your Trade 
  
  
  
@@ -62367,17 +63146,6 @@
  
  
  
-  What's your car worth? Use our easy online trade-in calculator and get an appraisal today! 
- Value Your Trade 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -62896,790 +63664,6 @@
  
  MSRP 
  $45,680 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                                        Personalize Payment Options
-                   
- 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
- Schedule Test Drive 
- Schedule Test Drive 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-90 3.3 Turbo Preferred AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KKBHD0T1413788 
- 
- 
- 
- Stock:  
- 
- #JM3KKBHD0T1413788 
- 
- 
- 
- Exterior Color:  
-  Platinum Quartz 
- 
- 
- Interior Color:  
- Black Leather 
- 
- 
- Highway/City MPG:  
- 28 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $45,790 
- 
- 
- Customer Cash  
- -$2,000 
- 
- 
- Doc Fee 
- 
- 
-                                         {{getDollarValue(377.0)}}
-                                       
- 
- 
- Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(35.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $44,202 
- 
- 
- Your Price
-                                                          
- $44,202 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $45,790 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                                        Personalize Payment Options
-                   
- 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
- Schedule Test Drive 
- Schedule Test Drive 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-90 3.3 Turbo Preferred AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KKBHD6T1408319 
- 
- 
- 
- Stock:  
- 
- #JM3KKBHD6T1408319 
- 
- 
- 
- Exterior Color:  
-  Machine Gray Metallic 
- 
- 
- Interior Color:  
- Black Leather 
- 
- 
- Highway/City MPG:  
- 28 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $45,800 
- 
- 
- Customer Cash  
- -$2,000 
- 
- 
- Doc Fee 
- 
- 
-                                         {{getDollarValue(377.0)}}
-                                       
- 
- 
- Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(35.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $44,212 
- 
- 
- Your Price
-                                                          
- $44,212 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $45,800 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                                        Personalize Payment Options
-                   
- 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
- Schedule Test Drive 
- Schedule Test Drive 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-90 3.3 Turbo Preferred AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KKBHD7T1409463 
- 
- 
- 
- Stock:  
- 
- #JM3KKBHD7T1409463 
- 
- 
- 
- Exterior Color:  
-  Soul Red Crystal Metallic 
- 
- 
- Interior Color:  
- Black Leather 
- 
- 
- Highway/City MPG:  
- 28 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $45,835 
- 
- 
- Customer Cash  
- -$2,000 
- 
- 
- Doc Fee 
- 
- 
-                                         {{getDollarValue(377.0)}}
-                                       
- 
- 
- Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(35.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $44,247 
- 
- 
- Your Price
-                                                          
- $44,247 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $45,835 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                                        Personalize Payment Options
-                   
- 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
- Schedule Test Drive 
- Schedule Test Drive 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-90 3.3 Turbo Preferred AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KKBHDXT1413877 
- 
- 
- 
- Stock:  
- 
- #JM3KKBHDXT1413877 
- 
- 
- 
- Exterior Color:  
-  Machine Gray Metallic 
- 
- 
- Interior Color:  
- Black Leather 
- 
- 
- Highway/City MPG:  
- 28 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $45,835 
- 
- 
- Customer Cash  
- -$2,000 
- 
- 
- Doc Fee 
- 
- 
-                                         {{getDollarValue(377.0)}}
-                                       
- 
- 
- Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(35.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $44,247 
- 
- 
- Your Price
-                                                          
- $44,247 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $45,835 
  
  
  
