@@ -27133,7 +27133,7 @@
  
  Stock:  
  
- #NM6139 
+ #ML2694 
  
  
  
@@ -27727,7 +27727,7 @@
  
  Stock:  
  
- #NM6138 
+ #ML2693 
  
  
  
@@ -28918,7 +28918,7 @@
  
  Stock:  
  
- #NM6137 
+ #ML2692 
  
  
  
@@ -32716,7 +32716,7 @@
  
  
  Highway/City MPG:  
- 35 / 26 
+ 37 / 26 
  
  
  
@@ -32912,7 +32912,7 @@
  
  
  Highway/City MPG:  
- 35 / 26 
+ 37 / 26 
  
  
  
@@ -33108,7 +33108,7 @@
  
  
  Highway/City MPG:  
- 35 / 26 
+ 37 / 26 
  
  
  
@@ -33899,7 +33899,7 @@
  
  
  Highway/City MPG:  
- 34 / 27 
+ 34 / 26 
  
  
  
@@ -37848,7 +37848,7 @@
  
  
  Highway/City MPG:  
- 31 / 24 
+ 33 / 24 
  
  
  
@@ -38044,7 +38044,7 @@
  
  
  Highway/City MPG:  
- 31 / 24 
+ 33 / 24 
  
  
  
@@ -40325,198 +40325,6 @@
  
   New 
  
-2026 Mazda CX-30 2.5 S Preferred AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- 3MVDMBCL1TM227656 
- 
- 
- 
- Stock:  
- 
- #3MVDMBCL1TM227656 
- 
- 
- 
- Exterior Color:  
-  Aero Gray Metallic 
- 
- 
- Interior Color:  
- Black/Black Leatherette 
- 
- 
- Highway/City MPG:  
- 31 / 24 
- 
- 
- 
- 
- 
- MSRP
- 
- $32,195 
- 
- 
- Doc Fee 
- 
- 
-                               {{getDollarValue(377.0)}}
-                             
- 
- 
- Electronic Filing Fee 
- 
- 
-                               {{getDollarValue(35.0)}}
-                             
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                             
- - 
- 
- 
-  Your Price
-                                                              
- $32,607 
- 
- 
-  Your Price
-                                                              
- $32,607 
- 
- 
- 
- 
- 
-                   Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $32,195 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                                        Personalize Payment Options
-                   
- 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
- Schedule Test Drive 
- Schedule Test Drive 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
 2026 MAZDA3 Hatchback 2.5 S Carbon Edition AWD                                  
  
  
@@ -40766,7 +40574,7 @@
  
  
  Highway/City MPG:  
- 35 / 26 
+ 35 / 25 
  
  
  
@@ -40822,6 +40630,198 @@
  
  MSRP 
  $33,605 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        Personalize Payment Options
+                   
+ 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+ Schedule Test Drive 
+ Schedule Test Drive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-30 2.5 S Preferred AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ 3MVDMBCL1TM227656 
+ 
+ 
+ 
+ Stock:  
+ 
+ #3MVDMBCL1TM227656 
+ 
+ 
+ 
+ Exterior Color:  
+  Aero Gray Metallic 
+ 
+ 
+ Interior Color:  
+ Black/Black Leatherette 
+ 
+ 
+ Highway/City MPG:  
+ 33 / 24 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $32,195 
+ 
+ 
+ Doc Fee 
+ 
+ 
+                                         {{getDollarValue(377.0)}}
+                                       
+ 
+ 
+ Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(35.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $32,607 
+ 
+ 
+ Your Price
+                                                          
+ $32,607 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $32,195 
  
  
  
@@ -41553,7 +41553,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -41745,7 +41745,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -41937,7 +41937,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -42140,7 +42140,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -42332,7 +42332,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -42524,7 +42524,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -42716,7 +42716,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -42908,7 +42908,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -43100,7 +43100,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -43292,7 +43292,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -43883,7 +43883,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -44075,7 +44075,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -44267,7 +44267,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -44459,7 +44459,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -44662,7 +44662,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -44854,7 +44854,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -45046,7 +45046,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -45238,7 +45238,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -45430,7 +45430,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -45622,7 +45622,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -45814,7 +45814,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -46405,7 +46405,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -46597,7 +46597,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -46789,7 +46789,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -46981,7 +46981,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -47184,7 +47184,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -47376,7 +47376,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -47568,7 +47568,7 @@
  
  
  Highway/City MPG:  
- 32 / 26 
+ 33 / 24 
  
  
  
@@ -48152,7 +48152,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 31 / 25 
  
  
  
@@ -48348,7 +48348,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -49135,7 +49135,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -49327,7 +49327,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -49519,7 +49519,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -49722,7 +49722,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -50110,7 +50110,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -50302,7 +50302,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -50494,7 +50494,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -50686,7 +50686,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -50859,77 +50859,77 @@
  
  VIN:  
  
- JM3KMCHA1T0213272 
+ JM3KMCHA8T0194249 
  
  
  
  Stock:  
  
- #JM3KMCHA1T0213272 
+ #JM3KMCHA8T0194249 
  
  
  
  Exterior Color:  
-  Aero Gray Metallic 
+  Jet Black Mica 
  
  
  Interior Color:  
- Pure White Leatherette 
+ Black Leatherette 
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
  
  
  MSRP
- 
- $36,665 
+  
+ $36,320 
  
  
  Doc Fee 
  
  
-                               {{getDollarValue(377.0)}}
-                             
+                                         {{getDollarValue(377.0)}}
+                                       
  
  
  Electronic Filing Fee 
  
  
-                               {{getDollarValue(35.0)}}
-                             
+                                         {{getDollarValue(35.0)}}
+                                       
  
  
  
                                                                 {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                             
+                                                                 
  - 
  
  
-  Your Price
-                                                              
- $37,077 
+ Your Price
+                                                          
+ $36,732 
  
  
-  Your Price
-                                                              
- $37,077 
+ Your Price
+                                                          
+ $36,732 
  
  
  
  
  
-                   Disclosure
+                     Disclosure
                    
  
  
  
  
  MSRP 
- $36,665 
+ $36,320 
  
  
  
@@ -51450,198 +51450,6 @@
  
  VIN:  
  
- JM3KMCHA8T0194249 
- 
- 
- 
- Stock:  
- 
- #JM3KMCHA8T0194249 
- 
- 
- 
- Exterior Color:  
-  Jet Black Mica 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Highway/City MPG:  
- 29 / 23 
- 
- 
- 
- 
- 
- MSRP
-  
- $36,320 
- 
- 
- Doc Fee 
- 
- 
-                                         {{getDollarValue(377.0)}}
-                                       
- 
- 
- Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(35.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $36,732 
- 
- 
- Your Price
-                                                          
- $36,732 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $36,320 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                                        Personalize Payment Options
-                   
- 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
- Schedule Test Drive 
- Schedule Test Drive 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-5 2.5 S Preferred AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
  JM3KMCHA3T0206632 
  
  
@@ -51661,7 +51469,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -52049,7 +51857,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -52162,17 +51970,6 @@
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  What's your car worth? Use our easy online trade-in calculator and get an appraisal today! 
- Value Your Trade 
  
  
  
@@ -52252,7 +52049,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -52365,6 +52162,17 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  What's your car worth? Use our easy online trade-in calculator and get an appraisal today! 
+ Value Your Trade 
  
  
  
@@ -52640,7 +52448,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -52832,7 +52640,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -53024,7 +52832,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 31 / 25 
  
  
  
@@ -53220,7 +53028,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 31 / 25 
  
  
  
@@ -53397,18 +53205,18 @@
  
  VIN:  
  
- JM3KMCHA3T0189024 
+ JM3KMCHA7T0184621 
  
  
  
  Stock:  
  
- #JM3KMCHA3T0189024 
+ #JM3KMCHA7T0184621 
  
  
  
  Exterior Color:  
-  Aero Gray Metallic 
+  Navy Blue Mica 
  
  
  Interior Color:  
@@ -53416,58 +53224,254 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
  
  
  MSRP
- 
- $36,940 
+  
+ $36,540 
  
  
  Doc Fee 
  
  
-                               {{getDollarValue(377.0)}}
-                             
+                                         {{getDollarValue(377.0)}}
+                                       
  
  
  Electronic Filing Fee 
  
  
-                               {{getDollarValue(35.0)}}
-                             
+                                         {{getDollarValue(35.0)}}
+                                       
  
  
  
                                                                 {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                             
+                                                                 
  - 
  
  
-  Your Price
-                                                              
- $37,352 
+ Your Price
+                                                          
+ $36,952 
  
  
-  Your Price
-                                                              
- $37,352 
+ Your Price
+                                                          
+ $36,952 
  
  
  
  
  
-                   Disclosure
+                     Disclosure
                    
  
  
  
  
  MSRP 
- $36,940 
+ $36,540 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        Personalize Payment Options
+                   
+ 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+ Schedule Test Drive 
+ Schedule Test Drive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-50 2.5 S Premium AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ 7MMVABDL1TN618308 
+ 
+ 
+ 
+ Stock:  
+ 
+ #7MMVABDL1TN618308 
+ 
+ 
+ 
+ Exterior Color:  
+  Polymetal Gray Metallic 
+ 
+ 
+ Interior Color:  
+ Black Leather 
+ 
+ 
+ Highway/City MPG:  
+ 31 / 25 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $37,555 
+ 
+ 
+ Customer Cash  
+ -$1,000 
+ 
+ 
+ Doc Fee 
+ 
+ 
+                                         {{getDollarValue(377.0)}}
+                                       
+ 
+ 
+ Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(35.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $36,967 
+ 
+ 
+ Your Price
+                                                          
+ $36,967 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $37,555 
  
  
  
@@ -53988,586 +53992,6 @@
  
  VIN:  
  
- JM3KMCHA7T0184621 
- 
- 
- 
- Stock:  
- 
- #JM3KMCHA7T0184621 
- 
- 
- 
- Exterior Color:  
-  Navy Blue Mica 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Highway/City MPG:  
- 29 / 23 
- 
- 
- 
- 
- 
- MSRP
-  
- $36,540 
- 
- 
- Doc Fee 
- 
- 
-                                         {{getDollarValue(377.0)}}
-                                       
- 
- 
- Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(35.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $36,952 
- 
- 
- Your Price
-                                                          
- $36,952 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $36,540 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                                        Personalize Payment Options
-                   
- 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
- Schedule Test Drive 
- Schedule Test Drive 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-50 2.5 S Premium AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- 7MMVABDL1TN618308 
- 
- 
- 
- Stock:  
- 
- #7MMVABDL1TN618308 
- 
- 
- 
- Exterior Color:  
-  Polymetal Gray Metallic 
- 
- 
- Interior Color:  
- Black Leather 
- 
- 
- Highway/City MPG:  
- 30 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $37,555 
- 
- 
- Customer Cash  
- -$1,000 
- 
- 
- Doc Fee 
- 
- 
-                                         {{getDollarValue(377.0)}}
-                                       
- 
- 
- Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(35.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $36,967 
- 
- 
- Your Price
-                                                          
- $36,967 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $37,555 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                                        Personalize Payment Options
-                   
- 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
- Schedule Test Drive 
- Schedule Test Drive 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-5 2.5 S Preferred AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KMCHA1T0213157 
- 
- 
- 
- Stock:  
- 
- #JM3KMCHA1T0213157 
- 
- 
- 
- Exterior Color:  
-  Rhodium White Metallic 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Highway/City MPG:  
- 29 / 23 
- 
- 
- 
- 
- 
- MSRP
- 
- $37,000 
- 
- 
- Doc Fee 
- 
- 
-                               {{getDollarValue(377.0)}}
-                             
- 
- 
- Electronic Filing Fee 
- 
- 
-                               {{getDollarValue(35.0)}}
-                             
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                             
- - 
- 
- 
-  Your Price
-                                                              
- $37,412 
- 
- 
-  Your Price
-                                                              
- $37,412 
- 
- 
- 
- 
- 
-                   Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $37,000 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                                        Personalize Payment Options
-                   
- 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
- Schedule Test Drive 
- Schedule Test Drive 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-5 2.5 S Preferred AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
  JM3KMCHA1T0184615 
  
  
@@ -54587,7 +54011,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -54709,8 +54133,189 @@
  
  
  
-  What's your car worth? Use our easy online trade-in calculator and get an appraisal today! 
- Value Your Trade 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-5 2.5 S Preferred AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM3KMCHA1T0213272 
+ 
+ 
+ 
+ Stock:  
+ 
+ #JM3KMCHA1T0213272 
+ 
+ 
+ 
+ Exterior Color:  
+  Aero Gray Metallic 
+ 
+ 
+ Interior Color:  
+ Pure White Leatherette 
+ 
+ 
+ Highway/City MPG:  
+ 30 / 24 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $36,665 
+ 
+ 
+ Doc Fee 
+ 
+ 
+                                         {{getDollarValue(377.0)}}
+                                       
+ 
+ 
+ Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(35.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $37,077 
+ 
+ 
+ Your Price
+                                                          
+ $37,077 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $36,665 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        Personalize Payment Options
+                   
+ 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+ Schedule Test Drive 
+ Schedule Test Drive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
@@ -54790,7 +54395,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -54982,7 +54587,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -55104,6 +54709,17 @@
  
  
  
+  What's your car worth? Use our easy online trade-in calculator and get an appraisal today! 
+ Value Your Trade 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
@@ -55174,7 +54790,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 31 / 25 
  
  
  
@@ -55351,6 +54967,198 @@
  
  VIN:  
  
+ JM3KMCHA3T0189024 
+ 
+ 
+ 
+ Stock:  
+ 
+ #JM3KMCHA3T0189024 
+ 
+ 
+ 
+ Exterior Color:  
+  Aero Gray Metallic 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Highway/City MPG:  
+ 30 / 24 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $36,940 
+ 
+ 
+ Doc Fee 
+ 
+ 
+                                         {{getDollarValue(377.0)}}
+                                       
+ 
+ 
+ Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(35.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $37,352 
+ 
+ 
+ Your Price
+                                                          
+ $37,352 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $36,940 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        Personalize Payment Options
+                   
+ 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+ Schedule Test Drive 
+ Schedule Test Drive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-5 2.5 S Preferred AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
  JM3KMCHA9T0189271 
  
  
@@ -55370,7 +55178,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -55543,6 +55351,198 @@
  
  VIN:  
  
+ JM3KMCHA1T0213157 
+ 
+ 
+ 
+ Stock:  
+ 
+ #JM3KMCHA1T0213157 
+ 
+ 
+ 
+ Exterior Color:  
+  Rhodium White Metallic 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Highway/City MPG:  
+ 30 / 24 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $37,000 
+ 
+ 
+ Doc Fee 
+ 
+ 
+                                         {{getDollarValue(377.0)}}
+                                       
+ 
+ 
+ Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(35.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $37,412 
+ 
+ 
+ Your Price
+                                                          
+ $37,412 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $37,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        Personalize Payment Options
+                   
+ 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+ Schedule Test Drive 
+ Schedule Test Drive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-5 2.5 S Preferred AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
  JM3KMCHA6T0211498 
  
  
@@ -55562,7 +55562,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -55754,7 +55754,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -55946,7 +55946,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 24 
  
  
  
@@ -59829,202 +59829,6 @@
  
   New 
  
-2026 Mazda CX-50 2.5 Turbo AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- 7MMVABCYXTN616490 
- 
- 
- 
- Stock:  
- 
- #7MMVABCYXTN616490 
- 
- 
- 
- Exterior Color:  
-  Zircon Sand Metallic 
- 
- 
- Interior Color:  
- White Leather 
- 
- 
- Highway/City MPG:  
- 29 / 23 
- 
- 
- 
- 
- 
- MSRP
-  
- $41,390 
- 
- 
- Customer Cash  
- -$1,500 
- 
- 
- Doc Fee 
- 
- 
-                                         {{getDollarValue(377.0)}}
-                                       
- 
- 
- Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(35.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $40,302 
- 
- 
- Your Price
-                                                          
- $40,302 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $41,390 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                                        Personalize Payment Options
-                   
- 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
- Schedule Test Drive 
- Schedule Test Drive 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
 2026 Mazda CX-90 3.3 Turbo Select AWD                                  
  
  
@@ -60134,6 +59938,202 @@
  
  MSRP 
  $41,890 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        Personalize Payment Options
+                   
+ 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+ Schedule Test Drive 
+ Schedule Test Drive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-50 2.5 Turbo AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ 7MMVABCYXTN616490 
+ 
+ 
+ 
+ Stock:  
+ 
+ #7MMVABCYXTN616490 
+ 
+ 
+ 
+ Exterior Color:  
+  Zircon Sand Metallic 
+ 
+ 
+ Interior Color:  
+ White Leather 
+ 
+ 
+ Highway/City MPG:  
+ 29 / 23 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $41,390 
+ 
+ 
+ Customer Cash  
+ -$1,500 
+ 
+ 
+ Doc Fee 
+ 
+ 
+                                         {{getDollarValue(377.0)}}
+                                       
+ 
+ 
+ Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(35.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $40,302 
+ 
+ 
+ Your Price
+                                                          
+ $40,302 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $41,390 
  
  
  
@@ -61054,7 +61054,7 @@
  
  
  Highway/City MPG:  
- 30 / 26 
+ 30 / 24 
  
  
  
@@ -61645,7 +61645,7 @@
  
  
  Highway/City MPG:  
- 30 / 26 
+ 30 / 24 
  
  
  
@@ -62033,7 +62033,7 @@
  
  
  Highway/City MPG:  
- 34 / 21 
+ 28 / 26 
  
  
  
