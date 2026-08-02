@@ -4233,182 +4233,6 @@
  
   New 
  
-2026 Mazda CX-5 2.5 S Select AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
-                                            At Dealership
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KMBHA4T0122104 
- 
- 
- 
- Stock:  
- 
- #MD262747 
- 
- 
- 
- Exterior Color:  
-  Jet Black Mica 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 30 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $33,810 
- 
- 
- Dealer Discount     
- -$865 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $33,358 
- 
- 
- Your Price
-                                                          
- $33,358 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $33,810 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
 2026 Mazda CX-50 2.5 S Preferred AWD                                  
  
  
@@ -4518,6 +4342,186 @@
  
  MSRP 
  $34,950 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-50 2.5 S Preferred AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+                                            At Dealership
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ 7MMVABBL6TN611275 
+ 
+ 
+ 
+ Stock:  
+ 
+ #MD262964 
+ 
+ 
+ 
+ Exterior Color:  
+  Machine Gray Metallic 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 30 / 24 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $35,065 
+ 
+ 
+ Dealer Discount     
+ -$990 
+ 
+ 
+ Customer Cash  
+ -$1,000 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $33,488 
+ 
+ 
+ Your Price
+                                                          
+ $33,488 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $35,065 
  
  
  
@@ -4968,186 +4972,6 @@
  
  
  10 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-50 2.5 S Preferred AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
-                                            At Dealership
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- 7MMVABBL6TN611275 
- 
- 
- 
- Stock:  
- 
- #MD262964 
- 
- 
- 
- Exterior Color:  
-  Machine Gray Metallic 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 30 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $35,065 
- 
- 
- Dealer Discount     
- -$990 
- 
- 
- Customer Cash  
- -$1,000 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $33,488 
- 
- 
- Your Price
-                                                          
- $33,488 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $35,065 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
  
  
  
@@ -5695,19 +5519,6 @@
  
  
  
- Can't find what 
- you're looking for? 
- Let us know what you want. 
- Reserve Your Vehicle 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -5875,6 +5686,19 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can't find what 
+ you're looking for? 
+ Let us know what you want. 
+ Reserve Your Vehicle 
  
  
  
@@ -6943,6 +6767,182 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-5 2.5 S Select AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+                                            At Dealership
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM3KMBHA7T0163178 
+ 
+ 
+ 
+ Stock:  
+ 
+ #MD262895 
+ 
+ 
+ 
+ Exterior Color:  
+  Soul Red Crystal Metallic 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 30 / 24 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $34,345 
+ 
+ 
+ Dealer Discount     
+ -$918 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $33,840 
+ 
+ 
+ Your Price
+                                                          
+ $33,840 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $34,345 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
    
  
  
@@ -7341,182 +7341,6 @@
  
  
  10 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-5 2.5 S Select AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
-                                            At Dealership
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KMBHA7T0163178 
- 
- 
- 
- Stock:  
- 
- #MD262895 
- 
- 
- 
- Exterior Color:  
-  Soul Red Crystal Metallic 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 30 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $34,345 
- 
- 
- Dealer Discount     
- -$918 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $33,840 
- 
- 
- Your Price
-                                                          
- $33,840 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $34,345 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
  
  
  
@@ -8064,19 +7888,6 @@
  
  
  
- Can't find what 
- you're looking for? 
- Let us know what you want. 
- Reserve Your Vehicle 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -8244,6 +8055,19 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can't find what 
+ you're looking for? 
+ Let us know what you want. 
+ Reserve Your Vehicle 
  
  
  
@@ -9312,6 +9136,186 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-30 2.5 Turbo Aire Edition AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+                                            At Dealership
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ 3MVDMBXY8TM139368 
+ 
+ 
+ 
+ Stock:  
+ 
+ #MD262620 
+ 
+ 
+ 
+ Exterior Color:  
+  Jet Black Mica 
+ 
+ 
+ Interior Color:  
+ White/Gray Leatherette 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 30 / 22 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $36,635 
+ 
+ 
+ Dealer Discount     
+ -$1,006 
+ 
+ 
+ Customer Cash  
+ -$1,000 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $35,042 
+ 
+ 
+ Your Price
+                                                          
+ $35,042 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $36,635 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
    
  
  
@@ -9710,186 +9714,6 @@
  
  
  10 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-30 2.5 Turbo Aire Edition AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
-                                            At Dealership
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- 3MVDMBXY8TM139368 
- 
- 
- 
- Stock:  
- 
- #MD262620 
- 
- 
- 
- Exterior Color:  
-  Jet Black Mica 
- 
- 
- Interior Color:  
- White/Gray Leatherette 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 30 / 22 
- 
- 
- 
- 
- 
- MSRP
-  
- $36,635 
- 
- 
- Dealer Discount     
- -$1,006 
- 
- 
- Customer Cash  
- -$1,000 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $35,042 
- 
- 
- Your Price
-                                                          
- $35,042 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $36,635 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
  
  
  
@@ -10441,19 +10265,6 @@
  
  
  
- Can't find what 
- you're looking for? 
- Let us know what you want. 
- Reserve Your Vehicle 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -10625,6 +10436,19 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can't find what 
+ you're looking for? 
+ Let us know what you want. 
+ Reserve Your Vehicle 
  
  
  
@@ -11697,6 +11521,186 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-30 2.5 Turbo Aire Edition AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+                                            At Dealership
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ 3MVDMBDY2TM115099 
+ 
+ 
+ 
+ Stock:  
+ 
+ #MD262456X 
+ 
+ 
+ 
+ Exterior Color:  
+  Snowflake White Pearl Mica 
+ 
+ 
+ Interior Color:  
+ White/Gray Leatherette 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 30 / 22 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $37,265 
+ 
+ 
+ Dealer Discount     
+ -$1,081 
+ 
+ 
+ Customer Cash  
+ -$1,000 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $35,597 
+ 
+ 
+ Your Price
+                                                          
+ $35,597 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $37,265 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
    
  
  
@@ -12095,186 +12099,6 @@
  
  
  10 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-30 2.5 Turbo Aire Edition AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
-                                            At Dealership
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- 3MVDMBDY2TM115099 
- 
- 
- 
- Stock:  
- 
- #MD262456X 
- 
- 
- 
- Exterior Color:  
-  Snowflake White Pearl Mica 
- 
- 
- Interior Color:  
- White/Gray Leatherette 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 30 / 22 
- 
- 
- 
- 
- 
- MSRP
-  
- $37,265 
- 
- 
- Dealer Discount     
- -$1,081 
- 
- 
- Customer Cash  
- -$1,000 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $35,597 
- 
- 
- Your Price
-                                                          
- $35,597 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $37,265 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
  
  
  
@@ -12826,19 +12650,6 @@
  
  
  
- Can't find what 
- you're looking for? 
- Let us know what you want. 
- Reserve Your Vehicle 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -13006,6 +12817,19 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can't find what 
+ you're looking for? 
+ Let us know what you want. 
+ Reserve Your Vehicle 
  
  
  
@@ -14074,6 +13898,186 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-50 2.5 S Premium AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+                                            At Dealership
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ 7MMVABDL7TN609872 
+ 
+ 
+ 
+ Stock:  
+ 
+ #MD262911 
+ 
+ 
+ 
+ Exterior Color:  
+  Soul Red Crystal Metallic 
+ 
+ 
+ Interior Color:  
+ Black Leather 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 30 / 24 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $37,605 
+ 
+ 
+ Dealer Discount     
+ -$1,061 
+ 
+ 
+ Customer Cash  
+ -$1,000 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $35,957 
+ 
+ 
+ Your Price
+                                                          
+ $35,957 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $37,605 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
    
  
  
@@ -14472,186 +14476,6 @@
  
  
  11 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-50 2.5 S Premium AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
-                                            At Dealership
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- 7MMVABDL7TN609872 
- 
- 
- 
- Stock:  
- 
- #MD262911 
- 
- 
- 
- Exterior Color:  
-  Soul Red Crystal Metallic 
- 
- 
- Interior Color:  
- Black Leather 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 30 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $37,605 
- 
- 
- Dealer Discount     
- -$1,061 
- 
- 
- Customer Cash  
- -$1,000 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $35,957 
- 
- 
- Your Price
-                                                          
- $35,957 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $37,605 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
  
  
  
@@ -15203,19 +15027,6 @@
  
  
  
- Can't find what 
- you're looking for? 
- Let us know what you want. 
- Reserve Your Vehicle 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -15383,6 +15194,19 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can't find what 
+ you're looking for? 
+ Let us know what you want. 
+ Reserve Your Vehicle 
  
  
  
@@ -16443,6 +16267,182 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-5 2.5 S Preferred AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+                                            At Dealership
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM3KMCHAXT0173676 
+ 
+ 
+ 
+ Stock:  
+ 
+ #MD262993 
+ 
+ 
+ 
+ Exterior Color:  
+  Rhodium White Metallic 
+ 
+ 
+ Interior Color:  
+ Pure White Leatherette 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 30 / 24 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $36,940 
+ 
+ 
+ Dealer Discount     
+ -$1,041 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $36,312 
+ 
+ 
+ Your Price
+                                                          
+ $36,312 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $36,940 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
    
  
  
@@ -16841,182 +16841,6 @@
  
  
  12 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-5 2.5 S Preferred AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
-                                            At Dealership
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KMCHAXT0173676 
- 
- 
- 
- Stock:  
- 
- #MD262993 
- 
- 
- 
- Exterior Color:  
-  Rhodium White Metallic 
- 
- 
- Interior Color:  
- Pure White Leatherette 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 30 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $36,940 
- 
- 
- Dealer Discount     
- -$1,041 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $36,312 
- 
- 
- Your Price
-                                                          
- $36,312 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $36,940 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
  
  
  
@@ -17564,19 +17388,6 @@
  
  
  
- Can't find what 
- you're looking for? 
- Let us know what you want. 
- Reserve Your Vehicle 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -17744,6 +17555,19 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can't find what 
+ you're looking for? 
+ Let us know what you want. 
+ Reserve Your Vehicle 
  
  
  
@@ -18816,6 +18640,186 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-30 2.5 Turbo Premium Plus AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+                                            At Dealership
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ 3MVDMBEY3TM141970 
+ 
+ 
+ 
+ Stock:  
+ 
+ #MD262652 
+ 
+ 
+ 
+ Exterior Color:  
+  Jet Black Mica 
+ 
+ 
+ Interior Color:  
+ Black/Black Leather 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 30 / 22 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $39,810 
+ 
+ 
+ Dealer Discount     
+ -$1,031 
+ 
+ 
+ Customer Cash  
+ -$1,000 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $38,192 
+ 
+ 
+ Your Price
+                                                          
+ $38,192 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $39,810 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
    
  
  
@@ -19214,186 +19218,6 @@
  
  
  13 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-30 2.5 Turbo Premium Plus AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
-                                            At Dealership
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- 3MVDMBEY3TM141970 
- 
- 
- 
- Stock:  
- 
- #MD262652 
- 
- 
- 
- Exterior Color:  
-  Jet Black Mica 
- 
- 
- Interior Color:  
- Black/Black Leather 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 30 / 22 
- 
- 
- 
- 
- 
- MSRP
-  
- $39,810 
- 
- 
- Dealer Discount     
- -$1,031 
- 
- 
- Customer Cash  
- -$1,000 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $38,192 
- 
- 
- Your Price
-                                                          
- $38,192 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $39,810 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
  
  
  
@@ -19945,19 +19769,6 @@
  
  
  
- Can't find what 
- you're looking for? 
- Let us know what you want. 
- Reserve Your Vehicle 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -20129,6 +19940,19 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can't find what 
+ you're looking for? 
+ Let us know what you want. 
+ Reserve Your Vehicle 
  
  
  
@@ -21197,6 +21021,182 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-70 Plug-In Hybrid SC AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+                                            At Dealership
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM3KJAHF1T1351929 
+ 
+ 
+ 
+ Stock:  
+ 
+ #MD262729 
+ 
+ 
+ 
+ Exterior Color:  
+  Jet Black Mica 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $46,005 
+ 
+ 
+ Dealer Discount     
+ -$1,151 
+ 
+ 
+ Customer Cash  
+ -$5,000 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $40,267 
+ 
+ 
+ Your Price
+                                                          
+ $40,267 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $46,005 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
    
  
  
@@ -21595,182 +21595,6 @@
  
  
  14 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-70 Plug-In Hybrid SC AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
-                                            At Dealership
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KJAHF1T1351929 
- 
- 
- 
- Stock:  
- 
- #MD262729 
- 
- 
- 
- Exterior Color:  
-  Jet Black Mica 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- 
- 
- 
- MSRP
-  
- $46,005 
- 
- 
- Dealer Discount     
- -$1,151 
- 
- 
- Customer Cash  
- -$5,000 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $40,267 
- 
- 
- Your Price
-                                                          
- $40,267 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $46,005 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
  
  
  
@@ -22318,19 +22142,6 @@
  
  
  
- Can't find what 
- you're looking for? 
- Let us know what you want. 
- Reserve Your Vehicle 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -22498,6 +22309,19 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can't find what 
+ you're looking for? 
+ Let us know what you want. 
+ Reserve Your Vehicle 
  
  
  
@@ -23566,6 +23390,186 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-50 2.5 Turbo Meridian Edition AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+                                            At Dealership
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ 7MMVABXY3TN491472 
+ 
+ 
+ 
+ Stock:  
+ 
+ #NRMD262786 
+ 
+ 
+ 
+ Exterior Color:  
+  Zircon Sand Metallic 
+ 
+ 
+ Interior Color:  
+ Terracotta Leather 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 29 / 23 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $44,115 
+ 
+ 
+ Dealer Discount     
+ -$1,290 
+ 
+ 
+ Customer Cash  
+ -$1,500 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $41,738 
+ 
+ 
+ Your Price
+                                                          
+ $41,738 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $44,115 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
    
  
  
@@ -23964,186 +23968,6 @@
  
  
  15 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-50 2.5 Turbo Meridian Edition AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
-                                            At Dealership
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- 7MMVABXY3TN491472 
- 
- 
- 
- Stock:  
- 
- #NRMD262786 
- 
- 
- 
- Exterior Color:  
-  Zircon Sand Metallic 
- 
- 
- Interior Color:  
- Terracotta Leather 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 29 / 23 
- 
- 
- 
- 
- 
- MSRP
-  
- $44,115 
- 
- 
- Dealer Discount     
- -$1,290 
- 
- 
- Customer Cash  
- -$1,500 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $41,738 
- 
- 
- Your Price
-                                                          
- $41,738 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $44,115 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
  
  
  
@@ -24703,19 +24527,6 @@
  
  
  
- Can't find what 
- you're looking for? 
- Let us know what you want. 
- Reserve Your Vehicle 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -24887,6 +24698,19 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can't find what 
+ you're looking for? 
+ Let us know what you want. 
+ Reserve Your Vehicle 
  
  
  
@@ -25963,6 +25787,186 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-50 2.5 Turbo Premium Plus AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+                                            At Dealership
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ 7MMVABEY8TN478624 
+ 
+ 
+ 
+ Stock:  
+ 
+ #MD262565 
+ 
+ 
+ 
+ Exterior Color:  
+  Soul Red Crystal Metallic 
+ 
+ 
+ Interior Color:  
+ Terracotta Leather 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 29 / 23 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $46,505 
+ 
+ 
+ Dealer Discount     
+ -$1,441 
+ 
+ 
+ Customer Cash  
+ -$1,500 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $43,977 
+ 
+ 
+ Your Price
+                                                          
+ $43,977 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $46,505 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
    
  
  
@@ -26361,186 +26365,6 @@
  
  
  16 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-50 2.5 Turbo Premium Plus AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
-                                            At Dealership
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- 7MMVABEY8TN478624 
- 
- 
- 
- Stock:  
- 
- #MD262565 
- 
- 
- 
- Exterior Color:  
-  Soul Red Crystal Metallic 
- 
- 
- Interior Color:  
- Terracotta Leather 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 29 / 23 
- 
- 
- 
- 
- 
- MSRP
-  
- $46,505 
- 
- 
- Dealer Discount     
- -$1,441 
- 
- 
- Customer Cash  
- -$1,500 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $43,977 
- 
- 
- Your Price
-                                                          
- $43,977 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $46,505 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
  
  
  
@@ -27096,19 +26920,6 @@
  
  
  
- Can't find what 
- you're looking for? 
- Let us know what you want. 
- Reserve Your Vehicle 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -27280,6 +27091,19 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can't find what 
+ you're looking for? 
+ Let us know what you want. 
+ Reserve Your Vehicle 
  
  
  
@@ -28356,6 +28180,182 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-90 Plug-In Hybrid Premium Sport AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+                                            At Dealership
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM3KKCHA0T1384322 
+ 
+ 
+ 
+ Stock:  
+ 
+ #MD262684 
+ 
+ 
+ 
+ Exterior Color:  
+  Platinum Quartz 
+ 
+ 
+ Interior Color:  
+ Black Leather Leather 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $57,630 
+ 
+ 
+ Dealer Discount     
+ -$1,543 
+ 
+ 
+ Customer Cash  
+ -$5,000 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $51,500 
+ 
+ 
+ Your Price
+                                                          
+ $51,500 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $57,630 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
    
  
  
@@ -28754,182 +28754,6 @@
  
  
  17 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-90 Plug-In Hybrid Premium Sport AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
-                                            At Dealership
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KKCHA0T1384322 
- 
- 
- 
- Stock:  
- 
- #MD262684 
- 
- 
- 
- Exterior Color:  
-  Platinum Quartz 
- 
- 
- Interior Color:  
- Black Leather Leather 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- 
- 
- 
- MSRP
-  
- $57,630 
- 
- 
- Dealer Discount     
- -$1,543 
- 
- 
- Customer Cash  
- -$5,000 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $51,500 
- 
- 
- Your Price
-                                                          
- $51,500 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $57,630 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
  
  
  
@@ -29485,19 +29309,6 @@
  
  
  
- Can't find what 
- you're looking for? 
- Let us know what you want. 
- Reserve Your Vehicle 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -29665,6 +29476,19 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can't find what 
+ you're looking for? 
+ Let us know what you want. 
+ Reserve Your Vehicle 
  
  
  
@@ -30745,6 +30569,182 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-90 Plug-In Hybrid Premium Plus AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+                                            At Dealership
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM3KKEHA3T1360169 
+ 
+ 
+ 
+ Stock:  
+ 
+ #MD262380 
+ 
+ 
+ 
+ Exterior Color:  
+  Platinum Quartz 
+ 
+ 
+ Interior Color:  
+ Black Nappa Leather Leather 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $61,215 
+ 
+ 
+ Dealer Discount     
+ -$1,700 
+ 
+ 
+ Customer Cash  
+ -$5,000 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $54,928 
+ 
+ 
+ Your Price
+                                                          
+ $54,928 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $61,215 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
    
  
  
@@ -31143,182 +31143,6 @@
  
  
  18 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-90 Plug-In Hybrid Premium Plus AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
-                                            At Dealership
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KKEHA3T1360169 
- 
- 
- 
- Stock:  
- 
- #MD262380 
- 
- 
- 
- Exterior Color:  
-  Platinum Quartz 
- 
- 
- Interior Color:  
- Black Nappa Leather Leather 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- 
- 
- 
- MSRP
-  
- $61,215 
- 
- 
- Dealer Discount     
- -$1,700 
- 
- 
- Customer Cash  
- -$5,000 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $54,928 
- 
- 
- Your Price
-                                                          
- $54,928 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $61,215 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
  
  
  
@@ -31874,19 +31698,6 @@
  
  
  
- Can't find what 
- you're looking for? 
- Let us know what you want. 
- Reserve Your Vehicle 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -32058,6 +31869,19 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can't find what 
+ you're looking for? 
+ Let us know what you want. 
+ Reserve Your Vehicle 
  
  
  
@@ -33142,6 +32966,187 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 MAZDA3 Sedan 2.5 S Select Sport                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM1BPABL7T1895924 
+ 
+ 
+ 
+ Stock:  
+ 
+ #JM1BPABL7T1895924 
+ 
+ 
+ 
+ Exterior Color:  
+  Jet Black Mica 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ FWD 
+ 
+ 
+ Highway/City MPG:  
+ 37 / 27 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $26,775 
+ 
+ 
+ Customer Cash  
+ -$1,500 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $25,688 
+ 
+ 
+ Your Price
+                                                          
+ $25,688 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $26,775 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
    
  
  
@@ -33540,187 +33545,6 @@
  
  
  19 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 MAZDA3 Sedan 2.5 S Select Sport                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM1BPABL7T1895924 
- 
- 
- 
- Stock:  
- 
- #JM1BPABL7T1895924 
- 
- 
- 
- Exterior Color:  
-  Jet Black Mica 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- FWD 
- 
- 
- Highway/City MPG:  
- 37 / 27 
- 
- 
- 
- 
- 
- MSRP
-  
- $26,775 
- 
- 
- Customer Cash  
- -$1,500 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $25,688 
- 
- 
- Your Price
-                                                          
- $25,688 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $26,775 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
  
  
  
@@ -34283,19 +34107,6 @@
  
  
  
- Can't find what 
- you're looking for? 
- Let us know what you want. 
- Reserve Your Vehicle 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -34468,6 +34279,19 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can't find what 
+ you're looking for? 
+ Let us know what you want. 
+ Reserve Your Vehicle 
  
  
  
@@ -35558,6 +35382,187 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 MAZDA3 Sedan 2.5 S Select Sport                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM1BPABL0T1894453 
+ 
+ 
+ 
+ Stock:  
+ 
+ #JM1BPABL0T1894453 
+ 
+ 
+ 
+ Exterior Color:  
+  Machine Gray Metallic 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ FWD 
+ 
+ 
+ Highway/City MPG:  
+ 37 / 27 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $28,195 
+ 
+ 
+ Customer Cash  
+ -$1,500 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $27,108 
+ 
+ 
+ Your Price
+                                                          
+ $27,108 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $28,195 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
    
  
  
@@ -35989,187 +35994,6 @@
  
   New 
  
-2026 MAZDA3 Sedan 2.5 S Select Sport                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM1BPABL0T1894453 
- 
- 
- 
- Stock:  
- 
- #JM1BPABL0T1894453 
- 
- 
- 
- Exterior Color:  
-  Machine Gray Metallic 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- FWD 
- 
- 
- Highway/City MPG:  
- 37 / 27 
- 
- 
- 
- 
- 
- MSRP
-  
- $28,195 
- 
- 
- Customer Cash  
- -$1,500 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $27,108 
- 
- 
- Your Price
-                                                          
- $27,108 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $28,195 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
 2026 MAZDA3 Sedan 2.5 S Preferred                                  
  
  
@@ -36231,7 +36055,7 @@
  
  
  Highway/City MPG:  
- 35 / 26 
+ 37 / 27 
  
  
  
@@ -36412,7 +36236,7 @@
  
  
  Highway/City MPG:  
- 35 / 26 
+ 37 / 27 
  
  
  
@@ -36593,7 +36417,7 @@
  
  
  Highway/City MPG:  
- 35 / 26 
+ 37 / 27 
  
  
  
@@ -36690,19 +36514,6 @@
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Can't find what 
- you're looking for? 
- Let us know what you want. 
- Reserve Your Vehicle 
  
  
  
@@ -36884,6 +36695,19 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can't find what 
+ you're looking for? 
+ Let us know what you want. 
+ Reserve Your Vehicle 
  
  
  
@@ -37149,7 +36973,7 @@
  
  
  Highway/City MPG:  
- 33 / 24 
+ 31 / 24 
  
  
  
@@ -37330,7 +37154,7 @@
  
  
  Highway/City MPG:  
- 33 / 24 
+ 31 / 24 
  
  
  
@@ -37511,7 +37335,7 @@
  
  
  Highway/City MPG:  
- 33 / 24 
+ 31 / 24 
  
  
  
@@ -37692,7 +37516,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 29 / 24 
  
  
  
@@ -37918,6 +37742,183 @@
  
  MSRP 
  $33,130 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-5 2.5 S AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM3KMAHA2T0205721 
+ 
+ 
+ 
+ Stock:  
+ 
+ #JM3KMAHA2T0205721 
+ 
+ 
+ 
+ Exterior Color:  
+  Rhodium White Metallic 
+ 
+ 
+ Interior Color:  
+ Black Cloth 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 29 / 24 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $32,495 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $32,908 
+ 
+ 
+ Your Price
+                                                          
+ $32,908 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $32,495 
  
  
  
@@ -38401,183 +38402,6 @@
  
   New 
  
-2026 Mazda CX-5 2.5 S AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KMAHA2T0205721 
- 
- 
- 
- Stock:  
- 
- #JM3KMAHA2T0205721 
- 
- 
- 
- Exterior Color:  
-  Rhodium White Metallic 
- 
- 
- Interior Color:  
- Black Cloth 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 29 / 23 
- 
- 
- 
- 
- 
- MSRP
-  
- $32,495 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $32,908 
- 
- 
- Your Price
-                                                          
- $32,908 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $32,495 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
 2026 Mazda CX-30 2.5 S Carbon Edition AWD                                  
  
  
@@ -38639,7 +38463,7 @@
  
  
  Highway/City MPG:  
- 33 / 26 
+ 33 / 24 
  
  
  
@@ -38820,7 +38644,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -38997,7 +38821,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -39042,6 +38866,183 @@
  
  MSRP 
  $33,660 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-5 2.5 S Select AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM3KMBHA2T0186383 
+ 
+ 
+ 
+ Stock:  
+ 
+ #JM3KMBHA2T0186383 
+ 
+ 
+ 
+ Exterior Color:  
+  Navy Blue Mica 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 29 / 23 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $33,735 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $34,148 
+ 
+ 
+ Your Price
+                                                          
+ $34,148 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $33,735 
  
  
  
@@ -39160,183 +39161,6 @@
  
  VIN:  
  
- JM3KMBHA2T0186383 
- 
- 
- 
- Stock:  
- 
- #JM3KMBHA2T0186383 
- 
- 
- 
- Exterior Color:  
-  Navy Blue Mica 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 30 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $33,735 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $34,148 
- 
- 
- Your Price
-                                                          
- $34,148 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $33,735 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-5 2.5 S Select AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
  JM3KMBHA5T0206450 
  
  
@@ -39364,7 +39188,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -39541,7 +39365,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -39718,7 +39542,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -39895,7 +39719,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -40072,7 +39896,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -40249,7 +40073,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -40294,6 +40118,183 @@
  
  MSRP 
  $34,400 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-5 2.5 S Select AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM3KMBHA4T0206584 
+ 
+ 
+ 
+ Stock:  
+ 
+ #JM3KMBHA4T0206584 
+ 
+ 
+ 
+ Exterior Color:  
+  Aero Gray Metallic 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 29 / 23 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $34,480 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $34,893 
+ 
+ 
+ Your Price
+                                                          
+ $34,893 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $34,480 
  
  
  
@@ -40811,183 +40812,6 @@
  
  VIN:  
  
- JM3KMBHA4T0206584 
- 
- 
- 
- Stock:  
- 
- #JM3KMBHA4T0206584 
- 
- 
- 
- Exterior Color:  
-  Aero Gray Metallic 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 30 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $34,480 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $34,893 
- 
- 
- Your Price
-                                                          
- $34,893 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $34,480 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-5 2.5 S Select AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
  JM3KMBHA4T0208433 
  
  
@@ -41015,7 +40839,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -41192,7 +41016,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -41369,7 +41193,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -41471,19 +41295,6 @@
  
  
  
- Can't find what 
- you're looking for? 
- Let us know what you want. 
- Reserve Your Vehicle 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -41559,7 +41370,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -41652,6 +41463,19 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can't find what 
+ you're looking for? 
+ Let us know what you want. 
+ Reserve Your Vehicle 
  
  
  
@@ -41913,7 +41737,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -42090,7 +41914,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -42267,7 +42091,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -42444,7 +42268,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -42621,7 +42445,7 @@
  
  
  Highway/City MPG:  
- 31 / 25 
+ 30 / 24 
  
  
  
@@ -42670,6 +42494,183 @@
  
  MSRP 
  $37,100 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-5 2.5 S Preferred AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM3KMCHA8T0206626 
+ 
+ 
+ 
+ Stock:  
+ 
+ #JM3KMCHA8T0206626 
+ 
+ 
+ 
+ Exterior Color:  
+  Navy Blue Mica 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 29 / 23 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $36,165 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $36,578 
+ 
+ 
+ Your Price
+                                                          
+ $36,578 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $36,165 
  
  
  
@@ -43187,183 +43188,6 @@
  
  VIN:  
  
- JM3KMCHA8T0206626 
- 
- 
- 
- Stock:  
- 
- #JM3KMCHA8T0206626 
- 
- 
- 
- Exterior Color:  
-  Navy Blue Mica 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 30 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $36,165 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $36,578 
- 
- 
- Your Price
-                                                          
- $36,578 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $36,165 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-5 2.5 S Preferred AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
  JM3KMCHAXT0179137 
  
  
@@ -43391,7 +43215,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -43568,7 +43392,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -43847,19 +43671,6 @@
  
  
  
- Can't find what 
- you're looking for? 
- Let us know what you want. 
- Reserve Your Vehicle 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -43935,7 +43746,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -44037,6 +43848,19 @@
  
  
  
+ Can't find what 
+ you're looking for? 
+ Let us know what you want. 
+ Reserve Your Vehicle 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
@@ -44112,7 +43936,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -44289,7 +44113,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -44466,7 +44290,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -44643,7 +44467,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -44820,7 +44644,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -44997,7 +44821,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -45042,6 +44866,183 @@
  
  MSRP 
  $36,560 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-5 2.5 S Preferred AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM3KMCHAXT0193958 
+ 
+ 
+ 
+ Stock:  
+ 
+ #JM3KMCHAXT0193958 
+ 
+ 
+ 
+ Exterior Color:  
+  Rhodium White Metallic 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 29 / 23 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $36,575 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $36,988 
+ 
+ 
+ Your Price
+                                                          
+ $36,988 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $36,575 
  
  
  
@@ -45559,183 +45560,6 @@
  
  VIN:  
  
- JM3KMCHAXT0193958 
- 
- 
- 
- Stock:  
- 
- #JM3KMCHAXT0193958 
- 
- 
- 
- Exterior Color:  
-  Rhodium White Metallic 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 30 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $36,575 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $36,988 
- 
- 
- Your Price
-                                                          
- $36,988 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $36,575 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-5 2.5 S Preferred AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
  JM3KMCHA4T0186679 
  
  
@@ -45763,7 +45587,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -45940,7 +45764,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -46117,7 +45941,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -46162,6 +45986,183 @@
  
  MSRP 
  $36,800 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-5 2.5 S Preferred AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM3KMCHAXT0188534 
+ 
+ 
+ 
+ Stock:  
+ 
+ #JM3KMCHAXT0188534 
+ 
+ 
+ 
+ Exterior Color:  
+  Rhodium White Metallic 
+ 
+ 
+ Interior Color:  
+ Pure White Leatherette 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 29 / 23 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $36,820 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $37,233 
+ 
+ 
+ Your Price
+                                                          
+ $37,233 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $36,820 
  
  
  
@@ -46280,183 +46281,6 @@
  
  VIN:  
  
- JM3KMCHAXT0188534 
- 
- 
- 
- Stock:  
- 
- #JM3KMCHAXT0188534 
- 
- 
- 
- Exterior Color:  
-  Rhodium White Metallic 
- 
- 
- Interior Color:  
- Pure White Leatherette 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 30 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $36,820 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $37,233 
- 
- 
- Your Price
-                                                          
- $37,233 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $36,820 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-5 2.5 S Preferred AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
  JM3KMCHA2T0208369 
  
  
@@ -46484,7 +46308,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -46661,7 +46485,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -46838,7 +46662,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -47188,7 +47012,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 29 / 23 
  
  
  
@@ -47414,6 +47238,183 @@
  
  MSRP 
  $39,160 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-50 Hybrid Premium AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ 7MMVAADW3TN186809 
+ 
+ 
+ 
+ Stock:  
+ 
+ #7MMVAADW3TN186809 
+ 
+ 
+ 
+ Exterior Color:  
+  Jet Black Mica 
+ 
+ 
+ Interior Color:  
+ Red Leather 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 37 / 39 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $39,995 
+ 
+ 
+ Customer Cash  
+ -$1,500 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $38,908 
+ 
+ 
+ Your Price
+                                                          
+ $38,908 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $39,995 
  
  
  
@@ -47864,183 +47865,6 @@
  
  
  23 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-50 Hybrid Premium AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- 7MMVAADW3TN186809 
- 
- 
- 
- Stock:  
- 
- #7MMVAADW3TN186809 
- 
- 
- 
- Exterior Color:  
-  Jet Black Mica 
- 
- 
- Interior Color:  
- Red Leather 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 37 / 39 
- 
- 
- 
- 
- 
- MSRP
-  
- $39,995 
- 
- 
- Customer Cash  
- -$1,500 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $38,908 
- 
- 
- Your Price
-                                                          
- $38,908 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $39,995 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
  
  
  
@@ -48591,19 +48415,6 @@
  
  
  
- Can't find what 
- you're looking for? 
- Let us know what you want. 
- Reserve Your Vehicle 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -48772,6 +48583,19 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can't find what 
+ you're looking for? 
+ Let us know what you want. 
+ Reserve Your Vehicle 
  
  
  
@@ -49210,7 +49034,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 30 / 26 
  
  
  
@@ -49737,7 +49561,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 30 / 26 
  
  
  
@@ -49782,6 +49606,183 @@
  
  MSRP 
  $41,220 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-50 Hybrid Premium Plus AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ 7MMVAAEW4TN184369 
+ 
+ 
+ 
+ Stock:  
+ 
+ #7MMVAAEW4TN184369 
+ 
+ 
+ 
+ Exterior Color:  
+  Ingot Blue Metallic 
+ 
+ 
+ Interior Color:  
+ Black Leather 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 37 / 39 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $42,785 
+ 
+ 
+ Customer Cash  
+ -$1,500 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $41,698 
+ 
+ 
+ Your Price
+                                                          
+ $41,698 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $42,785 
  
  
  
@@ -50265,183 +50266,6 @@
  
   New 
  
-2026 Mazda CX-50 Hybrid Premium Plus AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- 7MMVAAEW4TN184369 
- 
- 
- 
- Stock:  
- 
- #7MMVAAEW4TN184369 
- 
- 
- 
- Exterior Color:  
-  Ingot Blue Metallic 
- 
- 
- Interior Color:  
- Black Leather 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 37 / 39 
- 
- 
- 
- 
- 
- MSRP
-  
- $42,785 
- 
- 
- Customer Cash  
- -$1,500 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $41,698 
- 
- 
- Your Price
-                                                          
- $41,698 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $42,785 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
 2026 Mazda CX-5 2.5 S Premium Plus AWD                                  
  
  
@@ -50503,7 +50327,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 30 / 26 
  
  
  
@@ -50680,7 +50504,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 30 / 26 
  
  
  
@@ -50963,19 +50787,6 @@
  
  
  
- Can't find what 
- you're looking for? 
- Let us know what you want. 
- Reserve Your Vehicle 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -51144,6 +50955,19 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can't find what 
+ you're looking for? 
+ Let us know what you want. 
+ Reserve Your Vehicle 
  
  
  
@@ -51405,7 +51229,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 30 / 26 
  
  
  
@@ -51944,7 +51768,7 @@
  
  
  Highway/City MPG:  
- 30 / 24 
+ 30 / 26 
  
  
  
@@ -52162,6 +51986,187 @@
  
  MSRP 
  $43,155 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  See Details
+                 
+ 
+ Explore Payments 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-90 3.3 Turbo Preferred AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM3KKBHD2T1415655 
+ 
+ 
+ 
+ Stock:  
+ 
+ #JM3KKBHD2T1415655 
+ 
+ 
+ 
+ Exterior Color:  
+  Deep Crystal Blue Mica 
+ 
+ 
+ Interior Color:  
+ Black Leather 
+ 
+ 
+ Transmission:  
+ Automatic 
+ 
+ 
+ DriveTrain:  
+ AWD 
+ 
+ 
+ Highway/City MPG:  
+ 28 / 24 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $45,405 
+ 
+ 
+ Customer Cash  
+ -$2,000 
+ 
+ 
+ Illinois Doc Fee + Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(413.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $43,818 
+ 
+ 
+ Your Price
+                                                          
+ $43,818 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $45,405 
  
  
  
@@ -52612,187 +52617,6 @@
  
  
  23 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-90 3.3 Turbo Preferred AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KKBHD2T1415655 
- 
- 
- 
- Stock:  
- 
- #JM3KKBHD2T1415655 
- 
- 
- 
- Exterior Color:  
-  Deep Crystal Blue Mica 
- 
- 
- Interior Color:  
- Black Leather 
- 
- 
- Transmission:  
- Automatic 
- 
- 
- DriveTrain:  
- AWD 
- 
- 
- Highway/City MPG:  
- 28 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $45,405 
- 
- 
- Customer Cash  
- -$2,000 
- 
- 
- Illinois Doc Fee + Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(413.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $43,818 
- 
- 
- Your Price
-                                                          
- $43,818 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $45,405 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                  See Details
-                 
- 
- Explore Payments 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
- 
  
  
  
@@ -53345,19 +53169,6 @@
  
  
  
- Can't find what 
- you're looking for? 
- Let us know what you want. 
- Reserve Your Vehicle 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
  
@@ -53530,6 +53341,19 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can't find what 
+ you're looking for? 
+ Let us know what you want. 
+ Reserve Your Vehicle 
  
  
  
@@ -54751,7 +54575,6 @@
  Where can I service my Mazda near Downers Grove? 
  
  You can schedule Mazda service at our Mazda Downers Grove dealership. Our service team can help with oil changes, tire rotations, brake inspections, battery checks, wheel alignments, filter replacements, diagnostics, fluid service, genuine Mazda parts, and scheduled maintenance. We serve Mazda drivers from Downers Grove, Naperville, Lombard, La Grange, Bolingbrook, and surrounding Illinois communities. 
- 
  
  
  
