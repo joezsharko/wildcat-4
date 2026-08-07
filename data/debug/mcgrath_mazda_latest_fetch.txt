@@ -34487,7 +34487,7 @@
  
  
  Highway/City MPG:  
- 37 / 26 
+ 35 / 26 
  
  
  
@@ -34543,202 +34543,6 @@
  
  MSRP 
  $28,600 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                                        Personalize Payment Options
-                   
- 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
- Schedule Test Drive 
- Schedule Test Drive 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 MAZDA3 Hatchback 2.5 S Select Sport                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM1BPAKL2T1902908 
- 
- 
- 
- Stock:  
- 
- #JM1BPAKL2T1902908 
- 
- 
- 
- Exterior Color:  
-  Ceramic Metallic 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Highway/City MPG:  
- 35 / 27 
- 
- 
- 
- 
- 
- MSRP
-  
- $28,670 
- 
- 
- Customer Cash  
- -$1,500 
- 
- 
- Doc Fee 
- 
- 
-                                         {{getDollarValue(377.0)}}
-                                       
- 
- 
- Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(35.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $27,582 
- 
- 
- Your Price
-                                                          
- $27,582 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $28,670 
  
  
  
@@ -35022,6 +34826,202 @@
  
   New 
  
+2026 MAZDA3 Hatchback 2.5 S Select Sport                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM1BPAKL2T1902908 
+ 
+ 
+ 
+ Stock:  
+ 
+ #JM1BPAKL2T1902908 
+ 
+ 
+ 
+ Exterior Color:  
+  Ceramic Metallic 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Highway/City MPG:  
+ 35 / 27 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $28,670 
+ 
+ 
+ Customer Cash  
+ -$1,500 
+ 
+ 
+ Doc Fee 
+ 
+ 
+                                         {{getDollarValue(377.0)}}
+                                       
+ 
+ 
+ Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(35.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $27,582 
+ 
+ 
+ Your Price
+                                                          
+ $27,582 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $28,670 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        Personalize Payment Options
+                   
+ 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+ Schedule Test Drive 
+ Schedule Test Drive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
 2026 MAZDA3 Sedan 2.5 S Preferred                                  
  
  
@@ -35075,7 +35075,7 @@
  
  
  Highway/City MPG:  
- 37 / 26 
+ 35 / 26 
  
  
  
@@ -35271,7 +35271,7 @@
  
  
  Highway/City MPG:  
- 37 / 26 
+ 35 / 26 
  
  
  
@@ -36454,7 +36454,7 @@
  
  
  Highway/City MPG:  
- 37 / 26 
+ 35 / 26 
  
  
  
@@ -37249,7 +37249,7 @@
  
  
  Highway/City MPG:  
- 31 / 25 
+ 30 / 25 
  
  
  
@@ -37445,7 +37445,7 @@
  
  
  Highway/City MPG:  
- 31 / 25 
+ 30 / 25 
  
  
  
@@ -37641,7 +37641,7 @@
  
  
  Highway/City MPG:  
- 31 / 24 
+ 33 / 24 
  
  
  
@@ -38033,7 +38033,7 @@
  
  
  Highway/City MPG:  
- 31 / 24 
+ 33 / 24 
  
  
  
@@ -38824,7 +38824,7 @@
  
  
  Highway/City MPG:  
- 31 / 24 
+ 33 / 24 
  
  
  
@@ -39020,7 +39020,7 @@
  
  
  Highway/City MPG:  
- 31 / 24 
+ 33 / 24 
  
  
  
@@ -39216,7 +39216,7 @@
  
  
  Highway/City MPG:  
- 31 / 24 
+ 33 / 24 
  
  
  
@@ -39412,7 +39412,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 23 
  
  
  
@@ -39615,7 +39615,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 23 
  
  
  
@@ -39807,7 +39807,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 23 
  
  
  
@@ -39999,7 +39999,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 23 
  
  
  
@@ -40191,7 +40191,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 23 
  
  
  
@@ -40383,7 +40383,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 23 
  
  
  
@@ -40575,7 +40575,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 23 
  
  
  
@@ -40767,7 +40767,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 23 
  
  
  
@@ -41358,7 +41358,7 @@
  
  
  Highway/City MPG:  
- 31 / 25 
+ 30 / 25 
  
  
  
@@ -41746,7 +41746,7 @@
  
  
  Highway/City MPG:  
- 35 / 26 
+ 36 / 26 
  
  
  
@@ -41942,7 +41942,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 23 
  
  
  
@@ -42145,7 +42145,7 @@
  
  
  Highway/City MPG:  
- 31 / 25 
+ 30 / 25 
  
  
  
@@ -42337,7 +42337,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -42529,7 +42529,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -42721,7 +42721,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -42913,7 +42913,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -43105,7 +43105,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -43297,7 +43297,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -43888,7 +43888,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -44080,7 +44080,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -44272,7 +44272,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -44464,7 +44464,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -44667,7 +44667,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -44859,7 +44859,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -45051,7 +45051,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -45243,7 +45243,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -45435,7 +45435,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -45627,7 +45627,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -45819,7 +45819,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -46410,7 +46410,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -46602,7 +46602,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -46794,7 +46794,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -46986,7 +46986,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -47189,7 +47189,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -47381,7 +47381,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -47573,7 +47573,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -47765,7 +47765,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -47957,7 +47957,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -48149,7 +48149,7 @@
  
  
  Highway/City MPG:  
- 32 / 26 
+ 32 / 25 
  
  
  
@@ -48940,7 +48940,7 @@
  
  
  Highway/City MPG:  
- 34 / 27 
+ 34 / 21 
  
  
  
@@ -49328,7 +49328,7 @@
  
  
  Highway/City MPG:  
- 31 / 25 
+ 31 / 24 
  
  
  
@@ -49524,7 +49524,7 @@
  
  
  Highway/City MPG:  
- 31 / 25 
+ 31 / 24 
  
  
  
@@ -49731,7 +49731,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -50119,7 +50119,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -50507,7 +50507,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -50699,7 +50699,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -50891,7 +50891,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -51678,7 +51678,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -51870,7 +51870,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -52062,7 +52062,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -52265,7 +52265,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -52457,7 +52457,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -52649,7 +52649,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -53037,7 +53037,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -53229,7 +53229,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -54212,7 +54212,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -54404,7 +54404,7 @@
  
  
  Highway/City MPG:  
- 31 / 25 
+ 31 / 24 
  
  
  
@@ -54600,7 +54600,7 @@
  
  
  Highway/City MPG:  
- 31 / 25 
+ 31 / 24 
  
  
  
@@ -54807,7 +54807,7 @@
  
  
  Highway/City MPG:  
- 31 / 25 
+ 31 / 24 
  
  
  
@@ -55003,7 +55003,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -55195,7 +55195,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -55387,7 +55387,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -55579,7 +55579,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -55771,7 +55771,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -55963,7 +55963,7 @@
  
  
  Highway/City MPG:  
- 31 / 25 
+ 31 / 24 
  
  
  
@@ -56558,7 +56558,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -56750,7 +56750,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -56942,7 +56942,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -57134,7 +57134,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -57337,7 +57337,7 @@
  
  
  Highway/City MPG:  
- 29 / 24 
+ 30 / 24 
  
  
  
@@ -61010,7 +61010,7 @@
  
   New 
  
-2026 Mazda CX-90 3.3 Turbo Select AWD                                  
+2026 Mazda CX-50 2.5 Turbo AWD                                  
  
  
  
@@ -61044,26 +61044,26 @@
  
  VIN:  
  
- JM3KKAHD1T1411638 
+ 7MMVABCYXTN616490 
  
  
  
  Stock:  
  
- #JM3KKAHD1T1411638 
+ #7MMVABCYXTN616490 
  
  
  
  Exterior Color:  
-  Deep Crystal Blue Mica 
+  Zircon Sand Metallic 
  
  
  Interior Color:  
- Black Leatherette 
+ White Leather 
  
  
  Highway/City MPG:  
- 28 / 24 
+ 29 / 23 
  
  
  
@@ -61071,11 +61071,11 @@
  
  MSRP
   
- $41,890 
+ $41,390 
  
  
  Customer Cash  
- -$2,000 
+ -$1,500 
  
  
  Doc Fee 
@@ -61118,7 +61118,7 @@
  
  
  MSRP 
- $41,890 
+ $41,390 
  
  
  
@@ -63421,7 +63421,7 @@
  
  
  Highway/City MPG:  
- 34 / 21 
+ 34 / 26 
  
  
  
