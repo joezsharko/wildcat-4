@@ -28756,7 +28756,7 @@
  
  
  Highway/City MPG:  
- 37 / 26 
+ 35 / 27 
  
  
  
@@ -28952,7 +28952,7 @@
  
  
  Highway/City MPG:  
- 37 / 26 
+ 35 / 27 
  
  
  
@@ -29148,7 +29148,7 @@
  
  
  Highway/City MPG:  
- 37 / 26 
+ 35 / 27 
  
  
  
@@ -29551,7 +29551,7 @@
  
  
  Highway/City MPG:  
- 35 / 26 
+ 34 / 27 
  
  
  
@@ -30531,7 +30531,7 @@
  
  
  Highway/City MPG:  
- 35 / 27 
+ 35 / 26 
  
  
  
@@ -31107,18 +31107,18 @@
  
  VIN:  
  
- JM1BPAKL0T1903135 
+ JM1BPAKL2T1902908 
  
  
  
  Stock:  
  
- #JM1BPAKL0T1903135 
+ #JM1BPAKL2T1902908 
  
  
  
  Exterior Color:  
-  Machine Gray Metallic 
+  Ceramic Metallic 
  
  
  Interior Color:  
@@ -31303,18 +31303,18 @@
  
  VIN:  
  
- JM1BPAKL2T1902908 
+ JM1BPAKL0T1903135 
  
  
  
  Stock:  
  
- #JM1BPAKL2T1902908 
+ #JM1BPAKL0T1903135 
  
  
  
  Exterior Color:  
-  Ceramic Metallic 
+  Machine Gray Metallic 
  
  
  Interior Color:  
@@ -31518,7 +31518,7 @@
  
  
  Highway/City MPG:  
- 35 / 27 
+ 35 / 26 
  
  
  
@@ -31714,7 +31714,7 @@
  
  
  Highway/City MPG:  
- 35 / 27 
+ 35 / 26 
  
  
  
@@ -32509,7 +32509,7 @@
  
  
  Highway/City MPG:  
- 35 / 27 
+ 35 / 26 
  
  
  
@@ -33692,7 +33692,7 @@
  
  
  Highway/City MPG:  
- 31 / 25 
+ 30 / 25 
  
  
  
@@ -33888,7 +33888,7 @@
  
  
  Highway/City MPG:  
- 31 / 25 
+ 30 / 25 
  
  
  
@@ -34084,7 +34084,7 @@
  
  
  Highway/City MPG:  
- 31 / 24 
+ 31 / 26 
  
  
  
@@ -34280,7 +34280,7 @@
  
  
  Highway/City MPG:  
- 31 / 25 
+ 30 / 25 
  
  
  
@@ -34683,7 +34683,7 @@
  
  
  Highway/City MPG:  
- 31 / 24 
+ 31 / 26 
  
  
  
@@ -35075,7 +35075,7 @@
  
  
  Highway/City MPG:  
- 31 / 24 
+ 31 / 26 
  
  
  
@@ -35271,7 +35271,7 @@
  
  
  Highway/City MPG:  
- 31 / 24 
+ 31 / 26 
  
  
  
@@ -35467,7 +35467,7 @@
  
  
  Highway/City MPG:  
- 31 / 24 
+ 31 / 26 
  
  
  
@@ -35663,7 +35663,7 @@
  
  
  Highway/City MPG:  
- 31 / 25 
+ 30 / 25 
  
  
  
@@ -36258,7 +36258,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 23 
  
  
  
@@ -36450,7 +36450,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 23 
  
  
  
@@ -36642,7 +36642,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 23 
  
  
  
@@ -36834,7 +36834,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 23 
  
  
  
@@ -37037,7 +37037,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 23 
  
  
  
@@ -37229,7 +37229,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 23 
  
  
  
@@ -37421,7 +37421,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 23 
  
  
  
@@ -37613,7 +37613,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 23 
  
  
  
@@ -38001,7 +38001,7 @@
  
  
  Highway/City MPG:  
- 35 / 26 
+ 33 / 25 
  
  
  
@@ -38197,7 +38197,7 @@
  
  
  Highway/City MPG:  
- 29 / 23 
+ 30 / 23 
  
  
  
@@ -38788,7 +38788,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -38980,7 +38980,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -39172,7 +39172,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -39364,7 +39364,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -39567,7 +39567,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -39759,7 +39759,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -39951,7 +39951,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -40143,7 +40143,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -40335,7 +40335,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -40527,7 +40527,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -40719,7 +40719,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -41310,7 +41310,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -41502,7 +41502,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -41694,7 +41694,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -41886,7 +41886,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -42089,7 +42089,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -42281,7 +42281,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -42473,7 +42473,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -42665,7 +42665,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -42857,7 +42857,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -43049,7 +43049,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -43241,7 +43241,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -43832,7 +43832,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -44024,7 +44024,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -44216,7 +44216,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -44408,7 +44408,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -44611,7 +44611,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -44803,7 +44803,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -44995,7 +44995,7 @@
  
  
  Highway/City MPG:  
- 33 / 25 
+ 31 / 26 
  
  
  
@@ -45387,7 +45387,7 @@
  
  
  Highway/City MPG:  
- 34 / 21 
+ 34 / 26 
  
  
  
@@ -45775,7 +45775,7 @@
  
  
  Highway/City MPG:  
- 31 / 24 
+ 30 / 25 
  
  
  
@@ -46566,7 +46566,7 @@
  
  
  Highway/City MPG:  
- 31 / 24 
+ 30 / 25 
  
  
  
@@ -46762,7 +46762,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -47161,7 +47161,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -47549,7 +47549,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -47741,7 +47741,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -47933,7 +47933,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -48321,7 +48321,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -48912,7 +48912,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -49104,7 +49104,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -49492,7 +49492,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -49695,7 +49695,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -49887,7 +49887,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -50275,7 +50275,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -50467,7 +50467,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -51450,7 +51450,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -51642,7 +51642,7 @@
  
  
  Highway/City MPG:  
- 31 / 24 
+ 30 / 25 
  
  
  
@@ -51838,7 +51838,7 @@
  
  
  Highway/City MPG:  
- 31 / 24 
+ 30 / 25 
  
  
  
@@ -52034,7 +52034,7 @@
  
  
  Highway/City MPG:  
- 31 / 24 
+ 30 / 25 
  
  
  
@@ -52241,7 +52241,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -52433,7 +52433,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -52625,7 +52625,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -52817,7 +52817,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -53009,7 +53009,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -53201,7 +53201,7 @@
  
  
  Highway/City MPG:  
- 31 / 24 
+ 30 / 25 
  
  
  
@@ -53397,7 +53397,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -53988,7 +53988,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -54180,7 +54180,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -54372,7 +54372,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -54564,7 +54564,7 @@
  
  
  Highway/City MPG:  
- 30 / 23 
+ 30 / 24 
  
  
  
@@ -59431,202 +59431,6 @@
  
   New 
  
-2026 Mazda CX-90 3.3 Turbo Select AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
- 
- 
- 
- 
- 
-                                            In Transit
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KKAHD1T1411638 
- 
- 
- 
- Stock:  
- 
- #JM3KKAHD1T1411638 
- 
- 
- 
- Exterior Color:  
-  Deep Crystal Blue Mica 
- 
- 
- Interior Color:  
- Black Leatherette 
- 
- 
- Highway/City MPG:  
- 28 / 24 
- 
- 
- 
- 
- 
- MSRP
-  
- $41,890 
- 
- 
- Customer Cash  
- -$2,000 
- 
- 
- Doc Fee 
- 
- 
-                                         {{getDollarValue(377.0)}}
-                                       
- 
- 
- Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(35.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $40,302 
- 
- 
- Your Price
-                                                          
- $40,302 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $41,890 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                                        Personalize Payment Options
-                   
- 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
- Schedule Test Drive 
- Schedule Test Drive 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
 2026 Mazda CX-50 2.5 Turbo AWD                                  
  
  
@@ -59736,6 +59540,202 @@
  
  MSRP 
  $41,390 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        Personalize Payment Options
+                   
+ 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+ Schedule Test Drive 
+ Schedule Test Drive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-90 3.3 Turbo Select AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            In Transit
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM3KKAHD1T1411638 
+ 
+ 
+ 
+ Stock:  
+ 
+ #JM3KKAHD1T1411638 
+ 
+ 
+ 
+ Exterior Color:  
+  Deep Crystal Blue Mica 
+ 
+ 
+ Interior Color:  
+ Black Leatherette 
+ 
+ 
+ Highway/City MPG:  
+ 28 / 24 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $41,890 
+ 
+ 
+ Customer Cash  
+ -$2,000 
+ 
+ 
+ Doc Fee 
+ 
+ 
+                                         {{getDollarValue(377.0)}}
+                                       
+ 
+ 
+ Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(35.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $40,302 
+ 
+ 
+ Your Price
+                                                          
+ $40,302 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $41,890 
  
  
  
@@ -62242,7 +62242,7 @@
  
  
  Highway/City MPG:  
- 34 / 26 
+ 28 / 21 
  
  
  
