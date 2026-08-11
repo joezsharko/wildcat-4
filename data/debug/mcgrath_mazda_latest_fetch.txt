@@ -22768,18 +22768,18 @@
  
  VIN:  
  
- JM3KKBHD8T1408564 
+ JM3KKBHD7T1410015 
  
  
  
  Stock:  
  
- #ML2696 
+ #NM6167 
  
  
  
  Exterior Color:  
-  Machine Gray Metallic 
+  Soul Red Crystal Metallic 
  
  
  Interior Color:  
@@ -22795,11 +22795,11 @@
  
  MSRP
   
- $46,085 
+ $45,975 
  
  
  McGrath Savings     
- -$1,259 
+ -$1,237 
  
  
  Customer Cash  
@@ -22828,12 +22828,12 @@
  
  Your Price
                                                           
- $43,238 
+ $43,150 
  
  
  Your Price
                                                           
- $43,238 
+ $43,150 
  
  
  
@@ -22846,7 +22846,7 @@
  
  
  MSRP 
- $46,085 
+ $45,975 
  
  
  
@@ -23298,6 +23298,204 @@
  
  14 
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-90 Preferred                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+                                            At Dealership
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
+ JM3KKBHD8T1408564 
+ 
+ 
+ 
+ Stock:  
+ 
+ #ML2696 
+ 
+ 
+ 
+ Exterior Color:  
+  Machine Gray Metallic 
+ 
+ 
+ Interior Color:  
+ Black 
+ 
+ 
+ Highway/City MPG:  
+ 28 / 23 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $46,085 
+ 
+ 
+ McGrath Savings     
+ -$1,259 
+ 
+ 
+ Customer Cash  
+ -$2,000 
+ 
+ 
+ Doc Fee 
+ 
+ 
+                                         {{getDollarValue(377.0)}}
+                                       
+ 
+ 
+ Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(35.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $43,238 
+ 
+ 
+ Your Price
+                                                          
+ $43,238 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $46,085 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        Personalize Payment Options
+                   
+ 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+ Schedule Test Drive 
+ Schedule Test Drive 
  
  
  
@@ -23910,6 +24108,17 @@
  
  
  
+  What's your car worth? Use our easy online trade-in calculator and get an appraisal today! 
+ Value Your Trade 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
@@ -24099,17 +24308,6 @@
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  What's your car worth? Use our easy online trade-in calculator and get an appraisal today! 
- Value Your Trade 
  
  
  
@@ -25302,204 +25500,6 @@
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-50 2.5 Turbo Premium Plus AWD                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
-                                            At Dealership
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- 7MMVABEY2TN499145 
- 
- 
- 
- Stock:  
- 
- #NM5985 
- 
- 
- 
- Exterior Color:  
-  Zircon Sand Metallic 
- 
- 
- Interior Color:  
- Black Leather 
- 
- 
- Highway/City MPG:  
- 29 / 23 
- 
- 
- 
- 
- 
- MSRP
-  
- $46,240 
- 
- 
- McGrath Savings     
- -$1,388 
- 
- 
- Customer Cash  
- -$1,500 
- 
- 
- Doc Fee 
- 
- 
-                                         {{getDollarValue(377.0)}}
-                                       
- 
- 
- Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(35.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $43,764 
- 
- 
- Your Price
-                                                          
- $43,764 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $46,240 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                                        Personalize Payment Options
-                   
- 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
- Schedule Test Drive 
- Schedule Test Drive 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
    
  
  
@@ -25953,6 +25953,204 @@
  
  VIN:  
  
+ 7MMVABEY2TN499145 
+ 
+ 
+ 
+ Stock:  
+ 
+ #NM5985 
+ 
+ 
+ 
+ Exterior Color:  
+  Zircon Sand Metallic 
+ 
+ 
+ Interior Color:  
+ Black Leather 
+ 
+ 
+ Highway/City MPG:  
+ 29 / 23 
+ 
+ 
+ 
+ 
+ 
+ MSRP
+  
+ $46,240 
+ 
+ 
+ McGrath Savings     
+ -$1,388 
+ 
+ 
+ Customer Cash  
+ -$1,500 
+ 
+ 
+ Doc Fee 
+ 
+ 
+                                         {{getDollarValue(377.0)}}
+                                       
+ 
+ 
+ Electronic Filing Fee 
+ 
+ 
+                                         {{getDollarValue(35.0)}}
+                                       
+ 
+ 
+ 
+                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
+                                                                 
+ - 
+ 
+ 
+ Your Price
+                                                          
+ $43,764 
+ 
+ 
+ Your Price
+                                                          
+ $43,764 
+ 
+ 
+ 
+ 
+ 
+                     Disclosure
+                   
+ 
+ 
+ 
+ 
+ MSRP 
+ $46,240 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                        Personalize Payment Options
+                   
+ 
+ 
+ 
+ 
+  {{inventorySettings.data.buttonLabel}}  
+ 
+ 
+ 
+ 
+ 
+ 
+                        {{inventorySettings.data.buttonLabel}}
+                       
+ 
+ 
+ 
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+                               Get Out The Door Price
+                                
+ 
+ 
+ Schedule Test Drive 
+ Schedule Test Drive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  New 
+ 
+2026 Mazda CX-50 2.5 Turbo Premium Plus AWD                                  
+ 
+ 
+ 
+ 
+ 
+ View All Features 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Location:  
+ 
+ 
+                                            At Dealership
+                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ VIN:  
+ 
  7MMVABEY6TN610831 
  
  
@@ -26226,200 +26424,6 @@
  
  MSRP 
  $50,255 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-                                        Personalize Payment Options
-                   
- 
- 
- 
- 
-  {{inventorySettings.data.buttonLabel}}  
- 
- 
- 
- 
- 
- 
-                        {{inventorySettings.data.buttonLabel}}
-                       
- 
- 
- 
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
-                               Get Out The Door Price
-                                
- 
- 
- Schedule Test Drive 
- Schedule Test Drive 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  New 
- 
-2026 Mazda CX-90 Preferred                                  
- 
- 
- 
- 
- 
- View All Features 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Location:  
- 
- 
-                                            At Dealership
-                                         
- 
- 
- 
- 
- 
- 
- VIN:  
- 
- JM3KKBHD7T1410015 
- 
- 
- 
- Stock:  
- 
- #NM6167 
- 
- 
- 
- Exterior Color:  
-  Soul Red Crystal Metallic 
- 
- 
- Interior Color:  
- Black 
- 
- 
- Highway/City MPG:  
- 28 / 23 
- 
- 
- 
- 
- 
- MSRP
-  
- $45,975 
- 
- 
- McGrath Savings     
- -$1,237 
- 
- 
- Doc Fee 
- 
- 
-                                         {{getDollarValue(377.0)}}
-                                       
- 
- 
- Electronic Filing Fee 
- 
- 
-                                         {{getDollarValue(35.0)}}
-                                       
- 
- 
- 
-                                                                {{unlockCtaDiscountDataByType['new'] && unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel ? unlockCtaDiscountDataByType['new'].unlockDiscountCTAPriceLabel : 'Unlock Discount'}}
-                                                                 
- - 
- 
- 
- Your Price
-                                                          
- $45,150 
- 
- 
- Your Price
-                                                          
- $45,150 
- 
- 
- 
- 
- 
-                     Disclosure
-                   
- 
- 
- 
- 
- MSRP 
- $45,975 
  
  
  
@@ -31110,18 +31114,18 @@
  
  VIN:  
  
- JM1BPAKL0T1903135 
+ JM1BPAKL2T1902908 
  
  
  
  Stock:  
  
- #JM1BPAKL0T1903135 
+ #JM1BPAKL2T1902908 
  
  
  
  Exterior Color:  
-  Machine Gray Metallic 
+  Ceramic Metallic 
  
  
  Interior Color:  
@@ -31306,18 +31310,18 @@
  
  VIN:  
  
- JM1BPAKL2T1902908 
+ JM1BPAKL0T1903135 
  
  
  
  Stock:  
  
- #JM1BPAKL2T1902908 
+ #JM1BPAKL0T1903135 
  
  
  
  Exterior Color:  
-  Ceramic Metallic 
+  Machine Gray Metallic 
  
  
  Interior Color:  
